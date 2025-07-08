@@ -1,17 +1,25 @@
-## Date: 07 July, 2025
+## Date: 08 July, 2025
 
-## RT Jeion's Tasks
+## Md. Emam Mehadi
 |Tasks Title|Completion|
 |-------|-----|
-|Reading|Yes|
+Reading |
 
-## Zubair's Tasks
+## RT Jeion
 |Tasks Title|Completion|
 |-------|-----|
-|Running|Yes|
-|Reading|No|
+Reading|
 
-## Alfi's Tasks
+## Zubair Ahmed 
 |Tasks Title|Completion|
 |-------|-----|
-|Running|Yes|
+Reading|
+
+## Mahmud Hasan
+|Tasks Title|Completion|
+|-------|-----|
+Reading|
+## Alfi Ahmed
+|Tasks Title|Completion|
+|-------|-----|
+Reading|
