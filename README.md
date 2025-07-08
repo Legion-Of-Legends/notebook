@@ -4,5 +4,5 @@
 ---
 |Title|Description|Link|
 -----|------------|------
-**Book**|here we will keep track of our book reading|[Book page](./Book)
+**Books**|here we will keep track of our book reading|[Book page](./Books)
 **Tasks**| here we will keep track of our tasks| [Task page](./Tasks)
