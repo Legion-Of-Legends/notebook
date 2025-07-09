@@ -26,7 +26,9 @@ jobs:
           pip install -r requirements.txt || true
 
       - name: Run task_tracker.py
-        run: python scripts/task_tracker.py
+        run: |
+          cd scripts
+          python task_tracker.py
 
       - name: Commit and push changes
         env:
