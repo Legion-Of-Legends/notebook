@@ -1,4 +1,6 @@
+import os
 import datetime as dt
+
 with open("../Tasks/README.md") as f:
     task_tracker = f.read()
 
@@ -23,22 +25,59 @@ while count < len(member_data_all):
                 continue
             else:
                 task = member_data_all[i].strip().split("|")
-                member_task[task[1].strip()] = task[2].strip()
+                member_task[task[1].strip()] = (True if task[2].strip().lower() == "yes" else False)
                 # member_task[task[0].strip()] = task[1].strip()
         member_data[member_name] = member_task
     count += 1
 
-print(member_data_all)
-print('\n\n',member_data)
+print(member_data)
+# Create directory for reports if it doesn't exist
+file_route = f"../Reports/{task_year}/{task_time.strftime("%B")}.md"
+os.makedirs(os.path.dirname(file_route), exist_ok=True)
 
-with open("task_tracker.md", "w") as f:
-    f.write(f"# Task Tracker for {task_date:02d}-{task_month:02d}-{task_year}\n\n")
-    f.write(f"## Date: {next_day.day} {next_day.strftime('%B')}, {next_day.year}\n\n")
+with open(file_route, "w") as f:
+    f.write(f"# Task Tracker Report for {task_time.strftime('%B %Y')}\n\n")
+    table_data = """
+    <table>
+    <thead>
+    <tr>
+        <th>Member</th>
+        <th>Task</th>
+        <th>Total Days</th>
+        <th>Completed</th>
+        <th>Incompleted</th>
+    </tr>
+    </thead>\n
+    <tbody>
+    """
     for member, tasks in member_data.items():
-        f.write(f"## {member}\n")
-        f.write("| Task | Status |\n")
-        f.write("|------|--------|\n")
-        for task, status in tasks.items():
-            f.write(f"| {task} | {status} |\n")
-        f.write("\n")  # Add a newline after each member's tasks
+        taskbody = ""
+        task_count = 0
+        for task, completed in tasks.items():
+            if task_count == 0:
+                taskbody += f"""
+                <tr>
+                <td rowspan="{len(tasks)}">{member}</td>
+                <td>{task}</td>
+                <td>Total</td>
+                <td>{'Yes' if completed else 'No'}</td>
+                <td>{'No' if completed else 'Yes'}</td></tr>\n
+                """
+                task_count += 1
+                continue
+            taskbody += f"""
+            <tr>
+            <td>{task}</td>
+            <td>Total</td>
+            <td>{'Yes' if completed else 'No'}</td>
+            <td>{'No' if completed else 'Yes'}</td>
+            </tr>\n
+            """
+            task_count += 1
+        table_data += taskbody
+    table_data += """
+        </tbody>
+        </table>
+        """
+    f.write(table_data)
 
