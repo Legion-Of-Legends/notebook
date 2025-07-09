@@ -31,5 +31,14 @@ while count < len(member_data_all):
 print(member_data_all)
 print('\n\n',member_data)
 
-# with open("task_tracker.md", "w") as f:
+with open("task_tracker.md", "w") as f:
+    f.write(f"# Task Tracker for {task_date:02d}-{task_month:02d}-{task_year}\n\n")
+    f.write(f"## Date: {next_day.day} {next_day.strftime('%B')}, {next_day.year}\n\n")
+    for member, tasks in member_data.items():
+        f.write(f"## {member}\n")
+        f.write("| Task | Status |\n")
+        f.write("|------|--------|\n")
+        for task, status in tasks.items():
+            f.write(f"| {task} | {status} |\n")
+        f.write("\n")  # Add a newline after each member's tasks
 
