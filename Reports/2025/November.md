@@ -1,7 +1,5 @@
 # Task Tracker Report for November 2025
-
-
-    <table>
+<table>
     <thead>
     <tr>
         <th>Member</th>
@@ -12,9 +10,9 @@
     </tr>
     </thead>
 
-    <tbody>
+<tbody>
     
-                <tr>
+<tr>
                 <td rowspan="1">Md. Emam Mehadi</td>
                 <td>Reading</td>
                 <td>Total</td>
@@ -22,7 +20,7 @@
                 <td>No</td></tr>
 
                 
-                <tr>
+<tr>
                 <td rowspan="2">RT Jeion</td>
                 <td>Reading</td>
                 <td>Total</td>
@@ -30,7 +28,7 @@
                 <td>No</td></tr>
 
                 
-            <tr>
+<tr>
             <td>Runing</td>
             <td>Total</td>
             <td>No</td>
@@ -38,7 +36,7 @@
             </tr>
 
             
-                <tr>
+<tr>
                 <td rowspan="1">Zubair Ahmed</td>
                 <td>Reading</td>
                 <td>Total</td>
@@ -46,7 +44,7 @@
                 <td>No</td></tr>
 
                 
-                <tr>
+<tr>
                 <td rowspan="1">Mahmud Hasan</td>
                 <td>Reading</td>
                 <td>Total</td>
@@ -54,7 +52,7 @@
                 <td>No</td></tr>
 
                 
-                <tr>
+<tr>
                 <td rowspan="1">Alfi Ahmed</td>
                 <td>Reading</td>
                 <td>Total</td>
@@ -62,6 +60,6 @@
                 <td>No</td></tr>
 
                 
-        </tbody>
+</tbody>
         </table>
         
