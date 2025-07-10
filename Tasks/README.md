@@ -3,32 +3,27 @@
 ## Md. Emam Mehadi
 |Tasks|Completed|
 |-------|-----|
-|Tasks|No|
-|Reading|No|
-|Running|No|
+|Reading | No|
+|Running | No|
+|Reviewing | No|
 ## RT Jeion
 |Tasks|Completed|
 |-------|-----|
-|Tasks|No|
-|Reading|No|
-|Runing|No|
+|Reading | No|
+|Running | No|
 ## Zubair Ahmed
 |Tasks|Completed|
 |-------|-----|
-|Tasks|No|
-|Reading|No|
+|Reading | No|
 ## Mahmud Hasan
 |Tasks|Completed|
 |-------|-----|
-|Tasks|No|
-|Reading|No|
+|Reading | No|
 ## Alfi Ahmed
 |Tasks|Completed|
 |-------|-----|
-|Tasks|No|
-|Reading|No|
+|Reading | No|
 ## New Member
 |Tasks|Completed|
 |-------|-----|
-|Tasks|No|
-|Reading|No|
+|Reading | No|

@@ -23,7 +23,7 @@ while count < len(member_data_all):
         for i in range(count + 1, len(member_data_all)):
             if member_data_all[i].startswith("##"):
                 break
-            elif member_data_all[i].startswith("|--") or member_data_all[i].startswith("|Tasks ") or member_data_all[i].strip() == "":
+            elif member_data_all[i].startswith("|--") or member_data_all[i].startswith("|Tasks") or member_data_all[i].strip() == "":
                 continue
             else:
                 task = member_data_all[i].strip().split("|")
@@ -162,6 +162,7 @@ with open(file_route, "w") as f:
     f.write(table_data)
 
 # Reseting the task file
+print(member_data)
 with open("../Tasks/README.md", "w") as f:
     f.write(f"## Date: {next_day.strftime('%d %B, %Y')}\n\n")
     for member in member_data.keys():
@@ -169,4 +170,4 @@ with open("../Tasks/README.md", "w") as f:
         f.write("|Tasks|Completed|\n")
         f.write("|-------|-----|\n")
         for task in member_data[member].keys():
-            f.write(f"|{task}|No|\n")
+            f.write(f"|{task} | No|\n")
