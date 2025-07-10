@@ -2,7 +2,7 @@ name: Daily Task Tracker
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Runs at 12:00 PM UTC daily
+    - cron: '18 18 * * *'  # Runs at 12:00 AM UTC daily
   workflow_dispatch:      # Optional: Manual trigger for testing
 
 jobs:

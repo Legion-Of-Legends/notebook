@@ -1,26 +1,34 @@
-## Date: 08 November, 2025
+## Date: 11 July, 2025
 
 ## Md. Emam Mehadi
-|Tasks Title|Completion|
+|Tasks|Completed|
 |-------|-----|
-|Reading | yes|
-
+|Tasks|No|
+|Reading|No|
+|Running|No|
 ## RT Jeion
-|Tasks Title|Completion|
+|Tasks|Completed|
 |-------|-----|
-|Reading| yes|
-|Runing| no|
-
-## Zubair Ahmed 
-|Tasks Title|Completion|
+|Tasks|No|
+|Reading|No|
+|Runing|No|
+## Zubair Ahmed
+|Tasks|Completed|
 |-------|-----|
-|Reading| yes|
-
+|Tasks|No|
+|Reading|No|
 ## Mahmud Hasan
-|Tasks Title|Completion|
+|Tasks|Completed|
 |-------|-----|
-|Reading| yes|
+|Tasks|No|
+|Reading|No|
 ## Alfi Ahmed
-|Tasks Title|Completion|
+|Tasks|Completed|
 |-------|-----|
-|Reading| yes|
+|Tasks|No|
+|Reading|No|
+## New Member
+|Tasks|Completed|
+|-------|-----|
+|Tasks|No|
+|Reading|No|
