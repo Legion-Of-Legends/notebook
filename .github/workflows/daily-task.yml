@@ -2,7 +2,7 @@ name: Daily Task Tracker
 
 on:
   schedule:
-    - cron: '0 18 * * *'  # Runs at 12:00 AM UTC daily
+    - cron: '59 17 * * *'  # Runs at 11:59 AM UTC daily
   workflow_dispatch:      # Optional: Manual trigger for testing
 
 jobs:
@@ -23,7 +23,9 @@ jobs:
       - name: Install dependencies (if any)
         run: |
           python -m pip install --upgrade pip
+          cd scripts
           pip install -r requirements.txt || true
+          cd ..
 
       - name: Run task_tracker.py
         run: |
