@@ -15,80 +15,71 @@
 <tbody>
 
 <tr>
-<td rowspan="3">[Md. Emam Mehedi](https://github.com/mdemammehedi-159)</td>
+<td rowspan="3"><a href="https://github.com/mdemammehedi-159">Md. Emam Mehedi</a></td>
 <td>Reading</td>
-<td>10</td>
-<td>6</td>
 <td>4</td>
+<td>1</td>
+<td>3</td>
 </tr>
 
 
 <tr>
 <td>Running</td>
-<td>10</td>
-<td>6</td>
 <td>4</td>
+<td>1</td>
+<td>3</td>
 </tr>
 
 
 <tr>
 <td>Reviewing</td>
-<td>5</td>
-<td>0</td>
-<td>5</td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
 </tr>
 
 
 <tr>
-<td rowspan="2">[RT Jeion](https://github.com/RT-Jeion)</td>
+<td rowspan="2"><a href="https://github.com/RT-Jeion">RT Jeion</a></td>
 <td>Reading</td>
-<td>10</td>
-<td>6</td>
 <td>4</td>
+<td>1</td>
+<td>3</td>
 </tr>
 
 
 <tr>
 <td>Running</td>
-<td>10</td>
-<td>5</td>
-<td>5</td>
-</tr>
-
-
-<tr>
-<td rowspan="1">[Zubair Ahmed](https://github.com/zubair-rex)</td>
-<td>Reading</td>
-<td>10</td>
-<td>7</td>
-<td>3</td>
-</tr>
-
-
-<tr>
-<td rowspan="1">[Mahmud Hasan](https://github.com/mahmud1223)</td>
-<td>Reading</td>
-<td>10</td>
-<td>7</td>
-<td>3</td>
-</tr>
-
-
-<tr>
-<td rowspan="1">[Alfi Ahmed](https://github.com/alfiahmed160)</td>
-<td>Reading</td>
-<td>10</td>
-<td>6</td>
 <td>4</td>
+<td>1</td>
+<td>3</td>
 </tr>
 
 
 <tr>
-<td rowspan="1">New Member</td>
+<td rowspan="1"><a href="https://github.com/zubair-rex">Zubair Ahmed</a></td>
 <td>Reading</td>
-<td>10</td>
-<td>5</td>
-<td>5</td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+</tr>
+
+
+<tr>
+<td rowspan="1"><a href="https://github.com/mahmud1223">Mahmud Hasan</a></td>
+<td>Reading</td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
+</tr>
+
+
+<tr>
+<td rowspan="1"><a href="https://github.com/alfiahmed160">Alfi Ahmed</a></td>
+<td>Reading</td>
+<td>4</td>
+<td>1</td>
+<td>3</td>
 </tr>
 
 

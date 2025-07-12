@@ -1,4 +1,4 @@
-## Date: 12 July, 2025
+## Date: 13 July, 2025
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks|Completed|
@@ -20,10 +20,6 @@
 |-------|-----|
 |Reading | No|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
-|Tasks|Completed|
-|-------|-----|
-|Reading | No|
-## New Member
 |Tasks|Completed|
 |-------|-----|
 |Reading | No|

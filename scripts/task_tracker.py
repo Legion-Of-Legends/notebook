@@ -15,10 +15,13 @@ next_day = dt.datetime.now() + dt.timedelta(days=1)
 
 member_data_all = task_tracker.split("\n")[2:]
 member_data = {}
+member_name_github = {}
 count = 0
 while count < len(member_data_all):
     if member_data_all[count].startswith("##"):
-        member_name = member_data_all[count].split("##")[1].strip()
+        member_name = member_data_all[count].split("##")[1].strip().split("]")[0].strip()[1:]
+        member_github = member_data_all[count].split("##")[1].strip().split("(")[1].strip()[:-1]
+        member_name_github[member_name] = member_github
         member_task={}
         for i in range(count + 1, len(member_data_all)):
             if member_data_all[i].startswith("##"):
@@ -135,7 +138,7 @@ with open(file_route, "w") as f:
             if task_count == 0:
                 taskbody += f"""
                 <tr>
-                <td rowspan="{len(tasks)}">{member}</td>
+                <td rowspan="{len(tasks)}"><a href="{member_name_github[member]}">{member}</a></td>
                 <td>{task['task']}</td>
                 <td>{task['total']}</td>
                 <td>{task['completed']}</td>
@@ -166,7 +169,7 @@ print(member_data)
 with open("../Tasks/README.md", "w") as f:
     f.write(f"## Date: {next_day.strftime('%d %B, %Y')}\n\n")
     for member in member_data.keys():
-        f.write(f"## {member}\n")
+        f.write(f"## [{member}]({member_name_github[member]})\n")
         f.write("|Tasks|Completed|\n")
         f.write("|-------|-----|\n")
         for task in member_data[member].keys():
