@@ -14,7 +14,14 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks|Completed|
 |-------|-----|
-|Reading | No|
+|Reading 30min - 1hour | No|
+|General writing 30min - 1hour | No|
+|Copywriting minimun 1 copy | No|
+|Analyse copy 30min - 1hour | No|
+|(`,~.) 1 hour minimum | No|
+|Practice English 10-30min | No|
+|avoid one bad habit | No|
+|Workout 30-40min minimum | No|
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
 |-------|-----|
