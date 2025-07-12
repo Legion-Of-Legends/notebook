@@ -33,12 +33,6 @@ jobs:
           python task_tracker.py
           cd ..
       
-      - name: Run word replacement script
-        run: |
-          cd scripts
-          python word_replacer.py
-          cd ..
-
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.ORG_ACTION_TOKEN }}
