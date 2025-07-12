@@ -19,6 +19,7 @@
 |Tasks|Completed|
 |-------|-----|
 |Reading | No|
+|Solving a problem on leetcode | No|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
 |-------|-----|
