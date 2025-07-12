@@ -25,8 +25,9 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
 |-------|-----|
-|Reading | No|
+|Reading (The power of 48 laws)| No|
 |Solving a problem on leetcode | No|
+|Learning a new alogrithm      | No|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
 |-------|-----|
