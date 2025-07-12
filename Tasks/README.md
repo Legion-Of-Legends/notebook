@@ -3,13 +3,13 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks|Completed|
 |-------|-----|
-|Balanced and Unbalanced Circuit| No|
-|Coupled Circuit| No |
-|Can't Hurt Me| No |
+|Balanced and Unbalanced Circuit | No|
+|Coupled Circuit | No|
+|Can't Hurt Me | No|
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks|Completed|
 |-------|-----|
-|Reading | Yes|
+|Reading | No|
 |Running | No|
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks|Completed|
