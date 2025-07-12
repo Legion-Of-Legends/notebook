@@ -6,4 +6,4 @@
 |[Eat that frog]()|Brian Tracy| Self-help|[Alfi Ahmed](https://github.com/alfiahmed160)|11|![Status](https://img.shields.io/badge/Completed-green?style=plastic)|15/06/2025|01/07/2025
 |[The Art of Thinking Clearly](./Book%20notes/The%20Art%20of%20Thinking%20Clearly.md)|Rolf Dobelli| Self-help|[RT Jeion](https://github.com/RT-Jeion)|11|![Status](https://img.shields.io/badge/Not%20Started-red?style=plastic)|15/06/2025|
 |[The Art of Thinking Clearly](./Book%20notes/The%20Art%20of%20Thinking%20Clearly.md)|Rolf Dobelli| Self-help|[RT Jeion](https://github.com/RT-Jeion)|11|![Status](https://img.shields.io/badge/Ongoing-yellow?style=plastic)|15/06/2025|
-|[The 48 laws of power](./Book%20The%2048%20laws%20of%20power.md)| Robert Greene| Psycology|[Mahmud Hasan](https://github.com/mahmud1223)|0|![Status](https://img.shields.io/badge/Ongoing-yellow?style=plastic)|13/07/2025||
+|[The 48 laws of power](./Books%20Notes/The%2048%20laws%20of%20power.md)| Robert Greene| Psycology|[Mahmud Hasan](https://github.com/mahmud1223)|0|![Status](https://img.shields.io/badge/Ongoing-yellow?style=plastic)|13/07/2025||
