@@ -3,9 +3,6 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks|Completed|
 |-------|-----|
-|Reading | No|
-|Running | No|
-|Reviewing | No|
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks|Completed|
 |-------|-----|
