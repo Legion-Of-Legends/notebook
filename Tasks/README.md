@@ -3,10 +3,12 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks|Completed|
 |-------|-----|
+|Reading| No|
+|Writing| Yes|
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks|Completed|
 |-------|-----|
-|Reading | No|
+|Reading | Yes|
 |Running | No|
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks|Completed|
