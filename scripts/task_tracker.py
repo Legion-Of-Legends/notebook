@@ -30,7 +30,7 @@ while count < len(member_data_all):
                 continue
             else:
                 task = member_data_all[i].strip().split("|")
-                member_task[task[1].strip()] = (True if task[2].strip().lower() == "yes" else False)
+                member_task[task[1].strip()] = (True if "[x]" in task[2].strip().lower() else False)
                 # member_task[task[0].strip()] = task[1].strip()
         member_data[member_name] = member_task
     count += 1
@@ -165,12 +165,8 @@ with open(file_route, "w") as f:
     f.write(table_data)
 
 # Reseting the task file
-print(member_data)
 with open("../Tasks/README.md", "w") as f:
-    f.write(f"## Date: {next_day.strftime('%d %B, %Y')}\n\n")
-    for member in member_data.keys():
-        f.write(f"## [{member}]({member_name_github[member]})\n")
-        f.write("|Tasks|Completed|\n")
-        f.write("|-------|-----|\n")
-        for task in member_data[member].keys():
-            f.write(f"|{task} | No|\n")
+    # replace the date with the next day in task_tracker
+    task_tracker = task_tracker.replace(f"## Date: {task_time.strftime('%d %B, %Y')}", f"## Date: {next_day.strftime('%d %B, %Y')} \n").replace("[x]", "[ ]").replace("[X]", "[ ]")  # Resetting all tasks to incompleted
+    print(task_tracker)
+    f.write(task_tracker)
