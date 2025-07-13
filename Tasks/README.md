@@ -12,7 +12,7 @@
 |Reading 30 min - 1 hour| <ul><li>[x] done</li></ul>|
 |Workout                | <ul><li>[ ] done</li></ul>|
 |Learning Python        |<ul><li>[x] done</li></ul>|
-|NBMM                   |<ul><li>[ ] done</li></ul>|
+|NBMM                   |<ul><li>[x] done</li></ul>|
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks|Completed|
 |-------|-----|
