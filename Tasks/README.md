@@ -21,6 +21,7 @@
 |Copywriting minimun 1 copy | No|
 |Analyse copy 30min - 1hour | No|
 |(`,~.) 1 hour minimum | No|
+|(v!^^) 20min minimum | No|
 |Practice English 10-30min | No|
 |avoid one bad habit | No|
 |Workout 30-40min minimum | No|
