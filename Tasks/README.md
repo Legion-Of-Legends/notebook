@@ -27,9 +27,9 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
 |-------|-----|
-|Reading (The power of 48 laws)| No|
-|Solving a problem on leetcode | No|
-|Learning a new alogrithm      | No|
+|Reading (The power of 48 laws) 30-min| No|
+|Solving a problem on leetcode (one problem) | No|
+|Learning a new algorithm (one algorithm| No|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
 |-------|-----|
