@@ -17,7 +17,7 @@
 |Tasks|Completed|
 |-------|-----|
 |Reading 30min - 1hour | No|
-|General writing 30min - 1hour | No|
+|General writing 30min - 1hour | Yes|
 |Copywriting minimun 1 copy | No|
 |Analyse copy 30min - 1hour | No|
 |(`,~.) 1 hour minimum | No|
