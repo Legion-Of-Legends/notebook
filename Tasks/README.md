@@ -3,38 +3,38 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks|Completed|
 |-------|-----|
-|Balanced and Unbalanced Circuit | No|
-|Coupled Circuit | No|
-|Can't Hurt Me | No|
+|Balanced and Unbalanced Circuit | <ul><li>[ ] done</li></ul>|
+|Coupled Circuit                 | <ul><li>[ ] done</li></ul>|
+|Can't Hurt Me                   | <ul><li>[ ] done</li></ul>|
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks|Completed|
 |-------|-----|
-|Reading 30 min - 1 hour| No|
-|Workout | No|
-|Learning Python|No|
-|NBMM|No|
+|Reading 30 min - 1 hour| <ul><li>[ ] done</li></ul>|
+|Workout                | <ul><li>[ ] done</li></ul>|
+|Learning Python        |<ul><li>[ ] done</li></ul>|
+|NBMM                   |<ul><li>[ ] done</li></ul>|
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks|Completed|
 |-------|-----|
-|Reading 30min - 1hour | No|
-|General writing 30min - 1hour | Yes|
-|Copywriting minimun 1 copy | No|
-|Analyse copy 30min - 1hour | Yes|
-|(`,~.) 1 hour minimum | No|
-|(v!^^) 20min minimum | No|
-|Practice English 10-30min | No|
-|avoid one bad habit | No|
-|Workout 30-40min minimum | No|
+|Reading 30min - 1hour         | <ul><li>[ ] done</li></ul>|
+|General writing 30min - 1hour | <ul><li>[x] done</li></ul>|
+|Copywriting minimun 1 copy    | <ul><li>[ ] done</li></ul>|
+|Analyse copy 30min - 1hour    | <ul><li>[x] done</li></ul>|
+|(`,~.) 1 hour minimum         | <ul><li>[ ] done</li></ul>|
+|(v!^^) 20min minimum          | <ul><li>[ ] done</li></ul>|
+|Practice English 10-30min     | <ul><li>[ ] done</li></ul>|
+|avoid one bad habit           | <ul><li>[ ] done</li></ul>|
+|Workout 30-40min minimum      | <ul><li>[ ] done</li></ul>|
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
 |-------|-----|
-|Reading (The power of 48 laws) 30-min| No|
-|Solving a problem on leetcode (one problem) | No|
-|Learning a new algorithm (one algorithm| No|
+|Reading (The power of 48 laws) 30-min       | <ul><li>[ ] done</li></ul>|
+|Solving a problem on leetcode (one problem) | <ul><li>[ ] done</li></ul>|
+|Learning a new algorithm (one algorithm)    | <ul><li>[ ] done</li></ul>|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
 |-------|-----|
-| Physical Exercise- 30 minutes to 1Hour | No|
-|"Eat that Frog" Book-30 to 40 minutes| No|
-|Arabic Language-20 to 30 minutes | No|
-|Entertainment- 1Hour| No|
+| Physical Exercise- 30 minutes to 1Hour | <ul><li>[ ] done</li></ul>|
+|"Eat that Frog" Book-30 to 40 minutes   | <ul><li>[ ] done</li></ul>|
+|Arabic Language-20 to 30 minutes        | <ul><li>[ ] done</li></ul>|
+|Entertainment- 1Hour                    | <ul><li>[ ] done</li></ul>|
