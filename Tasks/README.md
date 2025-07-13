@@ -13,17 +13,17 @@
 |Workout                | <ul><li>[ ] done</li></ul>|
 |Learning Python        |<ul><li>[x] done</li></ul>|
 |NBMM                   |<ul><li>[x] done</li></ul>|
-## [Zubair Ahmed](https://github.com/zubair-rex)
+## [Zubair Ahmed](https://github.com/zubair-rex) 
 |Tasks|Completed|
 |-------|-----|
-|Reading 30min - 1hour         | <ul><li>[ ] done</li></ul>|
+|Reading 30min - 1hour         | <ul><li>[x] done</li></ul>|
 |General writing 30min - 1hour | <ul><li>[x] done</li></ul>|
 |Copywriting minimun 1 copy    | <ul><li>[ ] done</li></ul>|
 |Analyse copy 30min - 1hour    | <ul><li>[x] done</li></ul>|
 |(`,~.) 1 hour minimum         | <ul><li>[x] done</li></ul>|
 |(v!^^) 20min minimum          | <ul><li>[x] done</li></ul>|
 |Practice English 10-30min     | <ul><li>[x] done</li></ul>|
-|avoid one bad habit           | <ul><li>[ ] done</li></ul>|
+|avoid one bad habit           | <ul><li>[x] done</li></ul>|
 |Workout 30-40min minimum      | <ul><li>[x] done</li></ul>|
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
