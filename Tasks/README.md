@@ -24,7 +24,7 @@
 |(v!^^) 20min minimum          | <ul><li>[x] done</li></ul>|
 |Practice English 10-30min     | <ul><li>[x] done</li></ul>|
 |avoid one bad habit           | <ul><li>[ ] done</li></ul>|
-|Workout 30-40min minimum      | <ul><li>[ ] done</li></ul>|
+|Workout 30-40min minimum      | <ul><li>[x] done</li></ul>|
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
 |-------|-----|
