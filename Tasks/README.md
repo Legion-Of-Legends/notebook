@@ -21,7 +21,7 @@
 |Copywriting minimun 1 copy    | <ul><li>[ ] done</li></ul>|
 |Analyse copy 30min - 1hour    | <ul><li>[x] done</li></ul>|
 |(`,~.) 1 hour minimum         | <ul><li>[ ] done</li></ul>|
-|(v!^^) 20min minimum          | <ul><li>[ ] done</li></ul>|
+|(v!^^) 20min minimum          | <ul><li>[x] done</li></ul>|
 |Practice English 10-30min     | <ul><li>[ ] done</li></ul>|
 |avoid one bad habit           | <ul><li>[ ] done</li></ul>|
 |Workout 30-40min minimum      | <ul><li>[ ] done</li></ul>|
