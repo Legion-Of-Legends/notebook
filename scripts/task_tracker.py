@@ -11,7 +11,7 @@ task_time = dt.datetime.strptime(task_tracker.split("## Date:")[1].strip().split
 task_date = task_time.day
 task_month = task_time.month
 task_year = task_time.year
-next_day = dt.datetime.now() + dt.timedelta(days=1)
+next_day = dt.datetime.now()
 
 member_data_all = task_tracker.split("\n")[2:]
 member_data = {}
