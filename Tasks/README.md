@@ -19,7 +19,7 @@
 |Reading 30min - 1hour | No|
 |General writing 30min - 1hour | Yes|
 |Copywriting minimun 1 copy | No|
-|Analyse copy 30min - 1hour | No|
+|Analyse copy 30min - 1hour | Yes|
 |(`,~.) 1 hour minimum | No|
 |(v!^^) 20min minimum | No|
 |Practice English 10-30min | No|
