@@ -3,7 +3,7 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks|Completed|
 |-------|-----|
-|Balanced and Unbalanced Circuit | <ul><li>[ ] done</li></ul>|
+|Balanced and Unbalanced Circuit | <ul><li>[x ] done</li></ul>|
 |Coupled Circuit                 | <ul><li>[ ] done</li></ul>|
 |Can't Hurt Me                   | <ul><li>[ ] done</li></ul>|
 ## [RT Jeion](https://github.com/RT-Jeion)
