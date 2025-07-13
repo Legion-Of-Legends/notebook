@@ -9,8 +9,10 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks|Completed|
 |-------|-----|
-|Reading | No|
-|Running | No|
+|Reading 30 min - 1 hour| No|
+|Workout | No|
+|Learning Python|No|
+|NBMM|No|
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks|Completed|
 |-------|-----|
