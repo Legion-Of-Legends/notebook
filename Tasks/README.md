@@ -31,4 +31,7 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
 |-------|-----|
-|Reading | No|
+| Physical Exercise- 30 minutes to 1Hour | No|
+|"Eat that Frog" Book-30 to 40 minutes| No|
+|Arabic Language-20 to 30 minutes | No|
+|Entertainment- 1Hour| No|
