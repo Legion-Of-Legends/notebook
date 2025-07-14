@@ -11,7 +11,7 @@ task_time = dt.datetime.strptime(task_tracker.split("## Date:")[1].strip().split
 task_date = task_time.day
 task_month = task_time.month
 task_year = task_time.year
-next_day = dt.datetime.now()
+next_day = dt.datetime.now() + dt.timedelta(days=1)
 
 member_data_all = task_tracker.split("\n")[2:]
 member_data = {}
@@ -167,6 +167,6 @@ with open(file_route, "w") as f:
 # Reseting the task file
 with open("../Tasks/README.md", "w") as f:
     # replace the date with the next day in task_tracker
-    task_tracker = task_tracker.replace(f"## Date: {task_time.strftime('%d %B, %Y')}", f"## Date: {next_day.strftime('%d %B, %Y')} \n").replace("[x]", "[ ]").replace("[X]", "[ ]")  # Resetting all tasks to incompleted
+    task_tracker = task_tracker.replace(f"## Date: {task_time.strftime('%d %B, %Y')}", f"## Date: {next_day.strftime('%d %B, %Y')}\n").replace("[x]", "[ ]").replace("[X]", "[ ]")  # Resetting all tasks to incompleted
     print(task_tracker)
     f.write(task_tracker)
