@@ -17,7 +17,7 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex) 
 |Tasks|Completed|
 |-------|-----|
-|Reading 30min - 1hour         | <ul><li>[ ] done</li></ul>|
+|Reading 30min - 1hour         | <ul><li>[x] done</li></ul>|
 |General writing 30min - 1hour | <ul><li>[ ] done</li></ul>|
 |Copywriting minimun 1 copy    | <ul><li>[ ] done</li></ul>|
 |Analyse copy 30min - 1hour    | <ul><li>[ ] done</li></ul>|
