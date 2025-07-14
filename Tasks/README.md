@@ -30,7 +30,7 @@
 |Tasks|Completed|
 |-------|-----|
 |Reading (The power of 48 laws) 30-min        | <ul><li>[x] done</li></ul>|
-|Solving a problem on leetcode (one problem)  | <ul><li>[ ] done</li></ul>|
+|Solving a problem on leetcode (one problem)  | <ul><li>[x] done</li></ul>|
 |Learning a new cube algorithm (one algorithm)| <ul><li>[ ] done</li></ul>|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
