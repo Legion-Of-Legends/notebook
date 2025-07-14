@@ -20,9 +20,11 @@ This page is about the [Book](../Books) guide. How you can add new book and use 
 7. Add a new book entry in the following format at the end of the markdown table you see there:
    ```markdown
    |[<Test Book>](./Books%20Notes/<Test%20Book.md>)| <Author>| <Gener>|[<Your name>](https://github.com/<Your Github Username>)|<Current Reading Page>|![Status](https://img.shields.io/badge/<Status>-<Color>?style=plastic)|<Start date>|<End date>|
+     ↑↑↑↑↑↑↑↑↑↑↑↑↑                   ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑     ↑↑↑↑↑↑↑     ↑↑↑↑↑    ↑↑↑↑↑↑↑↑↑↑↑                       ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑    ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑                                          ↑↑↑↑↑↑↑   ↑↑↑↑↑↑                  ↑↑↑↑↑↑↑↑↑↑↑↑   ↑↑↑↑↑↑↑↑↑
    ```
 > [!NOTE]
-> Replace only the placeholders(`<``>`) with the actual values for the book you are adding. Here is a placeholder description of each field:
+> Replace only the placeholders(`<`PlACEHOLDER`>`) with the actual values for the book you are adding. For you help the editable fields are also marked with these `↑` below them.
+> Here is a placeholder description of each field:
 > - `<Test Book>`: The title of the book.
 > - `<Test%20Book.md>`: The name of the markdown file you created in step 2. Note that spaces are replaced with `%20`.
 > - `<Author>`: The author of the book.
