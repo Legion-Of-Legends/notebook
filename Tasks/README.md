@@ -1,4 +1,5 @@
-## Date: 14 July, 2025
+## Date: 15 July, 2025
+
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -10,10 +11,10 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks|Completed|
 |-------|-----|
-|Reading 30 min - 1 hour| <ul><li>[x] done</li></ul>|
-|Workout                | <ul><li>[x] done</li></ul>|
-|Learning Python        |<ul><li>[x] done</li></ul>|
-|NBMM                   |<ul><li>[x] done</li></ul>|
+|Reading 30 min - 1 hour| <ul><li>[ ] done</li></ul>|
+|Workout                | <ul><li>[ ] done</li></ul>|
+|Learning Python        |<ul><li>[ ] done</li></ul>|
+|NBMM                   |<ul><li>[ ] done</li></ul>|
 ## [Zubair Ahmed](https://github.com/zubair-rex) 
 |Tasks|Completed|
 |-------|-----|
@@ -30,17 +31,17 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
 |-------|-----|
-|Reading (The power of 48 laws) 30-min        | <ul><li>[x] done</li></ul>|
-|Solving a problem on leetcode (one problem)  | <ul><li>[x] done</li></ul>|
+|Reading (The power of 48 laws) 30-min        | <ul><li>[ ] done</li></ul>|
+|Solving a problem on leetcode (one problem)  | <ul><li>[ ] done</li></ul>|
 |Learning a new cube algorithm (one algorithm)| <ul><li>[ ] done</li></ul>|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
 |-------|-----|
-| Physical Exercise- 30 minutes to 1Hour | <ul><li>[x] done</li></ul>|
-|"Eat that Frog" Book-30 to 40 minutes   | <ul><li>[x] done</li></ul>|
-|Arabic Language-20 to 30 minutes        | <ul><li>[x] done</li></ul>|
-|Entertainment- 1Hour                    | <ul><li>[x] done</li></ul>|
+| Physical Exercise- 30 minutes to 1Hour | <ul><li>[ ] done</li></ul>|
+|"Eat that Frog" Book-30 to 40 minutes   | <ul><li>[ ] done</li></ul>|
+|Arabic Language-20 to 30 minutes        | <ul><li>[ ] done</li></ul>|
+|Entertainment- 1Hour                    | <ul><li>[ ] done</li></ul>|
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks|Completed|
 |-------|-----|
-|reading | <ul><li>[x] done</li></ul>|
+|reading | <ul><li>[ ] done</li></ul>|
