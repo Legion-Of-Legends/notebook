@@ -26,7 +26,7 @@
 |Practice English 10-30min       | <ul><li>[ ] done</li></ul>|
 |avoid one bad habit             | <ul><li>[ ] done</li></ul>|
 |Workout 30-40min minimum        | <ul><li>[ ] done</li></ul>|
-|noAnimeOrYT no entertainment| <ul><li>[ ] done</li></ul>|
+|noAnimeOrYT no entertainment<br> yt only for learning specific skills<br> not even educational videos| <ul><li>[ ] done</li></ul>|
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
 |-------|-----|
