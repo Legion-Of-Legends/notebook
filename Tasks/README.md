@@ -17,15 +17,15 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex) 
 |Tasks|Completed|
 |-------|-----|
-|Reading minimun 1 hour                         | <ul><li>[ ] done</li></ul>|
-|General writing 30min - 1hour                  | <ul><li>[ ] done</li></ul>|
-|Copywriting minimum 1 copy                     | <ul><li>[ ] done</li></ul>|
-|Analyse minimum 2 copies <br>(with notes)      | <ul><li>[ ] done</li></ul>|
+|Workout 30-40min minimum                       | <ul><li>[ ] done</li></ul>|
 |(`,~.) 2 hour minimum                          | <ul><li>[ ] done</li></ul>|
 |(v!^^) 30min minimum                           | <ul><li>[ ] done</li></ul>|
+|Analyse minimum 2 copies <br>(with notes)      | <ul><li>[ ] done</li></ul>|
+|Copywriting minimum 1 copy                     | <ul><li>[ ] done</li></ul>|
+|General writing 30min - 1hour                  | <ul><li>[ ] done</li></ul>|
+|Reading minimun 2 hour                         | <ul><li>[ ] done</li></ul>|
 |Practice English 10-30min                      | <ul><li>[ ] done</li></ul>|
 |avoid one bad habit                            | <ul><li>[ ] done</li></ul>|
-|Workout 30-40min minimum                       | <ul><li>[ ] done</li></ul>|
 |noAnimeOrYT no entertainment<br> yt only for learning specific skills<br> not even educational videos| <ul><li>[ ] done</li></ul>|
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks|Completed|
