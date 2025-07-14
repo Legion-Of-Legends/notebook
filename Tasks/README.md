@@ -19,7 +19,7 @@
 |-------|-----|
 |Reading minimun 1 hour          | <ul><li>[x] done</li></ul>|
 |General writing 30min - 1hour   | <ul><li>[ ] done</li></ul>|
-|Copywriting minimun 1 copy      | <ul><li>[ ] done</li></ul>|
+|Copywriting minimum 1 copy      | <ul><li>[ ] done</li></ul>|
 |Analyse copy 30min - 1hour      | <ul><li>[ ] done</li></ul>|
 |(`,~.) 2 hour minimum           | <ul><li>[ ] done</li></ul>|
 |(v!^^) 30min minimum            | <ul><li>[ ] done</li></ul>|
