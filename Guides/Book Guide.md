@@ -1,7 +1,7 @@
 # Book Guide
 This page is about the [Book](../Books) guide. How you can add new book and use it to keep track of your reading progress and keep notes of it.
 ## Steps to add a new book
-1. Open the Book Note page. [link](../Books%20Notes)
+1. Open the Book Note page. [link](../Books/Books%20Notes)
 2. Create a new markdown file with the name of the book you want to add, following this format: `Test Book.md`.
 3. Add the following template to the newly created markdown file:
    ```markdown
