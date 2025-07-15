@@ -44,4 +44,7 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks|Completed|
 |-------|-----|
-|reading | <ul><li>[ ] done</li></ul>|
+| Exercise- 20 minutes to 30 minutes | <ul><li>[ ] done</li></ul>|
+|Autocad disign learnig minimum 1 hours | <ul><li>[ ] done</li></ul>|
+|English Language - Minimum 50 minutes  | <ul><li>[ ] done</li></ul>|
+|"The power of prositive thinking" Book 30 minutes  | <ul><li>[ ] done</li></ul>|
