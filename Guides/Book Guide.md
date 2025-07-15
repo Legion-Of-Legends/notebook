@@ -19,7 +19,7 @@ This page is about the [Book](../Books) guide. How you can add new book and use 
 6. Edit the `README.md` file in the `Books` folder.
 7. Add a new book entry in the following format at the end of the markdown table you see there:
    ```markdown
-   |[<Test Book>](./Books%20Notes/<Test%20Book.md>)| <Author>| <Gener>|[<Your name>](https://github.com/<Your Github Username>)|<Current Reading Page>|![Status](https://img.shields.io/badge/<Status>-<Color>?style=plastic)|<Start date>|<End date>|
+   |[<Test Book>](./Books%20Notes/<Test%20Book.md>)|<Pdf source>|<Author>| <Gener>|[<Your name>](https://github.com/<Your Github Username>)|<Current Reading Page>|![Status](https://img.shields.io/badge/<Status>-<Color>?style=plastic)|<Start date>|<End date>|
      ↑↑↑↑↑↑↑↑↑↑↑↑↑                   ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑     ↑↑↑↑↑↑↑     ↑↑↑↑↑    ↑↑↑↑↑↑↑↑↑↑↑                       ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑    ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑                                          ↑↑↑↑↑↑↑   ↑↑↑↑↑↑                  ↑↑↑↑↑↑↑↑↑↑↑↑   ↑↑↑↑↑↑↑↑↑
    ```
 > [!NOTE]
@@ -27,6 +27,7 @@ This page is about the [Book](../Books) guide. How you can add new book and use 
 > Here is a placeholder description of each field:
 > - `<Test Book>`: The title of the book.
 > - `<Test%20Book.md>`: The name of the markdown file you created in step 2. Note that spaces are replaced with `%20`.
+> - `<Pdf source>`: Pdf source should be the link of the book's pdf, ebook or epub version.
 > - `<Author>`: The author of the book.
 > - `<Gener>`: The genre of the book.
 > - `<Your name>`: Your name or username.
