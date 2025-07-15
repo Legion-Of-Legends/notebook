@@ -37,10 +37,10 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks|Completed|
 |-------|-----|
-| Physical Exercise- 30 minutes to 1Hour | <ul><li>[ ] done</li></ul>|
+| Physical Exercise- 30 minutes to 1Hour | <ul><li>[x] done</li></ul>|
 |"Eat that Frog" Book-30 to 40 minutes   | <ul><li>[ ] done</li></ul>|
-|Arabic Language-20 to 30 minutes        | <ul><li>[ ] done</li></ul>|
-|Entertainment- 1Hour                    | <ul><li>[ ] done</li></ul>|
+|Arabic Language-20 to 30 minutes        | <ul><li>[x] done</li></ul>|
+|Entertainment- 1Hour                    | <ul><li>[x] done</li></ul>|
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks|Completed|
 |-------|-----|
