@@ -10,3 +10,4 @@ Guide page: [Book Track Guide](../Guides/Book%20Guide.md)
 |[The Art of Thinking Clearly](./Book%20notes/The%20Art%20of%20Thinking%20Clearly.md)|Rolf Dobelli| Self-help|[RT Jeion](https://github.com/RT-Jeion)|11|![Status](https://img.shields.io/badge/Not%20Started-red?style=plastic)|15/06/2025|
 |[The Art of Thinking Clearly](./Book%20notes/The%20Art%20of%20Thinking%20Clearly.md)|Rolf Dobelli| Self-help|[RT Jeion](https://github.com/RT-Jeion)|11|![Status](https://img.shields.io/badge/Reading-green?style=plastic)|15/06/2025|
 |[The 48 laws of power](./Books%20Notes/The%2048%20laws%20of%20power.md)| Robert Greene| Psycology|[Mahmud Hasan](https://github.com/mahmud1223)|18|![Status](https://img.shields.io/badge/Reading-green?style=plastic)|13/07/2025||
+|[The power of positive thinkiing]()|Norman Vincent| Self-help|[Tanvir](https://github.com/tanvir7hasan)|0|![Status](https://img.shields.io/badge/Reading-green?style=plastic)|15/07/2025|
