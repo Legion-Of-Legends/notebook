@@ -1,4 +1,4 @@
-# The 48 laws of power
+# The 48 Laws Of Power
 
 ## Law 1:  Never outshine the Master
 Always  make the people above to feel superior.
