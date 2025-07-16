@@ -47,5 +47,5 @@
 |-------|-----|
 | Exercise- 20 minutes to 30 minutes | <ul><li>[ ] done</li></ul>|
 |Autocad disign learnig minimum 50 minutes | <ul><li>[ ] done</li></ul>|
-|English Language - Minimum 50 minutes  | <ul><li>[ ] done</li></ul>|
+|New skills analysis- Minimum 50 minutes  | <ul><li>[ ] done</li></ul>|
 |"The power of prositive thinking" Book 25 minutes  | <ul><li>[ ] done</li></ul>|
