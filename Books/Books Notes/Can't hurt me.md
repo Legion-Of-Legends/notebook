@@ -1,8 +1,6 @@
 # Can't Hurt Me
 Book descriptions
-..................
-,,,,,,,,,,,,,,,,,,,,**b
-§skkw
+ncjgjygjyk
 
 ### Chapter 1
 chapter 1 notes xjdnb
