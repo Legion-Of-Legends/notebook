@@ -167,6 +167,6 @@ with open(file_route, "w") as f:
 # Reseting the task file
 with open("../Tasks/README.md", "w") as f:
     # replace the date with the next day in task_tracker
-    task_tracker = task_tracker.replace(f"## Date: {task_time.strftime('%d %B, %Y')}", f"## Date: {next_day.strftime('%d %B, %Y')}\n").replace("[x]", "[ ]").replace("[X]", "[ ]")  # Resetting all tasks to incompleted
+    task_tracker = task_tracker.replace(f"## Date: {task_time.strftime('%d %B, %Y')}", f"## Date: {next_day.strftime('%d %B, %Y')}").replace("[x]", "[ ]").replace("[X]", "[ ]")  # Resetting all tasks to incompleted
     print(task_tracker)
     f.write(task_tracker)
