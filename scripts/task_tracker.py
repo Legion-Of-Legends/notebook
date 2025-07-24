@@ -174,7 +174,7 @@ with open("../Tasks/README.md", "w") as f:
         for j in member_data[i].keys():
             if max_len<len(j):
                 max_len=len(j)
-        new_write+=f"## ({i})[{member_name_github[i]}]\n|tasks|completed|\n|-------|-----|\n"
+        new_write+=f"## [{i}]({member_name_github[i]})\n|tasks|completed|\n|-------|-----|\n"
         for j in member_data[i].keys():
             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li>[ ] done</li></ul>|\n"
 
