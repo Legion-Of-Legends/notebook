@@ -166,16 +166,14 @@ with open(file_route, "w") as f:
 
 # Reseting the task file
 with open("../Tasks/README.md", "w") as f:
-    # replace the date with the next day in task_tracker
-    task_tracker = task_tracker.replace(f"## Date: {task_time.strftime('%d %B, %Y')}", f"## Date: {next_day.strftime('%d %B, %Y')}").replace("[x]", "[ ]").replace("[X]", "[ ]")  # Resetting all tasks to incompleted
-    new_write = f"## Date: {next_day.strftime('%d %B, %Y')}\n\n\n"
+    new_write = f"## Date: {next_day.strftime('%d %B, %Y')}\n\n"
     for i in member_data.keys():
         max_len=0
         for j in member_data[i].keys():
             if max_len<len(j):
                 max_len=len(j)
-        new_write+=f"## [{i}]({member_name_github[i]})\n|tasks|completed|\n|-------|-----|\n"
+        new_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_len-5)} |Completed{' '*19}|\n|{'-'*max_len} |{'-'*28}|\n"
         for j in member_data[i].keys():
-            new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li>[ ] done</li></ul>|\n"
+            new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
 
     f.write(new_write)
