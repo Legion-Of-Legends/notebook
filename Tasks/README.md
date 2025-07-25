@@ -1,4 +1,4 @@
-## Date: 25 July, 2025
+## Date: 26 July, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -17,11 +17,11 @@
 |NBMM                    | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
-|Tasks                |Completed                   |
-|---------------------|----------------------------|
-|Workout              | <ul><li> [ ] done</li></ul>|
-|Read books           | <ul><li> [ ] done</li></ul>|
-|Write                | <ul><li> [ ] done</li></ul>|
+|Tasks      |Completed                   |
+|-----------|----------------------------|
+|Workout    | <ul><li> [ ] done</li></ul>|
+|Read books | <ul><li> [ ] done</li></ul>|
+|Write      | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                         |Completed                   |
@@ -34,7 +34,7 @@
 |------------------------------------------|----------------------------|
 |Physical Exercise- 10 minutes to 1Hour    | <ul><li> [ ] done</li></ul>|
 |"Eat that Frog" Book-40 minutes to 1 Hour | <ul><li> [ ] done</li></ul>|
-|Entertainment- 1 Hour to 1.5 Hour                 | <ul><li> [ ] done</li></ul>|
+|Entertainment- 1 Hour to 1.5 Hour         | <ul><li> [ ] done</li></ul>|
 |Safe from Bad Habit 16€~13                | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
