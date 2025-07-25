@@ -21,7 +21,7 @@
 |---------------------|----------------------------|
 |Workout              | <ul><li> [ ] done</li></ul>|
 |Read books           | <ul><li> [ ] done</li></ul>|
-|€/$@ min 1 or revise | <ul><li> [ ] done</li></ul>|
+|Write                | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                         |Completed                   |
