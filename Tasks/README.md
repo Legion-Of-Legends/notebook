@@ -25,8 +25,8 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                         |Completed                   |
 |----------------------------------------------|----------------------------|
-|Reading (The power of 48 laws) 30-min         | <ul><li> [ ] done</li></ul>|
-|Learning a new cube algorithm (one algorithm) | <ul><li> [ ] done</li></ul>|
+|Reading (The power of 48 laws) 30-min         | <ul><li> [x] done</li></ul>|
+|Learning a new cube algorithm (one algorithm) | <ul><li> [x] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                     |Completed                   |
