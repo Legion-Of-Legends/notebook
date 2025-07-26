@@ -11,9 +11,8 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                   |Completed                   |
 |------------------------|----------------------------|
-|Reading 30 min          | <ul><li> [ ] done</li></ul>|
-|Workout 30 min          | <ul><li> [ ] done</li></ul>|
-|Learning AI/ML 1-Hour   | <ul><li> [ ] done</li></ul>|
+|Reading 30 min          | <ul><li> [x] done</li></ul>|
+|Learning AI/ML 1-Hour   | <ul><li> [x] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks      |Completed                   |
