@@ -12,10 +12,8 @@
 |Tasks                   |Completed                   |
 |------------------------|----------------------------|
 |Reading 30 min          | <ul><li> [ ] done</li></ul>|
-|Running                 | <ul><li> [ ] done</li></ul>|
-|Workout                 | <ul><li> [ ] done</li></ul>|
-|Learning AI/ML          | <ul><li> [ ] done</li></ul>|
-|NBMM                    | <ul><li> [ ] done</li></ul>|
+|Workout 30 min          | <ul><li> [ ] done</li></ul>|
+|Learning AI/ML 1-Hour   | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks      |Completed                   |
