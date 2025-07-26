@@ -39,7 +39,7 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                             |Completed                   |
 |--------------------------------------------------|----------------------------|
-|Exercise- 20 minutes to 30 minutes                | <ul><li> [ ] done</li></ul>|
-|Autocad design learnig minimum 40 minutes         | <ul><li> [ ] done</li></ul>|
-|New skills analysis- Minimum 30 minutes           | <ul><li> [ ] done</li></ul>|
-|"The power of prositive thinking" Book 25 minutes | <ul><li> [ ] done</li></ul>|
+|Exercise- 20 minutes to 30 minutes                | <ul><li> [x] done</li></ul>|
+|Autocad design learnig minimum 40 minutes         | <ul><li> [x] done</li></ul>|
+|New skills analysis- Minimum 30 minutes           | <ul><li> [x] done</li></ul>|
+|"The power of prositive thinking" Book 25 minutes | <ul><li> [x] done</li></ul>|
