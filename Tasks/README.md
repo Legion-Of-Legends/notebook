@@ -4,9 +4,9 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                  |Completed                   |
 |-----------------------|----------------------------|
-|BJT FET Transistor     | <ul><li> [ ] done</li></ul>|
-|Chemistry 4 chapters   | <ul><li> [ ] done</li></ul>|
-|Can't Hurt ME 10 pages | <ul><li> [ ] done</li></ul>|
+|Reading Non fiction     | <ul><li> [x] done</li></ul>|
+|Mosfet   | <ul><li> [x] done</li></ul>|
+
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                   |Completed                   |
