@@ -164,6 +164,9 @@ with open(file_route, "w") as f:
     table_data = '\n'.join(re.sub(r'^\s+', '', line) for line in table_data.splitlines())
     f.write(table_data)
 
+# Modify the tasks according to Task Setter.md
+
+
 # Reseting the task file
 with open("../Tasks/README.md", "w") as f:
     new_write = f"## Date: {next_day.strftime('%d %B, %Y')}\n\n"
