@@ -25,3 +25,6 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks|From|To|Interval|Offday|Status|Description|
 |-------|--|--|--------|------|------|-----------|
+|Reading|-|-|-|-|-|-|
+|Writing|-|-|-|-|-|-|
+|Exercise|-|-|-|-|-|-|

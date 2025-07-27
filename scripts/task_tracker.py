@@ -165,7 +165,37 @@ with open(file_route, "w") as f:
     f.write(table_data)
 
 # Modify the tasks according to Task Setter.md
-
+with open("../Tasks/Task Setter.md", "r") as f:
+    data=f.read().split("\n")
+    count=0
+    task_setter_data={}
+    while count<len(data):
+        current_line=data[count]
+        if current_line.startswith("##"):
+            username = current_line.split("##")[1].strip().split("]")[0].strip()[1:]
+            user_tasks=[]
+            for i in range(count+1, len(data)):
+                inline_data=data[i]
+                if inline_data.startswith("##"):
+                    break
+                elif inline_data.startswith("|Task") or inline_data.startswith("|-") or not inline_data.strip():
+                    continue
+                else:
+                    inline_data=[j.strip() for j in inline_data.split("|")][1:-1]
+                    task_data={
+                            "task_name":inline_data[0],
+                            "from":inline_data[1],
+                            "to":inline_data[2],
+                            "interval":inline_data[3],
+                            "offday":inline_data[4],
+                            "status":inline_data[5],
+                            "description":inline_data[6]
+                            }
+                    user_tasks.append(task_data)
+                task_setter_data[username]=user_tasks
+        count+=1
+import pprint
+pprint.pprint(task_setter_data)
 
 # Reseting the task file
 with open("../Tasks/README.md", "w") as f:
