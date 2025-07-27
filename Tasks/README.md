@@ -4,8 +4,8 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks               |Completed                   |
 |--------------------|----------------------------|
-|Reading Non fiction | <ul><li> [ ] done</li></ul>|
-|Mosfet              | <ul><li> [ ] done</li></ul>|
+|Reading Non Fiction| <ul><li> [x] done</li></ul>|
+|Math Vector | <ul><li> [x] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                 |Completed                   |
