@@ -141,7 +141,7 @@ with open("../Tasks/Task Setter.md", "r") as f:
                             "to":inline_data[2],
                             "off_days":int(inline_data[3]) if inline_data[3]!='-' else 0,
                             "on_days":int(inline_data[4]) if inline_data[4]!='-' else 1,
-                            "weekoff":inline_data[5],
+                            "weekoff":[k.lower() for k in inline_data[5].split(',')] if inline_data[5]!='-' else None,
                             "status":inline_data[6],
                             "description":inline_data[7]
                             }
@@ -155,56 +155,56 @@ pprint.pprint(task_setter_data)
 
 # Writing the report to a markdown file
 
-# with open(file_route, "w") as f:
-#     f.write(f"# Task Tracker Report for {task_time.strftime('%B %Y')}\n\n")
-#     table_data = """
-#     <table>
-#     <thead>
-#     <tr>
-#         <th>Member</th>
-#         <th>Task</th>
-#         <th>Total Days</th>
-#         <th>Completed</th>
-#         <th>Incompleted</th>
-#         <th>Description</th>
-#     </tr>
-#     </thead>\n
-#     <tbody>
-#     """
-#     for member, tasks in Merged_Data.items():
-#         taskbody = ""
-#         task_count = 0
-#         for task in tasks:
-#             if task_count == 0:
-#                 taskbody += f"""
-#                 <tr>
-#                 <td rowspan="{len(tasks)}"><a href="{member_name_github[member]}">{member}</a></td>
-#                 <td>{task['task']}</td>
-#                 <td>{task['total']}</td>
-#                 <td>{task['completed']}</td>
-#                 <td>{task['incompleted']}</td>
-#                 <td>{task_setter_data[member][task['task']]['description']}</td>
-#                 </tr>\n
-#                 """
-#                 task_count += 1
-#                 continue
-#             taskbody += f"""
-#             <tr>
-#             <td>{task['task']}</td>
-#             <td>{task['total']}</td>
-#             <td>{task['completed']}</td>
-#             <td>{task['incompleted']}</td>
-#             <td>{task_setter_data[member][task['task']]['description']}</td>
-#             </tr>\n
-#             """
-#             task_count += 1
-#         table_data += taskbody
-#     table_data += """
-#         </tbody>
-#         </table>
-#         """
-#     table_data = '\n'.join(re.sub(r'^\s+', '', line) for line in table_data.splitlines())
-#     f.write(table_data)
+with open(file_route, "w") as f:
+    f.write(f"# Task Tracker Report for {task_time.strftime('%B %Y')}\n\n")
+    table_data = """
+    <table>
+    <thead>
+    <tr>
+        <th>Member</th>
+        <th>Task</th>
+        <th>Total Days</th>
+        <th>Completed</th>
+        <th>Incompleted</th>
+        <th>Description</th>
+    </tr>
+    </thead>\n
+    <tbody>
+    """
+    for member, tasks in Merged_Data.items():
+        taskbody = ""
+        task_count = 0
+        for task in tasks:
+            if task_count == 0:
+                taskbody += f"""
+                <tr>
+                <td rowspan="{len(tasks)}"><a href="{member_name_github[member]}">{member}</a></td>
+                <td>{task['task']}</td>
+                <td>{task['total']}</td>
+                <td>{task['completed']}</td>
+                <td>{task['incompleted']}</td>
+                <td>{task_setter_data[member][task['task']]['description']}</td>
+                </tr>\n
+                """
+                task_count += 1
+                continue
+            taskbody += f"""
+            <tr>
+            <td>{task['task']}</td>
+            <td>{task['total']}</td>
+            <td>{task['completed']}</td>
+            <td>{task['incompleted']}</td>
+            <td>{task_setter_data[member][task['task']]['description']}</td>
+            </tr>\n
+            """
+            task_count += 1
+        table_data += taskbody
+    table_data += """
+        </tbody>
+        </table>
+        """
+    table_data = '\n'.join(re.sub(r'^\s+', '', line) for line in table_data.splitlines())
+    f.write(table_data)
 
 
 
@@ -250,6 +250,9 @@ with open("../Tasks/README.md", "w") as f:
                     continue
             if not is_on_day(base_date_str=writting_task["from"], check_date_str=next_day, off_days=writting_task["off_days"], on_days=writting_task["on_days"]):
                 continue
+            if writting_task["weekoff"]!=None:
+                if next_day.strftime("%a").lower() in writting_task["weekoff"]:
+                    continue
+            
             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
     f.write(new_write)
-
