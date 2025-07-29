@@ -7,7 +7,7 @@
 |Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
 |-------|--|--|--------|------|------|------|-----------|
 |Learning ibn            | 17.09.2025| 18.10.2025|-|-|-|-|ibm is good|
-|Neural network          | 17.07.2025| 18.08.2025|-|-|-|-|vey well designed|
+|Neural network          | 17.07.2025| 18.08.2025|1|1|-|-|vey well designed|
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
 |-------|--|--|--------|------|------|------|-----------|

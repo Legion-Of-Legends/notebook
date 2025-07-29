@@ -71,6 +71,8 @@ with open(file_route, "r") as f:
                 }
                 previous_report[current_member].append(data)
 
+
+
 # Merging previous report with current data
 Merged_Data = {}
 for member, tasks in member_data.items():
@@ -114,57 +116,9 @@ for member, tasks in member_data.items():
 
 
 
-# Writing the report to a markdown file
 
-with open(file_route, "w") as f:
-    f.write(f"# Task Tracker Report for {task_time.strftime('%B %Y')}\n\n")
-    table_data = """
-    <table>
-    <thead>
-    <tr>
-        <th>Member</th>
-        <th>Task</th>
-        <th>Total Days</th>
-        <th>Completed</th>
-        <th>Incompleted</th>
-    </tr>
-    </thead>\n
-    <tbody>
-    """
-    for member, tasks in Merged_Data.items():
-        taskbody = ""
-        task_count = 0
-        for task in tasks:
-            if task_count == 0:
-                taskbody += f"""
-                <tr>
-                <td rowspan="{len(tasks)}"><a href="{member_name_github[member]}">{member}</a></td>
-                <td>{task['task']}</td>
-                <td>{task['total']}</td>
-                <td>{task['completed']}</td>
-                <td>{task['incompleted']}</td>
-                </tr>\n
-                """
-                task_count += 1
-                continue
-            taskbody += f"""
-            <tr>
-            <td>{task['task']}</td>
-            <td>{task['total']}</td>
-            <td>{task['completed']}</td>
-            <td>{task['incompleted']}</td>
-            </tr>\n
-            """
-            task_count += 1
-        table_data += taskbody
-    table_data += """
-        </tbody>
-        </table>
-        """
-    table_data = '\n'.join(re.sub(r'^\s+', '', line) for line in table_data.splitlines())
-    f.write(table_data)
 
-# Modify the tasks according to Task Setter.md
+# Getting data from tasks according to Task Setter.md
 with open("../Tasks/Task Setter.md", "r") as f:
     data=f.read().split("\n")
     count=0
@@ -173,7 +127,7 @@ with open("../Tasks/Task Setter.md", "r") as f:
         current_line=data[count]
         if current_line.startswith("##"):
             username = current_line.split("##")[1].strip().split("]")[0].strip()[1:]
-            user_tasks=[]
+            user_tasks={}
             for i in range(count+1, len(data)):
                 inline_data=data[i]
                 if inline_data.startswith("##"):
@@ -183,30 +137,119 @@ with open("../Tasks/Task Setter.md", "r") as f:
                 else:
                     inline_data=[j.strip() for j in inline_data.split("|")][1:-1]
                     task_data={
-                            "task_name":inline_data[0],
                             "from":inline_data[1],
                             "to":inline_data[2],
-                            "interval":inline_data[3],
-                            "offday":inline_data[4],
-                            "status":inline_data[5],
-                            "description":inline_data[6]
+                            "off_days":int(inline_data[3]) if inline_data[3]!='-' else 0,
+                            "on_days":int(inline_data[4]) if inline_data[4]!='-' else 1,
+                            "weekoff":inline_data[5],
+                            "status":inline_data[6],
+                            "description":inline_data[7]
                             }
-                    user_tasks.append(task_data)
+                    user_tasks[inline_data[0]]=task_data
                 task_setter_data[username]=user_tasks
         count+=1
 import pprint
 pprint.pprint(task_setter_data)
 
+
+
+# Writing the report to a markdown file
+
+# with open(file_route, "w") as f:
+#     f.write(f"# Task Tracker Report for {task_time.strftime('%B %Y')}\n\n")
+#     table_data = """
+#     <table>
+#     <thead>
+#     <tr>
+#         <th>Member</th>
+#         <th>Task</th>
+#         <th>Total Days</th>
+#         <th>Completed</th>
+#         <th>Incompleted</th>
+#         <th>Description</th>
+#     </tr>
+#     </thead>\n
+#     <tbody>
+#     """
+#     for member, tasks in Merged_Data.items():
+#         taskbody = ""
+#         task_count = 0
+#         for task in tasks:
+#             if task_count == 0:
+#                 taskbody += f"""
+#                 <tr>
+#                 <td rowspan="{len(tasks)}"><a href="{member_name_github[member]}">{member}</a></td>
+#                 <td>{task['task']}</td>
+#                 <td>{task['total']}</td>
+#                 <td>{task['completed']}</td>
+#                 <td>{task['incompleted']}</td>
+#                 <td>{task_setter_data[member][task['task']]['description']}</td>
+#                 </tr>\n
+#                 """
+#                 task_count += 1
+#                 continue
+#             taskbody += f"""
+#             <tr>
+#             <td>{task['task']}</td>
+#             <td>{task['total']}</td>
+#             <td>{task['completed']}</td>
+#             <td>{task['incompleted']}</td>
+#             <td>{task_setter_data[member][task['task']]['description']}</td>
+#             </tr>\n
+#             """
+#             task_count += 1
+#         table_data += taskbody
+#     table_data += """
+#         </tbody>
+#         </table>
+#         """
+#     table_data = '\n'.join(re.sub(r'^\s+', '', line) for line in table_data.splitlines())
+#     f.write(table_data)
+
+
+
+
+
+
+
 # Reseting the task file
+
+def parse_date_safe(date_str, fmt="%d.%m.%Y"):
+    try:
+        return dt.datetime.strptime(date_str, fmt)
+    except ValueError:
+        return next_day
+
+
+def is_on_day(base_date_str, check_date_str, off_days, on_days):
+    base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y").date() if base_date_str!="-" else dt.datetime.now().date()
+    check_date = check_date_str.date()
+    cycle_length = off_days + on_days
+    days_passed = (check_date - base_date).days
+    if days_passed < 0:
+        return False
+    day_in_cycle = days_passed % cycle_length
+    return day_in_cycle >= off_days
+
+
 with open("../Tasks/README.md", "w") as f:
     new_write = f"## Date: {next_day.strftime('%d %B, %Y')}\n\n"
-    for i in member_data.keys():
+    for i in task_setter_data.keys():
         max_len=0
-        for j in member_data[i].keys():
+        for j in task_setter_data[i].keys():
             if max_len<len(j):
                 max_len=len(j)
         new_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_len-5)} |Completed{' '*19}|\n|{'-'*max_len}-|{'-'*28}|\n"
-        for j in member_data[i].keys():
+        for j in task_setter_data[i].keys():
+            writting_task=task_setter_data[i][j]
+            if writting_task["from"]!="-":
+                if next_day<parse_date_safe(writting_task["from"]):
+                    continue
+            if writting_task["to"]!="-":
+                if next_day>parse_date_safe(writting_task["to"]):
+                    continue
+            if not is_on_day(base_date_str=writting_task["from"], check_date_str=next_day, off_days=writting_task["off_days"], on_days=writting_task["on_days"]):
+                continue
             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
-
     f.write(new_write)
+
