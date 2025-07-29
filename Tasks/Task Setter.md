@@ -1,30 +1,31 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
-|Tasks|From|To|Interval|Offday|Status|Description|
-|-------|--|--|--------|------|------|-----------|
-|home workout           | 17.07.2025| 18.07.2025|-|-|-|-|
-|Atomic data   10 pages | 17.07.2025| 18.07.2025|-|-|-|-|
+|Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
+|-------|--|--|--------|------|------|------|-----------|
+|home workout           | 17.07.2025| 18.08.2025|-|-|-|-|Leaning|
+|Atomic data   10 pages | 17.07.2025| 18.08.2025|-|-|-|-|making|
 ## [RT Jeion](https://github.com/RT-Jeion)
-|Tasks|From|To|Interval|Offday|Status|Description|
-|-------|--|--|--------|------|------|-----------|
-|Learning ibn            | 17.07.2025| 18.07.2025|-|-|-|-|
-|Neural network          | 17.07.2025| 18.07.2025|-|-|-|-|
+|Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
+|-------|--|--|--------|------|------|------|-----------|
+|Learning ibn            | 17.09.2025| 18.10.2025|-|-|-|-|ibm is good|
+|Neural network          | 17.07.2025| 18.08.2025|-|-|-|-|vey well designed|
 ## [Zubair Ahmed](https://github.com/zubair-rex)
-|Tasks|From|To|Interval|Offday|Status|Description|
-|-------|--|--|--------|------|------|-----------|
-|Workout in gym       | 17.07.2025| 18.07.2025|-|-|-|-|
-|Read ebooks          | 17.07.2025| 18.07.2025|-|-|-|-|
+|Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
+|-------|--|--|--------|------|------|------|-----------|
+|Workout in gym       | 17.07.2025| 18.08.2025|-|-|-|-|very good|
+|Read ebooks          | 17.07.2025| 18.08.2025|-|-|-|-|later|
 ## [Mahmud Hasan](https://github.com/mahmud1223)
-|Tasks|From|To|Interval|Offday|Status|Description|
-|-------|--|--|--------|------|------|-----------|
-|Learning swift | 17.07.2025| 18.07.2025|-|-|-|-|
+|Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
+|-------|--|--|--------|------|------|------|-----------|
+|Learning swift | 17.07.2025| 18.08.2025|-|-|-|-|iso compatable|
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
-|Tasks|From|To|Interval|Offday|Status|Description|
-|-------|--|--|--------|------|------|-----------|
-|Web research        | 17.07.2025| 18.07.2025|-|-|-|-|
-|Game                | 17.07.2025| 18.07.2025|-|-|-|-|
+|Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
+|-------|--|--|--------|------|------|------|-----------|
+|Web research        | 17.07.2025| 18.08.2025|-|-|-|-|learned web reserch|
+|Game                | 17.07.2025| 18.08.2025|-|-|-|-|game is good|
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
-|Tasks|From|To|Interval|Offday|Status|Description|
-|-------|--|--|--------|------|------|-----------|
-|Reading|-|-|-|-|-|-|
-|Writing|-|-|-|-|-|-|
-|Exercise|-|-|-|-|-|-|
+|Tasks|From|To|Offdays|Ondays|WeekOff|Status|Description|
+|-------|--|--|--------|------|------|------|-----------|
+|Reading|-|-|-|-|-|-|very well book read|
+|Writing|-|-|-|-|-|-|written a book|
+|Exercise|-|-|-|-|-|-|learned puntuality|
+
