@@ -35,7 +35,7 @@
 |Physical Exercise- 10 minutes to 1Hour    | <ul><li> [ ] done</li></ul>|
 |"Eat that Frog" Book-40 minutes to 1 Hour | <ul><li> [ ] done</li></ul>|
 |Entertainment- 1 Hour to 1.5 Hour         | <ul><li> [ ] done</li></ul>|
-|Safe from Bad Habit 16€~13                | <ul><li> [x] done</li></ul>|
+|Safe from Bad Habit 16€~13                | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                             |Completed                   |
