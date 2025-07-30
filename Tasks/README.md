@@ -1,4 +1,4 @@
-## Date: 30 July, 2025
+## Date: 31 July, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -20,8 +20,8 @@
 |Tasks      |Completed                   |
 |-----------|----------------------------|
 |Workout    | <ul><li> [ ] done</li></ul>|
-|Read books | <ul><li> [x] done</li></ul>|
-|Write      | <ul><li> [x] done</li></ul>|
+|Read books | <ul><li> [ ] done</li></ul>|
+|Write      | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                         |Completed                   |
