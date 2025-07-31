@@ -4,8 +4,9 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks               |Completed                   |
 |--------------------|----------------------------|
-|Reading Non Fiction | <ul><li> [ ] done</li></ul>|
-|Math Vector         | <ul><li> [ ] done</li></ul>|
+|Coming up with a plan for "Hall of Fame" | <ul><li> [ ] done</li></ul>|
+|Two port network         | <ul><li> [ ] done</li></ul>|
+|Organizing group|<ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                     |Completed                   |
