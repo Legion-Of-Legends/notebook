@@ -256,3 +256,34 @@ with open("../Tasks/README.md", "w") as f:
             
             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
     f.write(new_write)
+
+
+
+# Resetting the setter file
+
+
+with open("../Tasks/Task Setter2.md", "w") as f:
+    new_setter_write=""
+    for i in task_setter_data.keys():
+        max_task_title_len: int=0
+        max_date_len: int=10
+        max_description_len: int=13
+        max_status_len: int=8
+        max_weekoff_len: int=12
+        for j in task_setter_data[i].keys():
+            if max_task_title_len<len(j):
+                max_task_title_len=len(j)
+            current_description_len=len(task_setter_data[i][j]["description"])
+            if max_description_len<current_description_len:
+                max_description_len=current_description_len
+            current_weekoff_len=len(task_setter_data[i][j]["weekoff"])*4 if task_setter_data[i][j]["weekoff"] else 0
+            if max_weekoff_len<current_weekoff_len:
+                max_weekoff_len=current_weekoff_len
+            current_status_len=len(task_setter_data[i][j]["status"])
+            if max_status_len<current_status_len:
+                max_status_len=current_status_len
+
+        new_setter_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_task_title_len-5)}|Form{' '*(max_date_len-4)}|To{' '*(max_date_len-2)}|Ondays |Offdays |Weekday Off{' '*(max_weekoff_len-12)} |Status{" "*(max_status_len-6)}|Description{' '*(max_description_len-11)}|\n|{'-'*max_task_title_len}|{'-'*max_date_len}|{'-'*max_date_len}|{'-'*7}|{'-'*8}|{'-'*max_weekoff_len}|{'-'*max_status_len}|{'-'*max_description_len}|\n"
+        f.write(new_setter_write)
+
+
