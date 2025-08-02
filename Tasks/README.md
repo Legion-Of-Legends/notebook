@@ -41,5 +41,6 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                             |Completed                   |
 |--------------------------------------------------|----------------------------|
-|Exercise- 20 minutes to 30 minutes                | <ul><li> [x] done</li></ul>|
-|Read Books 25 minutes | <ul><li> [ ] done</li></ul>|
+|Exercise | <ul><li> [x] done</li></ul>|
+|Read Books | <ul><li> [ ] done</li></ul>|
+|Learning HVAC| <ul><li> [x] done</li></ul>|
