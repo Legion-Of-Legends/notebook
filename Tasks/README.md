@@ -42,4 +42,4 @@
 |Tasks                                             |Completed                   |
 |--------------------------------------------------|----------------------------|
 |Exercise- 20 minutes to 30 minutes                | <ul><li> [x] done</li></ul>|
-|"The power of prositive thinking" Book 25 minutes | <ul><li> [ ] done</li></ul>|
+|Read Books 25 minutes | <ul><li> [ ] done</li></ul>|
