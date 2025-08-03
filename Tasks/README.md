@@ -40,6 +40,6 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks         |Completed                   |
 |--------------|----------------------------|
-|Exercise      | <ul><li> [ ] done</li></ul>|
-|Read Books    | <ul><li> [ ] done</li></ul>|
-|Learning HVAC | <ul><li> [ ] done</li></ul>|
+|Exercise      | <ul><li> [x] done</li></ul>|
+|Read Books    | <ul><li> [x] done</li></ul>|
+|Learning HVAC | <ul><li> [x] done</li></ul>|
