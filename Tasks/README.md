@@ -1,4 +1,4 @@
-## Date: 06 August, 2025
+## Date: 07 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -12,9 +12,9 @@
 |Tasks                 |Completed                   |
 |----------------------|----------------------------|
 |Reading 30 min        | <ul><li> [ ] done</li></ul>|
-|Learning AI/ML 1-Hour | <ul><li> [x] done</li></ul>|
+|Learning AI/ML 1-Hour | <ul><li> [ ] done</li></ul>|
 |Workout               | <ul><li> [ ] done</li></ul>|
-|NBMM                  | <ul><li> [x] done</li></ul>|
+|NBMM                  | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks      |Completed                   |
@@ -40,6 +40,6 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks         |Completed                   |
 |--------------|----------------------------|
-|Exercise      | <ul><li> [x] done</li></ul>|
-|Read Books    | <ul><li> [x] done</li></ul>|
+|Exercise      | <ul><li> [ ] done</li></ul>|
+|Read Books    | <ul><li> [ ] done</li></ul>|
 |Learning HVAC | <ul><li> [ ] done</li></ul>|
