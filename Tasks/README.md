@@ -4,9 +4,9 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks            |Completed                   |
 |-----------------|----------------------------|
-|Chemistry        | <ul><li> [ ] done</li></ul>|
-|Two port network | <ul><li> [ ] done</li></ul>|
-|Materials CT     | <ul><li> [ ] done</li></ul>|
+|Laplace        | <ul><li> [ ] done</li></ul>|
+|Electrochemistry | <ul><li> [ ] done</li></ul>|
+|Lab report of electronics     | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                 |Completed                   |
