@@ -1,12 +1,12 @@
-## Date: 08 August, 2025
+## Date: 09 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
-|Tasks            |Completed                   |
-|-----------------|----------------------------|
-|Laplace        | <ul><li> [ ] done</li></ul>|
-|Electrochemistry | <ul><li> [ ] done</li></ul>|
-|Lab report of electronics     | <ul><li> [ ] done</li></ul>|
+|Tasks                     |Completed                   |
+|--------------------------|----------------------------|
+|Laplace                   | <ul><li> [ ] done</li></ul>|
+|Electrochemistry          | <ul><li> [ ] done</li></ul>|
+|Lab report of electronics | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                 |Completed                   |
