@@ -41,12 +41,12 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks       |From      |To        |Offdays |Ondays |Weekday Off   |Status  |Description        |
 |------------|----------|----------|--------|-------|--------------|--------|-------------------|
-|Office Work-MT|-|-|0       |1      |fri|| |
-|Exercise 10 to 30 minutes-DT|-|-|0       |1      |fri,sat   ||     |
-|Non fiction Book Reading 30 minutes to up-DT|-|-|0       |1      |fri  ||Reading|
-|Safe from bad habit €~-DT|-|-|1      |10    |   ||     |
-|Entertainment 2 hours to less-DT|-|-|2     |2     |||     |
-|6 Classes Record-DT|15.8.2025|15.8.2025|0       |1      |||     |
+|Office Work-**(MT)**|11.08.2025|-|0       |1      |fri|| Trying to be best For Promotion|
+|Exercise 10 to 30 minutes-DT|11.08.2025|-|0       |1      |fri,sat|| Trying to be Fit and gain some muscle |
+|Non fiction Book Reading 30 minutes to up-DT|11.08.2025|-|0       |1      |fri  ||Reading|
+|Safe from bad habit # -DT| 11.08.2025|-|1      |10    |   || To remove a bad habit from my life |
+|Entertainment 2 hours to less-DT|11.08.2025|-|2     |2     |||     |
+|6 Classes Record-FT|15.08.2025|15.08.2025|0       |1      ||| Trying to build a student network on FB group & YT to sell Educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks   |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description        |
