@@ -32,6 +32,5 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks    |Completed                   |
 |---------|----------------------------|
-|Reading  | <ul><li> [ ] done</li></ul>|
-|Writing  | <ul><li> [ ] done</li></ul>|
-|Exercise | <ul><li> [ ] done</li></ul>|
+|Home workout | <ul><li> [x] done</li></ul>|
+|Read books | <ul><li> [ ] done</li></ul>|
