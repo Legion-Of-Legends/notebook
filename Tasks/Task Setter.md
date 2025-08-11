@@ -2,9 +2,9 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                 |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description  |
 |----------------------|----------|----------|--------|-------|------------|--------|-------------|
-|Varsity life(asnmnt, lab, classes, CT) **(Main)** |11.08.2025|-|0       |1      | |✅            |      |Survive|
-|MS word + Excel advanced learning|11.08.2025|30.08.2025|0       |1      |✅            |      |Learning them for professional use|
-|AI agent advanced learning|11.08.2025|30.08.2025|0       |1      |✅            |      |Learning them for professional use|
+|Varsity life(asnmnt, lab, classes, CT) **(Main)** |11.08.2025|-|0       |1      | |✅            |Survive|
+|MS word + Excel advanced learning|11.08.2025|30.08.2025|0       |1      |✅           | |Learning them for professional use|
+|AI agent advanced learning|11.08.2025|30.08.2025|0       |1      |✅          |  |Learning them for professional use|
 |Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Will start after-1 day/s      |Leaning      |
 |EEE 1203 - Remaining chapters|17.08.2025|30.08.2025|0       |1      |Will start after-6 day/s             |      |Understanding + Making notes effectively|
 |Math- Vector          |21.08.2025|23.08.2025|0       |1      |            |Will start after-10 day/s      |Learning       |
