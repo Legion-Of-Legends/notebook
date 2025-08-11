@@ -2,8 +2,8 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                 |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description  |
 |----------------------|----------|----------|--------|-------|------------|--------|-------------|
-|home workout          |17.07.2025|18.08.2025|0       |1      |            |✅      |Leaning      |
-|Atomic data   10 pages|17.07.2025|18.08.2025|0       |1      |            |✅      |making       |
+|Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Will start after-1 day/s      |Leaning      |
+|Math- Vector|21.08.2025|23.08.2025|0       |1      |            |Will start after-10 day/s      |Learning       |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                               |From      |To|Offdays |Ondays |Weekday Off |Status                   |Description                          |
