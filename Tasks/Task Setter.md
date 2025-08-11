@@ -26,9 +26,9 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks       |From      |To        |Offdays |Ondays |Weekday Off   |Status  |Description        |
 |------------|----------|----------|--------|-------|--------------|--------|-------------------|
-|Office Work-MT|-|-|0       |1      |fri||They Offered me promotion|
+|Office Work-MT|-|-|0       |1      |fri|| |
 |Exercise 10 to 30 minutes-DT|-|-|0       |1      |fri,sat   ||     |
-|Non fiction Book Reading 30 minutes to up-DT|-|-|0       |1      |fri  ||  50 pages done  |
+|Non fiction Book Reading 30 minutes to up-DT|-|-|0       |1      |fri  ||Reading|
 |Safe from bad habit €~-DT|-|-|1      |10    |   ||     |
 |Entertainment 2 hours to less-DT|-|-|2     |2     |||     |
 |6 Classes Record-DT|15.8.2025|15.8.2025|0       |1      |||     |
