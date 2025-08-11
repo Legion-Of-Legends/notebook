@@ -24,7 +24,7 @@
 |----------------------------------------------------------------------------------|----------------------------|
 |**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally | <ul><li> [ ] done</li></ul>|
 |Workout                                                                           | <ul><li> [ ] done</li></ul>|
-|Read copywriting book                                                             | <ul><li> [ ] done</li></ul>|
+|Read copywriting book                                                             | <ul><li> [x] done</li></ul>|
 |Read non copywriting book                                                         | <ul><li> [ ] done</li></ul>|
 |NBMM                                                                              | <ul><li> [ ] done</li></ul>|
 
