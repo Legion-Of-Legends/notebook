@@ -57,5 +57,5 @@
 |--------|----------|----------|--------|-------|------------|--------|-------------------|
 |Job life (Technical Skills,Teamwork,Communication) (main) |11.08.2025|-         |0       |1      |fri|Ongoing|job resposibilites with skill development|
 |HVAC Design learnig|11.08.2025|31.12.2025|0       |1      |fri|learnigh ongoing|AutoCad/REvit,lode calcs,duct & piping design|
-|Non Fiction Book Reading |11.08.2025|-         |0       |1      |✅||Personal Grow|
+|Non Fiction Book Reading |11.08.2025|-         |0       |1      ||✅|Personal Grow|
 |Devolop my field (Mechanical)|11.08.2025||0       |1      |fri|✅|Learn,practice and improve in Mechanical systems|
