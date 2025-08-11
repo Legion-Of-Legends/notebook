@@ -11,7 +11,7 @@
 |Learning DSA for 1 hour **(Main)**  |11.08.2025|- |0       |1      |            |Will start after-36 day/s|Foundations of Programming           |
 |Learning Maths for 1 hour **(Main)**|11.08.2025|- |0       |1      |            |Will start after-36 day/s|Foundations of AI/ML                 |
 |Workout                             |11.08.2025|- |1       |1      |            |✅                       |Daily Routine of Workout.            |
-|Book Reading for 30 min             |11.08.2025|- |0       |1      |            |Will start after-36 day/s|Currently The art of Thinking Clearly|
+|Reading The art of Thinking Clearly |11.08.2025|- |0       |1      |            |Will start after-36 day/s| Reading book task set by group      |
 |NBMM                                |11.08.2025|- |0       |1      |            |Will start after-36 day/s|Removing Bad habits                  |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
