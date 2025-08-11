@@ -29,8 +29,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks         |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description  |
 |--------------|----------|----------|--------|-------|------------|--------|-------------|
-|Workout in gym|17.07.2025|18.08.2025|0       |1      |            |✅      |very good    |
-|Read ebooks   |17.07.2025|18.08.2025|0       |1      |            |✅      |later        |
+|**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally       |11.07.2025|-         |0       |1      |            |✅      |very good    |
+|Workout       |11.07.2025|-         |0       |1      |            |✅      |very good    |
+|Read copywriting book     |11.07.2025|-         |0       |1      |            |✅      |intelligence        |
+|Read non copywriting book      |11.07.2025|-         |0       |1      |            |✅      |very good    |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                        |
