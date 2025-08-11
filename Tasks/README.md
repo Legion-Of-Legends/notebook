@@ -4,10 +4,10 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                 |Completed                   |
 |------------------------------------------------------|----------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [ ] done</li></ul>|
-|MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul>|
-|AI agent advanced learning                            | <ul><li> [ ] done</li></ul>|
-|Electronics- Single + Multi Stage Amplifier           | <ul><li> [ ] done</li></ul>|
+|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [x] done</li></ul>|
+|MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul>|
+|AI agent advanced learning                            | <ul><li> [x] done</li></ul>|
+|Electronics- Single + Multi Stage Amplifier           | <ul><li> [x] done</li></ul>|
 |Chemistry- making notes                               | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
