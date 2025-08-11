@@ -6,10 +6,13 @@
 |Atomic data   10 pages|17.07.2025|18.08.2025|0       |1      |            |✅      |making       |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
-|Tasks         |From      |To        |Offdays |Ondays |Weekday Off |Status                   |Description      |
-|--------------|----------|----------|--------|-------|------------|-------------------------|-----------------|
-|Learning ibn  |17.09.2025|18.10.2025|0       |1      |            |Will start after-36 day/s|ibm is good      |
-|Neural network|17.07.2025|18.08.2025|1       |1      |            |✅                       |vey well designed|
+|Tasks                               |From      |To|Offdays |Ondays |Weekday Off |Status                   |Description                          |
+|------------------------------------|----------|- |--------|-------|------------|-------------------------|-------------------------------------|
+|Learning DSA for 1 hour **(Main)**  |11.08.2025|- |0       |1      |            |Will start after-36 day/s|Foundations of Programming           |
+|Learning Maths for 1 hour **(Main)**|11.08.2025|- |0       |1      |            |Will start after-36 day/s|Foundations of AI/ML                 |
+|Workout                             |11.08.2025|- |1       |1      |            |✅                       |Daily Routine of Workout.            |
+|Book Reading for 30 min             |11.08.2025|- |0       |1      |            |Will start after-36 day/s|Currently The art of Thinking Clearly|
+|NBMM                                |11.08.2025|- |0       |1      |            |Will start after-36 day/s|Removing Bad habits                  |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks         |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description  |
