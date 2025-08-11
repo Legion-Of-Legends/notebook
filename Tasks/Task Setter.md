@@ -26,8 +26,12 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks       |From      |To        |Offdays |Ondays |Weekday Off   |Status  |Description        |
 |------------|----------|----------|--------|-------|--------------|--------|-------------------|
-|Web research|17.07.2025|18.08.2025|0       |1      |fri, sat, sun |✅      |learned web reserch|
-|Game        |17.07.2025|18.08.2025|0       |1      |wed, fri      |✅      |game is good       |
+|Office Work-MT|-|-|0       |1      |fri||They Offered me promotion|
+|Exercise 10 to 30 minutes-DT|-|-|0       |1      |fri,sat   ||     |
+|Non fiction Book Reading 30 minutes to up-DT|-|-|0       |1      |fri  ||  50 pages done  |
+|Safe from bad habit €~-DT|-|-|1      |10    |   ||     |
+|Entertainment 2 hours to less-DT|-|-|2     |2     |||     |
+|6 Classes Record-DT|15.8.2025|15.8.2025|0       |1      |||     |
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks   |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description        |
