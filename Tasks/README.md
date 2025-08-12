@@ -26,6 +26,7 @@
 |Workout                                                                           | <ul><li> [ ] done</li></ul>|
 |Read copywriting book                                                             | <ul><li> [ ] done</li></ul>|
 |Read non copywriting book                                                         | <ul><li> [ ] done</li></ul>|
+|No Yt videos/anime/or any content                                                 | <ul><li> [ ] done</li></ul>|
 |NBMM                                                                              | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
