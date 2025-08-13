@@ -218,27 +218,6 @@ def parse_date_safe(date_str, fmt="%d.%m.%Y"):
     except ValueError:
         return None
 
-def validity_check(test_task_data):
-    if test_task_data["from"]=='-' or test_task_data["to"]=='-':
-        pass
-    elif parse_date_safe(test_task_data["from"])==None:
-        return [False, "❌Invalid From Date"]
-    elif parse_date_safe(test_task_data["to"])==None:
-        return [False, "❌Invalid To Date"]
-    elif parse_date_safe(test_task_data["from"])>parse_date_safe(test_task_data["to"]):
-       return [False, "❌To date should be after From Date"]
-    elif parse_date_safe(test_task_data["from"])>next_day:
-        return [False, f"Will start after{(next_day-parse_date_safe(test_task_data['from'])).days} day/s"]
-    elif parse_date_safe(test_task_data["to"])<next_day:
-        return [False, "Task Expired"]
-
-    elif not is_on_day(base_date_str=writting_task["from"], check_date_str=next_day, off_days=writting_task["off_days"], on_days=writting_task["on_days"]):
-        return [False, "On/Off Break Day"]
-
-    elif (writting_task["weekoff"]!=None and next_day.strftime("%a").lower() in writting_task["weekoff"]):
-        return [False, "WeekOff Day"]
-    return [True, "✅"]
-
 
 def is_on_day(base_date_str, check_date_str, off_days, on_days):
     base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y").date() if base_date_str!="-" else dt.datetime.now().date()
@@ -249,6 +228,29 @@ def is_on_day(base_date_str, check_date_str, off_days, on_days):
         return False
     day_in_cycle = days_passed % cycle_length
     return day_in_cycle >= off_days
+
+def validity_check(test_task_data):
+    if test_task_data["from"]=='-' or test_task_data["to"]=='-':
+        pass
+    elif parse_date_safe(test_task_data["from"])==None:
+        return [False, "❌Invalid From Date"]
+    elif parse_date_safe(test_task_data["to"])==None:
+        return [False, "❌Invalid To Date"]
+    elif parse_date_safe(test_task_data["from"])>parse_date_safe(test_task_data["to"]):
+       return [False, "❌To date should be after From Date"]
+    if test_task_data['from']!='-' and parse_date_safe(test_task_data["from"])>next_day:
+        return [False, f"Will start after{(next_day-parse_date_safe(test_task_data['from'])).days} day/s"]
+    if test_task_data['to']!='-' and parse_date_safe(test_task_data["to"])<next_day:
+        return [False, "Task Expired"]
+
+    if not is_on_day(base_date_str=writting_task["from"], check_date_str=next_day, off_days=writting_task["off_days"], on_days=writting_task["on_days"]):
+        return [False, "On/Off Break Day"]
+
+    if (writting_task["weekoff"]!=None and next_day.strftime("%a").lower() in writting_task["weekoff"]):
+        return [False, "WeekOff Day"]
+    return [True, "✅"]
+
+
 
 
 with open("../Tasks/README.md", "w") as f:
@@ -262,18 +264,11 @@ with open("../Tasks/README.md", "w") as f:
         for j in task_setter_data[i].keys():
             writting_task=task_setter_data[i][j]
             task_validity_check=validity_check(task_setter_data[i][j])
-            # if writting_task["from"]!="-":
-            #     if next_day<parse_date_safe(writting_task["from"]):
-            #         continue
-            # if writting_task["to"]!="-":
-            #     if next_day>parse_date_safe(writting_task["to"]):
-            #         continue
-            # if not is_on_day(base_date_str=writting_task["from"], check_date_str=next_day, off_days=writting_task["off_days"], on_days=writting_task["on_days"]):
-            #     continue
-            # if writting_task["weekoff"]!=None:
-            #     if next_day.strftime("%a").lower() in writting_task["weekoff"]:
-            #         continue
-            if not validity_check(task_setter_data[i][j])[0]:
+            task_setter_data[i][j]['status']=task_validity_check[1]
+            from pprint import pprint
+            pprint(task_setter_data[i][j])
+            print(task_validity_check, '\n\n\n')
+            if not task_validity_check[0]:
                 continue
             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
     f.write(new_write)
@@ -300,13 +295,14 @@ with open("../Tasks/Task Setter.md", "w") as f:
             current_weekoff_len=len(task_setter_data[i][j]["weekoff"])*4+2 if task_setter_data[i][j]["weekoff"] else 0
             if max_weekoff_len<current_weekoff_len:
                 max_weekoff_len=current_weekoff_len
-            current_status_len=len(validity_check(task_setter_data[i][j])[1])
+            current_status_len=len(task_setter_data[i][j]['status'])
             if max_status_len<current_status_len:
                 max_status_len=current_status_len
         new_setter_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_task_title_len-5)}|From{' '*(max_date_len-4)}|To{' '*(max_date_len-2)}|Offdays |Ondays |Weekday Off{' '*(max_weekoff_len-12)} |Status{" "*(max_status_len-6)}|Description{' '*(max_description_len-11)}|\n|{'-'*max_task_title_len}|{'-'*max_date_len}|{'-'*max_date_len}|{'-'*8}|{'-'*7}|{'-'*max_weekoff_len}|{'-'*max_status_len}|{'-'*max_description_len}|\n"
         for j in task_setter_data[i].keys():
             current_weekoff=','.join(task_setter_data[i][j]["weekoff"]) if task_setter_data[i][j]['weekoff'] else ' '
-            new_setter_write+=f"|{j}{" "*(max_task_title_len-len(j))}|{task_setter_data[i][j]['from']}{' '*(max_date_len-len(task_setter_data[i][j]['from']))}|{task_setter_data[i][j]['to']}{' '*(max_date_len-len(task_setter_data[i][j]['to']))}|{task_setter_data[i][j]['off_days']}{' '*7}|{task_setter_data[i][j]['on_days']}{' '*6}|{current_weekoff}{' '*(max_weekoff_len-len(current_weekoff))}|{validity_check(task_setter_data[i][j])[1]}{" "*(max_status_len-1-len(validity_check(task_setter_data[i][j])[1]))}|{task_setter_data[i][j]['description']}{' '*(max_description_len-len(task_setter_data[i][j]['description']))}|\n"
+            validity_check_str=task_setter_data[i][j]['status']
+            new_setter_write+=f"|{j}{" "*(max_task_title_len-len(j))}|{task_setter_data[i][j]['from']}{' '*(max_date_len-len(task_setter_data[i][j]['from']))}|{task_setter_data[i][j]['to']}{' '*(max_date_len-len(task_setter_data[i][j]['to']))}|{task_setter_data[i][j]['off_days']}{' '*(8-len(str(task_setter_data[i][j]['off_days'])))}|{task_setter_data[i][j]['on_days']}{' '*(7-len(str(task_setter_data[i][j]['on_days'])))}|{current_weekoff}{' '*(max_weekoff_len-len(current_weekoff))}|{validity_check_str}{" "*(max_status_len-1-len(validity_check_str))}|{task_setter_data[i][j]['description']}{' '*(max_description_len-len(task_setter_data[i][j]['description']))}|\n"
     f.write(new_setter_write)
 
 

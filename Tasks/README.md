@@ -1,4 +1,4 @@
-## Date: 13 August, 2025
+## Date: 14 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -42,7 +42,6 @@
 |Exercise 10 to 30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Non fiction Book Reading 30 minutes to up-DT | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit # -DT                    | <ul><li> [ ] done</li></ul>|
-|Entertainment 2 hours to less-DT             | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |
