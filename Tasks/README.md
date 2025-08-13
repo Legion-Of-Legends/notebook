@@ -46,7 +46,7 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |
 |----------------------------------------------------------|----------------------------|
-|Job life (Technical Skills,Teamwork,Communication) (main) | <ul><li> [ ] done</li></ul>|
-|HVAC Design learnig                                       | <ul><li> [ ] done</li></ul>|
+|Job life (Technical Skills,Teamwork,Communication) (main) | <ul><li> [x] done</li></ul>|
+|HVAC Design learnig                                       | <ul><li> [x] done</li></ul>|
 |Non Fiction Book Reading                                  | <ul><li> [ ] done</li></ul>|
-|Devolop my field (Mechanical)                             | <ul><li> [ ] done</li></ul>|
+|Devolop my field (Mechanical)                             | <ul><li> [x] done</li></ul>|
