@@ -18,3 +18,10 @@ Friends might get spolied and easily to betray on chance. But if you win over yo
 they need to prove themselvs
 
 ## Law 3: Conceal your intensions
+Don't show others what you intentions always camaflauge
+your intentions. There are various way to camaflauge you intention.
+Most popular are via showing different intention or mix your
+intention with other type. By doing so you will gain an upper hand
+in your intentions and your intention will be protected.
+Never think that honesty or humblness will earn you more that you lose.
+If you expose everything you have people will lose interst in you.

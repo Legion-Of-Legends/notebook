@@ -220,8 +220,8 @@ def parse_date_safe(date_str, fmt="%d.%m.%Y"):
 
 
 def is_on_day(base_date_str, check_date_str, off_days, on_days):
-    base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y").date() if base_date_str!="-" else dt.datetime.now().date()
-    check_date = check_date_str.date()
+    base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y") if base_date_str!="-" else dt.datetime.now()
+    check_date = check_date_str
     cycle_length = off_days + on_days
     days_passed = (check_date - base_date).days
     if days_passed < 0:
