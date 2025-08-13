@@ -6,12 +6,12 @@
 |MS word + Excel advanced learning                    |11.08.2025|30.08.2025|0       |1      |            |✅                       |Learning them for professional use      |
 |AI agent advanced learning                           |11.08.2025|30.08.2025|0       |1      |            |✅                       |Learning them for professional use      |
 |Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |✅                       |Learning                                |
-|EEE 1203 - Remaining chapters                        |17.08.2025|30.08.2025|0       |1      |            |Will start after-4 day/s|Understanding + Making notes effectively|
-|Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Will start after-8 day/s|Learning                                |
+|EEE 1203 - Remaining chapters                        |17.08.2025|30.08.2025|0       |1      |            |Will start after-3 day/s|Understanding + Making notes effectively|
+|Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Will start after-7 day/s|Learning                                |
 |Chemistry- making notes                              |11.08.2025|30.08.2025|0       |1      |            |✅                       |Making notes effectively                |
-|EEE 1201- Two port + Filters                         |18.08.2025|25.08.2025|0       |1      |            |Will start after-5 day/s|Understanding + Making notes effectively|
-|EEE 1201- Remaining chapters                         |26.08.2025|30.08.2025|0       |1      |            |Will start after-13 day/s|Understanding + Making notes effectively|
-|Materials presentation                               |20.08.2025|22.08.2025|0       |1      |            |Will start after-7 day/s|Making a presentation on Powerpoint     |
+|EEE 1201- Two port + Filters                         |18.08.2025|25.08.2025|0       |1      |            |Will start after-4 day/s|Understanding + Making notes effectively|
+|EEE 1201- Remaining chapters                         |26.08.2025|30.08.2025|0       |1      |            |Will start after-12 day/s|Understanding + Making notes effectively|
+|Materials presentation                               |20.08.2025|22.08.2025|0       |1      |            |Will start after-6 day/s|Making a presentation on Powerpoint     |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                               |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
@@ -42,11 +42,11 @@
 |Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status                  |Description                                                                  |
 |--------------------------------------------|----------|----------|--------|-------|------------|------------------------|-----------------------------------------------------------------------------|
 |Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri         |✅                      |Trying to be best for promotion & get more money                             |
-|Exercise 10 to 30 minutes-DT                |11.8.2025        |-      |0       |1      |fri,sat     |✅                      |Trying to be Fit and gain some muscle                                        |
-|Non fiction Book Reading 30 minutes to up-DT|11.8.2025         |-         |0       |1      |fri         |✅                      |Reading                                                                      |
-|Safe from bad habit # -DT                   |11.8.2025         |-         |1       |10      |            |✅                      |To remove a bad habit from my life                                           |
-|Entertainment 2 hours to less-DT            |11.8.2025         |-         |2       |2      |            |✅                      |For free time entertainment                                                  |
-|6 Classes Record-FT                         |15.08.2025|15.08.2025|0       |1      |            |Will start after-2 day/s|Trying to build a student network on FB group & YT to sell educational course|
+|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat     |✅                      |Trying to be Fit and gain some muscle                                        |
+|Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri         |✅                      |Reading                                                                      |
+|Safe from bad habit # -DT                   |11.8.2025 |-         |1       |10     |            |✅                      |To remove a bad habit from my life                                           |
+|Entertainment 2 hours to less-DT            |11.8.2025 |-         |2       |2      |            |✅                      |For free time entertainment                                                  |
+|6 Classes Record-FT                         |15.08.2025|15.08.2025|0       |1      |            |Will start after-1 day/s|Trying to build a student network on FB group & YT to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
