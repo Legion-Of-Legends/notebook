@@ -4,11 +4,11 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                 |Completed                   |
 |------------------------------------------------------|----------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [ ] done</li></ul>|
-|MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul>|
-|AI agent advanced learning                            | <ul><li> [ ] done</li></ul>|
+|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [x] done</li></ul>|
+|MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul>|
+|AI agent advanced learning                            | <ul><li> [x] done</li></ul>|
 |Electronics- Single + Multi Stage Amplifier           | <ul><li> [ ] done</li></ul>|
-|Chemistry- making notes                               | <ul><li> [ ] done</li></ul>|
+|Chemistry- making notes                               | <ul><li> [x] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                |Completed                   |
@@ -23,7 +23,7 @@
 |Tasks                                                                             |Completed                   |
 |----------------------------------------------------------------------------------|----------------------------|
 |**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally | <ul><li> [ ] done</li></ul>|
-|Workout                                                                           | <ul><li> [ ] done</li></ul>|
+|Workout                                                       x                    | <ul><li> [ ] done</li></ul>|
 |Read copywriting book                                                             | <ul><li> [ ] done</li></ul>|
 |Read non copywriting book                                                         | <ul><li> [ ] done</li></ul>|
 |NBMM                                                                              | <ul><li> [ ] done</li></ul>|
