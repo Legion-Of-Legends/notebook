@@ -11,7 +11,7 @@ task_time = dt.datetime.strptime(task_tracker.split("## Date:")[1].strip().split
 task_date = task_time.day
 task_month = task_time.month
 task_year = task_time.year
-next_day = dt.datetime.now() + dt.timedelta(days=1)
+next_day = dt.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)# + dt.timedelta(days=1)
 
 member_data_all = task_tracker.split("\n")[2:]
 member_data = {}
@@ -220,7 +220,7 @@ def parse_date_safe(date_str, fmt="%d.%m.%Y"):
 
 
 def is_on_day(base_date_str, check_date_str, off_days, on_days):
-    base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y") if base_date_str!="-" else dt.datetime.now()
+    base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y") if base_date_str!="-" else next_day-dt.timedelta(days=1)
     check_date = check_date_str
     cycle_length = off_days + on_days
     days_passed = (check_date - base_date).days

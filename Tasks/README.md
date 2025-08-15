@@ -37,6 +37,7 @@
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
 |Safe from bad habit # -DT                    | <ul><li> [ ] done</li></ul>|
+|6 Classes Record-FT                          | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |
