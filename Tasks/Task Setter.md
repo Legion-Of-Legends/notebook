@@ -20,7 +20,7 @@
 |------------------------------------|----------|----------|--------|-------|------------|----------------|------------------------------|
 |Learning DSA for 1 hour **(Main)**  |11.08.2025|-         |0       |1      |            |✅              |Foundations of Programming    |
 |Learning Maths for 1 hour **(Main)**|11.08.2025|-         |0       |1      |            |✅              |Foundations of AI/ML          |
-|Workout                             |11.08.2025|-         |1       |1      |            |On/Off Break Day|Daily Routine of Workout.     |
+|Workout                             |11.08.2025|-         |0       |1      |            |On/Off Break Day|Daily Routine of Workout.     |
 |Reading The art of Thinking Clearly |11.08.2025|-         |0       |1      |            |✅              |Reading book task set by group|
 |NBMM                                |11.08.2025|-         |0       |1      |            |✅              |Removing Bad habits           |
 
