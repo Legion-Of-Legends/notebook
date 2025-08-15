@@ -1,6 +1,7 @@
 import os
 import re
 import datetime as dt
+from pprint import pprint
 from bs4 import BeautifulSoup
 
 with open("../Tasks/README.md") as f:
@@ -243,11 +244,12 @@ def validity_check(test_task_data):
     if test_task_data['to']!='-' and parse_date_safe(test_task_data["to"])<next_day:
         return [False, "Task Expired"]
 
-    if not is_on_day(base_date_str=writting_task["from"], check_date_str=next_day, off_days=writting_task["off_days"], on_days=writting_task["on_days"]):
+    if not is_on_day(base_date_str=test_task_data["from"], check_date_str=next_day, off_days=test_task_data["off_days"], on_days=test_task_data["on_days"]):
         return [False, "On/Off Break Day"]
 
-    if (writting_task["weekoff"]!=None and next_day.strftime("%a").lower() in writting_task["weekoff"]):
+    if (test_task_data["weekoff"]!=None and next_day.strftime("%a").lower() in test_task_data["weekoff"]):
         return [False, "WeekOff Day"]
+    pprint(test_task_data)
     return [True, "✅"]
 
 
@@ -265,9 +267,8 @@ with open("../Tasks/README.md", "w") as f:
             writting_task=task_setter_data[i][j]
             task_validity_check=validity_check(task_setter_data[i][j])
             task_setter_data[i][j]['status']=task_validity_check[1]
-            from pprint import pprint
-            pprint(task_setter_data[i][j])
-            print(task_validity_check, '\n\n\n')
+            # pprint(task_setter_data[i][j])
+            # print(task_validity_check, '\n\n\n')
             if not task_validity_check[0]:
                 continue
             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
