@@ -12,6 +12,8 @@
 |EEE 1201- Two port + Filters                         |18.08.2025|25.08.2025|0       |1      |            |Will start after-3 day/s|Understanding + Making notes effectively|
 |EEE 1201- Remaining chapters                         |26.08.2025|30.08.2025|0       |1      |            |Will start after-11 day/s|Understanding + Making notes effectively|
 |Materials presentation                               |20.08.2025|22.08.2025|0       |1      |            |Will start after-5 day/s|Making a presentation on Powerpoint     |
+|Reading non-fiction                               |15.08.2025|-|0       |1      |            |Will start after-5 day/s|Discovering myself throught non-fiction |
+
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                               |From      |To        |Offdays |Ondays |Weekday Off |Status          |Description                   |
