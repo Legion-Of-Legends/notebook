@@ -39,8 +39,8 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
-|Non fiction Book Reading 30 minutes to up-DT | <ul><li> [ ] done</li></ul>|
-|Safe from bad habit # -DT                    | <ul><li> [ ] done</li></ul>|
+|Non fiction Book Reading 30 minutes to up-DT | <ul><li> [x] done</li></ul>|
+|Safe from bad habit # -DT                    | <ul><li> [x] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |
