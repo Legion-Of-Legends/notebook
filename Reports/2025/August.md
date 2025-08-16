@@ -18,138 +18,131 @@
 <tr>
 <td rowspan="5"><a href="https://github.com/mdemammehedi-159">Md. Emam Mehedi</a></td>
 <td>Varsity life(assignment, lab, classes, CT) **(Main)**</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Survive</td>
 </tr>
 
 
 <tr>
 <td>MS word + Excel advanced learning</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Learning them for professional use</td>
 </tr>
 
 
 <tr>
 <td>AI agent advanced learning</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Learning them for professional use</td>
 </tr>
 
 
 <tr>
 <td>Electronics- Single + Multi Stage Amplifier</td>
+<td>5</td>
 <td>4</td>
-<td>4</td>
-<td>0</td>
-<td>Learning</td>
+<td>1</td>
 </tr>
 
 
 <tr>
 <td>Chemistry- making notes</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Making notes effectively</td>
 </tr>
 
 
 <tr>
 <td rowspan="5"><a href="https://github.com/RT-Jeion">RT Jeion</a></td>
 <td>Learning DSA for 1 hour **(Main)**</td>
+<td>5</td>
 <td>4</td>
-<td>3</td>
 <td>1</td>
-<td>Foundations of Programming</td>
 </tr>
 
 
 <tr>
 <td>Learning Maths for 1 hour **(Main)**</td>
+<td>5</td>
 <td>4</td>
-<td>3</td>
 <td>1</td>
-<td>Foundations of AI/ML</td>
-</tr>
-
-
-<tr>
-<td>Workout</td>
-<td>4</td>
-<td>2</td>
-<td>2</td>
-<td>Daily Routine of Workout.</td>
 </tr>
 
 
 <tr>
 <td>Reading The art of Thinking Clearly</td>
-<td>4</td>
+<td>5</td>
+<td>3</td>
 <td>2</td>
-<td>2</td>
-<td>Reading book task set by group</td>
 </tr>
 
 
 <tr>
 <td>NBMM</td>
+<td>5</td>
 <td>4</td>
-<td>3</td>
 <td>1</td>
-<td>Removing Bad habits</td>
-</tr>
-
-
-<tr>
-<td rowspan="6"><a href="https://github.com/zubair-rex">Zubair Ahmed</a></td>
-<td>**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>Becoming better at my skill</td>
 </tr>
 
 
 <tr>
 <td>Workout</td>
 <td>4</td>
-<td>4</td>
+<td>2</td>
+<td>2</td>
+</tr>
+
+
+<tr>
+<td rowspan="7"><a href="https://github.com/zubair-rex">Zubair Ahmed</a></td>
+<td>**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally</td>
+<td>1</td>
+<td>1</td>
 <td>0</td>
-<td>very good</td>
+</tr>
+
+
+<tr>
+<td>Workout</td>
+<td>5</td>
+<td>5</td>
+<td>0</td>
 </tr>
 
 
 <tr>
 <td>Read copywriting book</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Learning from the best at my field</td>
 </tr>
 
 
 <tr>
 <td>Read non copywriting book</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Intelligence</td>
 </tr>
 
 
 <tr>
 <td>NBMM</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Staying healthy</td>
+</tr>
+
+
+<tr>
+<td>**Main Task**Write a copy  or analyse a copy handwritten or digitally</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
 </tr>
 
 
@@ -158,36 +151,48 @@
 <td>3</td>
 <td>3</td>
 <td>0</td>
-<td>Staying healthy</td>
 </tr>
 
 
 <tr>
 <td rowspan="2"><a href="https://github.com/mahmud1223">Mahmud Hasan</a></td>
 <td>Learning Japanese (main)</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Learning Japanese to go to Japan for higher studies</td>
 </tr>
 
 
 <tr>
 <td>Reading (The power of 48 laws) - 30 min</td>
-<td>4</td>
-<td>4</td>
+<td>5</td>
+<td>5</td>
 <td>0</td>
-<td>Learning various new ways to communicate</td>
 </tr>
 
 
 <tr>
-<td rowspan="5"><a href="https://github.com/alfiahmed160">Alfi Ahmed</a></td>
+<td rowspan="6"><a href="https://github.com/alfiahmed160">Alfi Ahmed</a></td>
+<td>Safe from bad habit # -DT</td>
+<td>5</td>
+<td>5</td>
+<td>0</td>
+</tr>
+
+
+<tr>
+<td>6 Classes Record-FT</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+</tr>
+
+
+<tr>
 <td>Office Work-**(MT)**</td>
 <td>4</td>
 <td>4</td>
 <td>0</td>
-<td>Trying to be best for promotion & get more money</td>
 </tr>
 
 
@@ -196,7 +201,6 @@
 <td>4</td>
 <td>4</td>
 <td>0</td>
-<td>Trying to be Fit and gain some muscle</td>
 </tr>
 
 
@@ -205,16 +209,6 @@
 <td>4</td>
 <td>4</td>
 <td>0</td>
-<td>Reading</td>
-</tr>
-
-
-<tr>
-<td>Safe from bad habit # -DT</td>
-<td>4</td>
-<td>4</td>
-<td>0</td>
-<td>To remove a bad habit from my life</td>
 </tr>
 
 
@@ -223,17 +217,23 @@
 <td>1</td>
 <td>1</td>
 <td>0</td>
-<td>For free time entertainment</td>
 </tr>
 
 
 <tr>
 <td rowspan="4"><a href="https://github.com/tanvir7hasan">Tanvir Hasan</a></td>
+<td>Non Fiction Book Reading</td>
+<td>5</td>
+<td>0</td>
+<td>5</td>
+</tr>
+
+
+<tr>
 <td>Job life (Technical Skills,Teamwork,Communication) (main)</td>
 <td>4</td>
 <td>2</td>
 <td>2</td>
-<td>job resposibilites with skill development</td>
 </tr>
 
 
@@ -242,16 +242,6 @@
 <td>4</td>
 <td>2</td>
 <td>2</td>
-<td>AutoCad/REvit,lode calcs,duct & piping design</td>
-</tr>
-
-
-<tr>
-<td>Non Fiction Book Reading</td>
-<td>4</td>
-<td>0</td>
-<td>4</td>
-<td>Personal Grow</td>
 </tr>
 
 
@@ -260,7 +250,6 @@
 <td>4</td>
 <td>2</td>
 <td>2</td>
-<td>Learn,practice and improve in Mechanical systems</td>
 </tr>
 
 

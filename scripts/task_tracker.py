@@ -4,7 +4,7 @@ import datetime as dt
 from pprint import pprint
 from bs4 import BeautifulSoup
 
-with open("../Tasks/README.md") as f:
+with open("../Tasks/README.md", "r") as f:
     task_tracker = f.read()
 
 # filter data
@@ -12,7 +12,7 @@ task_time = dt.datetime.strptime(task_tracker.split("## Date:")[1].strip().split
 task_date = task_time.day
 task_month = task_time.month
 task_year = task_time.year
-next_day = dt.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)# + dt.timedelta(days=1)
+next_day = dt.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0) + dt.timedelta(days=1)
 
 member_data_all = task_tracker.split("\n")[2:]
 member_data = {}
@@ -27,7 +27,7 @@ while count < len(member_data_all):
         for i in range(count + 1, len(member_data_all)):
             if member_data_all[i].startswith("##"):
                 break
-            elif member_data_all[i].startswith("|--") or member_data_all[i].startswith("|Tasks") or member_data_all[i].strip() == "":
+            elif member_data_all[i].startswith("|--") or member_data_all[i].startswith("| --") or member_data_all[i].startswith("|Tasks") or member_data_all[i].startswith("| Task") or member_data_all[i].strip() == "":
                 continue
             else:
                 task = member_data_all[i].strip().split("|")
@@ -35,7 +35,6 @@ while count < len(member_data_all):
                 # member_task[task[0].strip()] = task[1].strip()
         member_data[member_name] = member_task
     count += 1
-
 # Create directory for reports if it doesn't exist
 file_route = f"../Reports/{task_year}/{task_time.strftime("%B")}.md"
 os.makedirs(os.path.dirname(file_route), exist_ok=True)
@@ -73,32 +72,25 @@ with open(file_route, "r") as f:
                 previous_report[current_member].append(data)
 
 
-
 # Merging previous report with current data
 Merged_Data = {}
 for member, tasks in member_data.items():
     Merged_Data[member] = []
     if member in previous_report:
+        temp_member_task_list=[i["task"] for i in previous_report[member]]
         for task, completed in tasks.items():
-            if task in [i["task"] for i in previous_report[member]]:
+            if task in temp_member_task_list:
                 previous_task = next((item for item in previous_report[member] if item['task'] == task), None)
-                if previous_task:
-                    total = int(previous_task['total']) + 1
-                    completed_count = int(previous_task['completed']) + (1 if completed else 0)
-                    incompleted_count = int(previous_task['incompleted']) + (0 if completed else 1)
-                    Merged_Data[member].append({
+                total = int(previous_task['total']) + 1
+                completed_count = int(previous_task['completed']) + (1 if completed else 0)
+                incompleted_count = int(previous_task['incompleted']) + (0 if completed else 1)
+                Merged_Data[member].append({
                         "task": task,
                         "total": total,
                         "completed": completed_count,
                         "incompleted": incompleted_count
-                    })
-                else:
-                    Merged_Data[member].append({
-                        "task": task,
-                        "total": 1,
-                        "completed": 1 if completed else 0,
-                        "incompleted": 0 if completed else 1
-                    })
+                })
+                temp_member_task_list.remove(task)
             else:
                 Merged_Data[member].append({
                     "task": task,
@@ -106,6 +98,14 @@ for member, tasks in member_data.items():
                     "completed": 1 if completed else 0,
                     "incompleted": 0 if completed else 1
                 })
+        for i in temp_member_task_list:
+            previous_task = next((item for item in previous_report[member] if item['task'] == i), None)
+            Merged_Data[member].append({
+                "task": i,
+                "total": int(previous_task['total']),
+                "completed": int(previous_task['completed']),
+                "incompleted": int(previous_task['incompleted'])
+            })
     else:
         for task, completed in tasks.items():
             Merged_Data[member].append({
@@ -114,8 +114,6 @@ for member, tasks in member_data.items():
                 "completed": 1 if completed else 0,
                 "incompleted": 0 if completed else 1
             })
-
-
 
 
 
@@ -133,7 +131,7 @@ with open("../Tasks/Task Setter.md", "r") as f:
                 inline_data=data[i]
                 if inline_data.startswith("##"):
                     break
-                elif inline_data.startswith("|Task") or inline_data.startswith("|-") or not inline_data.strip():
+                elif inline_data.startswith("|Task") or inline_data.startswith("| Task") or inline_data.startswith("|-") or inline_data.startswith("|--") or not inline_data.strip():
                     continue
                 else:
                     inline_data=[j.strip() for j in inline_data.split("|")][1:-1]
@@ -150,7 +148,7 @@ with open("../Tasks/Task Setter.md", "r") as f:
                 task_setter_data[username]=user_tasks
         count+=1
 
-
+print(Merged_Data)
 
 # Writing the report to a markdown file
 
@@ -182,20 +180,19 @@ with open(file_route, "w") as f:
                 <td>{task['total']}</td>
                 <td>{task['completed']}</td>
                 <td>{task['incompleted']}</td>
-                <td>{task_setter_data[member][task['task']]['description']}</td>
                 </tr>\n
                 """
-                task_count += 1
-                continue
-            taskbody += f"""
-            <tr>
-            <td>{task['task']}</td>
-            <td>{task['total']}</td>
-            <td>{task['completed']}</td>
-            <td>{task['incompleted']}</td>
-            <td>{task_setter_data[member][task['task']]['description']}</td>
-            </tr>\n
-            """
+                # <td>{task_setter_data[member][task['task']].get('description')}</td>
+
+            else:
+                taskbody += f"""
+                <tr>
+                <td>{task['task']}</td>
+                <td>{task['total']}</td>
+                <td>{task['completed']}</td>
+                <td>{task['incompleted']}</td>
+                </tr>\n
+                """
             task_count += 1
         table_data += taskbody
     table_data += """
@@ -249,7 +246,6 @@ def validity_check(test_task_data):
 
     if (test_task_data["weekoff"]!=None and next_day.strftime("%a").lower() in test_task_data["weekoff"]):
         return [False, "WeekOff Day"]
-    pprint(test_task_data)
     return [True, "✅"]
 
 
@@ -267,8 +263,6 @@ with open("../Tasks/README.md", "w") as f:
             writting_task=task_setter_data[i][j]
             task_validity_check=validity_check(task_setter_data[i][j])
             task_setter_data[i][j]['status']=task_validity_check[1]
-            # pprint(task_setter_data[i][j])
-            # print(task_validity_check, '\n\n\n')
             if not task_validity_check[0]:
                 continue
             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
