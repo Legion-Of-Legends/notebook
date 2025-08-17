@@ -8,8 +8,8 @@
 |MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul>|
 |AI agent advanced learning                            | <ul><li> [x] done</li></ul>|
 |EEE 1203 - Remaining chapters                         | <ul><li> [x] done</li></ul>|
-|Chemistry- making notes                               | <ul><li> [ ] done</li></ul>|
-|Reading non-fiction                                   | <ul><li> [ ] done</li></ul>|
+|Chemistry- making notes                               | <ul><li> [x] done</li></ul>|
+|Reading non-fiction                                   | <ul><li> [x] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                |Completed                   |
