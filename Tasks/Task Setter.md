@@ -31,7 +31,6 @@
 |Read copywriting book                                                            |11.08.2025|-         |0       |1      |            |✅      |Learning from the best at my field|
 |Read non copywriting book                                                        |11.08.2025|-         |0       |1      |            |✅      |Intelligence                      |
 |NBMM                                                                             |11.08.2025|-         |0       |1      |            |✅      |Staying healthy                   |
-|No Yt videos/anime/or any content                                                |12.08.2025|30.08.2025|0       |1      |fri         |✅      |Staying healthy                   |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                        |
