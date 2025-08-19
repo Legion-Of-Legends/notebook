@@ -58,7 +58,7 @@
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
-|---------------------------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------------------------||
+|---------------------------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------------------------|
 |Entertainment   3 hour                                   |19.08.2025|31.12.2025|0       |1      |         |✅      |AutoCad/REvit,lode calcs,duct & piping design   |
-|Non Fiction Book Reading (30 minutes)                                 |19.08.2025|-         |0       |1      |            |✅      |Personal Grow                                   |
+|Non Fiction Book Reading (30 minutes)                     |19.08.2025|-         |0       |1      |            |✅      |Personal Grow                                   |
 
