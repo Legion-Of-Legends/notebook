@@ -9,8 +9,8 @@
 |EEE 1203 - Remaining chapters                        |17.08.2025|30.08.2025|0       |1      |            |✅                      |Understanding + Making notes effectively|
 |Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Will start after-2 day/s|Learning                                |
 |Chemistry- making notes                              |11.08.2025|18.08.2025|0       |1      |            |Task Expired           |Making notes effectively                |
-|EEE 1201- Two port + Filters                         |18.08.2025|25.08.2025|0       |1      |            |✅                      |Understanding + Making notes effectively|
-|EEE 1201- Remaining chapters                         |26.08.2025|30.08.2025|0       |1      |            |Will start after-7 day/s|Understanding + Making notes effectively|
+|EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |✅                      |Understanding + Making notes effectively|
+|EEE 1201                         |25.08.2025|30.08.2025|0       |1      |            |Will start after-7 day/s|Understanding + Making notes effectively|
 |Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Will start after-1 day/s|Making a presentation on Powerpoint     |
 |Reading non-fiction                                  |15.08.2025|-         |0       |1      |            |✅                      |Discovering myself throught non-fiction |
 
