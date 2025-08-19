@@ -1,4 +1,4 @@
-## Date: 20 August, 2025
+## Date: 19 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -9,7 +9,6 @@
 |AI agent advanced learning                            | <ul><li> [ ] done</li></ul>|
 |EEE 1203 - Remaining chapters                         | <ul><li> [ ] done</li></ul>|
 |EEE 1201- Two port + Filters                          | <ul><li> [ ] done</li></ul>|
-|Materials presentation                                | <ul><li> [ ] done</li></ul>|
 |Reading non-fiction                                   | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
