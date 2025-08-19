@@ -7,11 +7,11 @@
 |AI agent advanced learning                           |11.08.2025|30.08.2025|0       |1      |            |✅                      |Learning them for professional use      |
 |Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Task Expired           |Learning                                |
 |EEE 1203 - Remaining chapters                        |17.08.2025|30.08.2025|0       |1      |            |✅                      |Understanding + Making notes effectively|
-|Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Will start after-2 day/s|Learning                                |
+|Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Will start after-1 day/s|Learning                                |
 |Chemistry- making notes                              |11.08.2025|18.08.2025|0       |1      |            |Task Expired           |Making notes effectively                |
-|EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |✅                      |Understanding + Making notes effectively|
-|EEE 1201                         |25.08.2025|30.08.2025|0       |1      |            |Will start after-7 day/s|Understanding + Making notes effectively|
-|Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Will start after-1 day/s|Making a presentation on Powerpoint     |
+|EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |Task Expired           |Understanding + Making notes effectively|
+|EEE 1201                                             |25.08.2025|30.08.2025|0       |1      |            |Will start after-5 day/s|Understanding + Making notes effectively|
+|Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |✅                      |Making a presentation on Powerpoint     |
 |Reading non-fiction                                  |15.08.2025|-         |0       |1      |            |✅                      |Discovering myself throught non-fiction |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
@@ -46,7 +46,7 @@
 |Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri         |✅                      |Reading                                                                      |
 |Safe from bad habit # -DT                   |11.8.2025 |-         |1       |10     |            |✅                      |To remove a bad habit from my life                                           |
 |Entertainment 2 hours to less-DT            |11.8.2025 |-         |2       |2      |            |On/Off Break Day       |For free time entertainment                                                  |
-|6 Classes Record-FT                         |22.08.2025|22.08.2025|0       |1      |            |Will start after-3 day/s|Trying to build a student network on FB group & YT to sell educational course|
+|6 Classes Record-FT                         |22.08.2025|22.08.2025|0       |1      |            |Will start after-2 day/s|Trying to build a student network on FB group & YT to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
