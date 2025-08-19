@@ -36,7 +36,7 @@
 | Tasks                                   | Completed                   |
 | --------------------------------------- | --------------------------- |
 | Learning Japanese (main)                | <ul><li> [x] done</li></ul> |
-| Reading (The power of 48 laws) - 30 min | <ul><li> [ ] done</li></ul> |
+| Reading (The power of 48 laws) - 30 min | <ul><li> [x] done</li></ul> |
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 
