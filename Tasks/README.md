@@ -5,11 +5,11 @@
 | Tasks                                                 | Completed                   |
 | ----------------------------------------------------- | --------------------------- |
 | Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [x] done</li></ul> |
-| MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul> |
-| AI agent advanced learning                            | <ul><li> [ ] done</li></ul> |
-| EEE 1203 - Remaining chapters                         | <ul><li> [ ] done</li></ul> |
+| MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul> |
+| AI agent advanced learning                            | <ul><li> [x] done</li></ul> |
+| EEE 1203 - Remaining chapters                         | <ul><li> [x] done</li></ul> |
 | EEE 1201- Two port + Filters                          | <ul><li> [x] done</li></ul> |
-| Reading non-fiction                                   | <ul><li> [ ] done</li></ul> |
+| Reading non-fiction                                   | <ul><li> [x] done</li></ul> |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 
