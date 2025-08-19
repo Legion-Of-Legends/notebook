@@ -16,13 +16,11 @@ next_day = dt.datetime.now().replace(hour=0, minute=0, second=0, microsecond=0) 
 
 member_data_all = task_tracker.split("\n")[2:]
 member_data = {}
-member_name_github = {}
 count = 0
 while count < len(member_data_all):
     if member_data_all[count].startswith("##"):
         member_name = member_data_all[count].split("##")[1].strip().split("]")[0].strip()[1:]
         member_github = member_data_all[count].split("##")[1].strip().split("(")[1].strip()[:-1]
-        member_name_github[member_name] = member_github
         member_task={}
         for i in range(count + 1, len(member_data_all)):
             if member_data_all[i].startswith("##"):
@@ -118,6 +116,8 @@ for member, tasks in member_data.items():
 
 
 # Getting data from tasks according to Task Setter.md
+
+member_name_github = {}
 with open("../Tasks/Task Setter.md", "r") as f:
     data=f.read().split("\n")
     count=0
@@ -126,6 +126,8 @@ with open("../Tasks/Task Setter.md", "r") as f:
         current_line=data[count]
         if current_line.startswith("##"):
             username = current_line.split("##")[1].strip().split("]")[0].strip()[1:]
+            member_github = current_line.split("##")[1].strip().split("(")[1].strip()[:-1]
+            member_name_github[username]=member_github
             user_tasks={}
             for i in range(count+1, len(data)):
                 inline_data=data[i]
@@ -150,154 +152,154 @@ with open("../Tasks/Task Setter.md", "r") as f:
 
 print(Merged_Data)
 
-# Writing the report to a markdown file
+ # Writing the report to a markdown file
 
 with open(file_route, "w") as f:
-    f.write(f"# Task Tracker Report for {task_time.strftime('%B %Y')}\n\n")
-    table_data = """
-    <table>
-    <thead>
-    <tr>
-        <th>Member</th>
-        <th>Task</th>
-        <th>Total Days</th>
-        <th>Completed</th>
-        <th>Incompleted</th>
-        <th>Description</th>
-    </tr>
-    </thead>\n
-    <tbody>
-    """
-    for member, tasks in Merged_Data.items():
-        taskbody = ""
-        task_count = 0
-        for task in tasks:
-            if task_count == 0:
-                taskbody += f"""
-                <tr>
-                <td rowspan="{len(tasks)}"><a href="{member_name_github[member]}">{member}</a></td>
-                <td>{task['task']}</td>
-                <td>{task['total']}</td>
-                <td>{task['completed']}</td>
-                <td>{task['incompleted']}</td>
-                </tr>\n
-                """
-                # <td>{task_setter_data[member][task['task']].get('description')}</td>
+     f.write(f"# Task Tracker Report for {task_time.strftime('%B %Y')}\n\n")
+     table_data = """
+     <table>
+     <thead>
+     <tr>
+         <th>Member</th>
+         <th>Task</th>
+         <th>Total Days</th>
+         <th>Completed</th>
+         <th>Incompleted</th>
+         <th>Description</th>
+     </tr>
+     </thead>\n
+     <tbody>
+     """
+     for member, tasks in Merged_Data.items():
+         taskbody = ""
+         task_count = 0
+         for task in tasks:
+             if task_count == 0:
+                 taskbody += f"""
+                 <tr>
+                 <td rowspan="{len(tasks)}"><a href="{member_name_github[member]}">{member}</a></td>
+                 <td>{task['task']}</td>
+                 <td>{task['total']}</td>
+                 <td>{task['completed']}</td>
+                 <td>{task['incompleted']}</td>
+                 </tr>\n
+                 """
+                 # <td>{task_setter_data[member][task['task']].get('description')}</td>
 
-            else:
-                taskbody += f"""
-                <tr>
-                <td>{task['task']}</td>
-                <td>{task['total']}</td>
-                <td>{task['completed']}</td>
-                <td>{task['incompleted']}</td>
-                </tr>\n
-                """
-            task_count += 1
-        table_data += taskbody
-    table_data += """
-        </tbody>
-        </table>
-        """
-    table_data = '\n'.join(re.sub(r'^\s+', '', line) for line in table_data.splitlines())
-    f.write(table_data)
-
-
+             else:
+                 taskbody += f"""
+                 <tr>
+                 <td>{task['task']}</td>
+                 <td>{task['total']}</td>
+                 <td>{task['completed']}</td>
+                 <td>{task['incompleted']}</td>
+                 </tr>\n
+                 """
+             task_count += 1
+         table_data += taskbody
+     table_data += """
+         </tbody>
+         </table>
+         """
+     table_data = '\n'.join(re.sub(r'^\s+', '', line) for line in table_data.splitlines())
+     f.write(table_data)
 
 
 
 
 
-# Reseting the task file
+
+
+ # Reseting the task file
 
 def parse_date_safe(date_str, fmt="%d.%m.%Y"):
-    try:
-        return dt.datetime.strptime(date_str, fmt)
-    except ValueError:
-        return None
+     try:
+         return dt.datetime.strptime(date_str, fmt)
+     except ValueError:
+         return None
 
 
 def is_on_day(base_date_str, check_date_str, off_days, on_days):
-    base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y") if base_date_str!="-" else next_day-dt.timedelta(days=1)
-    check_date = check_date_str
-    cycle_length = off_days + on_days
-    days_passed = (check_date - base_date).days
-    if days_passed < 0:
-        return False
-    day_in_cycle = days_passed % cycle_length
-    return day_in_cycle >= off_days
+     base_date = dt.datetime.strptime(base_date_str, "%d.%m.%Y") if base_date_str!="-" else next_day-dt.timedelta(days=1)
+     check_date = check_date_str
+     cycle_length = off_days + on_days
+     days_passed = (check_date - base_date).days
+     if days_passed < 0:
+         return False
+     day_in_cycle = days_passed % cycle_length
+     return day_in_cycle >= off_days
 
 def validity_check(test_task_data):
-    if test_task_data["from"]=='-' or test_task_data["to"]=='-':
-        pass
-    elif parse_date_safe(test_task_data["from"])==None:
-        return [False, "❌Invalid From Date"]
-    elif parse_date_safe(test_task_data["to"])==None:
-        return [False, "❌Invalid To Date"]
-    elif parse_date_safe(test_task_data["from"])>parse_date_safe(test_task_data["to"]):
-       return [False, "❌To date should be after From Date"]
-    if test_task_data['from']!='-' and parse_date_safe(test_task_data["from"])>next_day:
-        return [False, f"Will start after{(next_day-parse_date_safe(test_task_data['from'])).days} day/s"]
-    if test_task_data['to']!='-' and parse_date_safe(test_task_data["to"])<next_day:
-        return [False, "Task Expired"]
+     if test_task_data["from"]=='-' or test_task_data["to"]=='-':
+         pass
+     elif parse_date_safe(test_task_data["from"])==None:
+         return [False, "❌Invalid From Date"]
+     elif parse_date_safe(test_task_data["to"])==None:
+         return [False, "❌Invalid To Date"]
+     elif parse_date_safe(test_task_data["from"])>parse_date_safe(test_task_data["to"]):
+        return [False, "❌To date should be after From Date"]
+     if test_task_data['from']!='-' and parse_date_safe(test_task_data["from"])>next_day:
+         return [False, f"Will start after{(next_day-parse_date_safe(test_task_data['from'])).days} day/s"]
+     if test_task_data['to']!='-' and parse_date_safe(test_task_data["to"])<next_day:
+         return [False, "Task Expired"]
 
-    if not is_on_day(base_date_str=test_task_data["from"], check_date_str=next_day, off_days=test_task_data["off_days"], on_days=test_task_data["on_days"]):
-        return [False, "On/Off Break Day"]
+     if not is_on_day(base_date_str=test_task_data["from"], check_date_str=next_day, off_days=test_task_data["off_days"], on_days=test_task_data["on_days"]):
+         return [False, "On/Off Break Day"]
 
-    if (test_task_data["weekoff"]!=None and next_day.strftime("%a").lower() in test_task_data["weekoff"]):
-        return [False, "WeekOff Day"]
-    return [True, "✅"]
+     if (test_task_data["weekoff"]!=None and next_day.strftime("%a").lower() in test_task_data["weekoff"]):
+         return [False, "WeekOff Day"]
+     return [True, "✅"]
 
 
 
 
 with open("../Tasks/README.md", "w") as f:
-    new_write = f"## Date: {next_day.strftime('%d %B, %Y')}\n\n"
-    for i in task_setter_data.keys():
-        max_len=0
-        for j in task_setter_data[i].keys():
-            if max_len<len(j):
-                max_len=len(j)
-        new_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_len-5)} |Completed{' '*19}|\n|{'-'*max_len}-|{'-'*28}|\n"
-        for j in task_setter_data[i].keys():
-            writting_task=task_setter_data[i][j]
-            task_validity_check=validity_check(task_setter_data[i][j])
-            task_setter_data[i][j]['status']=task_validity_check[1]
-            if not task_validity_check[0]:
-                continue
-            new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
-    f.write(new_write)
+     new_write = f"## Date: {next_day.strftime('%d %B, %Y')}\n\n"
+     for i in task_setter_data.keys():
+         max_len=0
+         for j in task_setter_data[i].keys():
+             if max_len<len(j):
+                 max_len=len(j)
+         new_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_len-5)} |Completed{' '*19}|\n|{'-'*max_len}-|{'-'*28}|\n"
+         for j in task_setter_data[i].keys():
+             writting_task=task_setter_data[i][j]
+             task_validity_check=validity_check(task_setter_data[i][j])
+             task_setter_data[i][j]['status']=task_validity_check[1]
+             if not task_validity_check[0]:
+                 continue
+             new_write+=f"|{j}{' '*(max_len-len(j))} | <ul><li> [ ] done</li></ul>|\n"
+     f.write(new_write)
 
 
 
-# Resetting the setter file
+ # Resetting the setter file
 
 
 with open("../Tasks/Task Setter.md", "w") as f:
-    new_setter_write=""
-    for i in task_setter_data.keys():
-        max_task_title_len: int=0
-        max_date_len: int=10
-        max_description_len: int=13
-        max_status_len: int=8
-        max_weekoff_len: int=12
-        for j in task_setter_data[i].keys():
-            if max_task_title_len<len(j):
-                max_task_title_len=len(j)
-            current_description_len=len(task_setter_data[i][j]["description"])
-            if max_description_len<current_description_len:
-                max_description_len=current_description_len
-            current_weekoff_len=len(task_setter_data[i][j]["weekoff"])*4+2 if task_setter_data[i][j]["weekoff"] else 0
-            if max_weekoff_len<current_weekoff_len:
-                max_weekoff_len=current_weekoff_len
-            current_status_len=len(task_setter_data[i][j]['status'])
-            if max_status_len<current_status_len:
-                max_status_len=current_status_len
-        new_setter_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_task_title_len-5)}|From{' '*(max_date_len-4)}|To{' '*(max_date_len-2)}|Offdays |Ondays |Weekday Off{' '*(max_weekoff_len-12)} |Status{" "*(max_status_len-6)}|Description{' '*(max_description_len-11)}|\n|{'-'*max_task_title_len}|{'-'*max_date_len}|{'-'*max_date_len}|{'-'*8}|{'-'*7}|{'-'*max_weekoff_len}|{'-'*max_status_len}|{'-'*max_description_len}|\n"
-        for j in task_setter_data[i].keys():
-            current_weekoff=','.join(task_setter_data[i][j]["weekoff"]) if task_setter_data[i][j]['weekoff'] else ' '
-            validity_check_str=task_setter_data[i][j]['status']
-            new_setter_write+=f"|{j}{" "*(max_task_title_len-len(j))}|{task_setter_data[i][j]['from']}{' '*(max_date_len-len(task_setter_data[i][j]['from']))}|{task_setter_data[i][j]['to']}{' '*(max_date_len-len(task_setter_data[i][j]['to']))}|{task_setter_data[i][j]['off_days']}{' '*(8-len(str(task_setter_data[i][j]['off_days'])))}|{task_setter_data[i][j]['on_days']}{' '*(7-len(str(task_setter_data[i][j]['on_days'])))}|{current_weekoff}{' '*(max_weekoff_len-len(current_weekoff))}|{validity_check_str}{" "*(max_status_len-1-len(validity_check_str))}|{task_setter_data[i][j]['description']}{' '*(max_description_len-len(task_setter_data[i][j]['description']))}|\n"
-    f.write(new_setter_write)
+     new_setter_write=""
+     for i in task_setter_data.keys():
+         max_task_title_len: int=0
+         max_date_len: int=10
+         max_description_len: int=13
+         max_status_len: int=8
+         max_weekoff_len: int=12
+         for j in task_setter_data[i].keys():
+             if max_task_title_len<len(j):
+                 max_task_title_len=len(j)
+             current_description_len=len(task_setter_data[i][j]["description"])
+             if max_description_len<current_description_len:
+                 max_description_len=current_description_len
+             current_weekoff_len=len(task_setter_data[i][j]["weekoff"])*4+2 if task_setter_data[i][j]["weekoff"] else 0
+             if max_weekoff_len<current_weekoff_len:
+                 max_weekoff_len=current_weekoff_len
+             current_status_len=len(task_setter_data[i][j]['status'])
+             if max_status_len<current_status_len:
+                 max_status_len=current_status_len
+         new_setter_write+=f"\n## [{i}]({member_name_github[i]})\n|Tasks{' '*(max_task_title_len-5)}|From{' '*(max_date_len-4)}|To{' '*(max_date_len-2)}|Offdays |Ondays |Weekday Off{' '*(max_weekoff_len-12)} |Status{" "*(max_status_len-6)}|Description{' '*(max_description_len-11)}|\n|{'-'*max_task_title_len}|{'-'*max_date_len}|{'-'*max_date_len}|{'-'*8}|{'-'*7}|{'-'*max_weekoff_len}|{'-'*max_status_len}|{'-'*max_description_len}|\n"
+         for j in task_setter_data[i].keys():
+             current_weekoff=','.join(task_setter_data[i][j]["weekoff"]) if task_setter_data[i][j]['weekoff'] else ' '
+             validity_check_str=task_setter_data[i][j]['status']
+             new_setter_write+=f"|{j}{" "*(max_task_title_len-len(j))}|{task_setter_data[i][j]['from']}{' '*(max_date_len-len(task_setter_data[i][j]['from']))}|{task_setter_data[i][j]['to']}{' '*(max_date_len-len(task_setter_data[i][j]['to']))}|{task_setter_data[i][j]['off_days']}{' '*(8-len(str(task_setter_data[i][j]['off_days'])))}|{task_setter_data[i][j]['on_days']}{' '*(7-len(str(task_setter_data[i][j]['on_days'])))}|{current_weekoff}{' '*(max_weekoff_len-len(current_weekoff))}|{validity_check_str}{" "*(max_status_len-1-len(validity_check_str))}|{task_setter_data[i][j]['description']}{' '*(max_description_len-len(task_setter_data[i][j]['description']))}|\n"
+     f.write(new_setter_write)
 
 
