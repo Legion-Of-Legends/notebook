@@ -61,4 +61,4 @@
 | Tasks                                 | Completed                   |
 | ------------------------------------- | --------------------------- |
 | Entertainment 3 hour                  | <ul><li> [ ] done</li></ul> |
-| Non Fiction Book Reading (30 minutes) | <ul><li> [ ] done</li></ul> |
+| Non Fiction Book Reading (30 minutes) | <ul><li> [x] done</li></ul> |
