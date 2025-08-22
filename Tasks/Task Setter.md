@@ -30,7 +30,7 @@
 |Read Adweek copywriting book 35 minute minimum                                   |23.08.2025|-         |0       |1      |            |✅      |                         |
 |Read How to make friends and influence people 35 minute minimum                  |23.08.2025|-         |0       |1      |            |✅      |    |
 |Read The millionire master plan 45 minute minimum                                |23.08.2025|-         |0       |1      |            |✅      |                      |
-|Workout or take any notes from books (only if there is any)                      |23.08.2025|-         |0       |1      |            |✅      |if note then skip workout, if no notes then workout                   |
+|Workout or take any notes from books (only if there is any)                      |23.08.2025|-         |0       |1      |            |✅      |if note then skip workout, if no notes then workout|
 |Revise word meaning on friday                                                    |23.08.2025|-         |0       |1      |sat, sun, mon, tue, wed, thu|✅      |remiding everything      |
 |NBMM                                                                             |23.08.2025|-         |0       |1      |            |✅      |Staying healthy                   |
 
