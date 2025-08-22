@@ -26,11 +26,13 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                                            |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                       |
 |---------------------------------------------------------------------------------|----------|----------|--------|-------|------------|--------|----------------------------------|
-|**Main Task** completing the 3 task below|11.08.2025                             |          |-         |0       |1      |            |✅      |Becoming better at my skill       |
-|Read Adweek copywriting book 35 minute minimum                                   |11.08.2025|-         |0       |1      |            |✅      |very good                         |
-|Read How to make friends and influence people 35 minute minimum                  |11.08.2025|-         |0       |1      |            |✅      |Learning from the best at my field|
-|Read The millionire master plan 45 minute minimum                                |11.08.2025|-         |0       |1      |            |✅      |Intelligence                      |
-|NBMM                                                                             |11.08.2025|-         |0       |1      |            |✅      |Staying healthy                   |
+|**Main Task** completing the first 3 task below                                  |23.08.2025|-         |0       |1      |            |✅      |very good                         |
+|Read Adweek copywriting book 35 minute minimum                                   |23.08.2025|-         |0       |1      |            |✅      |                         |
+|Read How to make friends and influence people 35 minute minimum                  |23.08.2025|-         |0       |1      |            |✅      |    |
+|Read The millionire master plan 45 minute minimum                                |23.08.2025|-         |0       |1      |            |✅      |                      |
+|Workout or take any notes from books (only if there is any)                      |23.08.2025|-         |0       |1      |            |✅      |if note then skip workout, if no notes then workout                   |
+|Revise word meaning on friday                                                    |23.08.2025|-         |0       |1      |sat, sun, mon, tue, wed, thu|✅      |remiding everything      |
+|NBMM                                                                             |23.08.2025|-         |0       |1      |            |✅      |Staying healthy                   |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                        |
