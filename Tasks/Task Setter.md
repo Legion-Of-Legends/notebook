@@ -26,10 +26,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                                            |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                       |
 |---------------------------------------------------------------------------------|----------|----------|--------|-------|------------|--------|----------------------------------|
-|**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally|11.08.2025|-         |0       |1      |            |✅      |Becoming better at my skill       |
-|Workout                                                                          |11.08.2025|-         |0       |1      |            |✅      |very good                         |
-|Read copywriting book                                                            |11.08.2025|-         |0       |1      |            |✅      |Learning from the best at my field|
-|Read non copywriting book                                                        |11.08.2025|-         |0       |1      |            |✅      |Intelligence                      |
+|**Main Task** completing the 3 task below|11.08.2025                             |          |-         |0       |1      |            |✅      |Becoming better at my skill       |
+|Read Adweek copywriting book 35 minute minimum                                   |11.08.2025|-         |0       |1      |            |✅      |very good                         |
+|Read How to make friends and influence people 35 minute minimum                  |11.08.2025|-         |0       |1      |            |✅      |Learning from the best at my field|
+|Read The millionire master plan 45 minute minimum                                |11.08.2025|-         |0       |1      |            |✅      |Intelligence                      |
 |NBMM                                                                             |11.08.2025|-         |0       |1      |            |✅      |Staying healthy                   |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
