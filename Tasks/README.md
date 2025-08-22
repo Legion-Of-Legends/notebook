@@ -23,10 +23,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                                             |Completed                   |
 |----------------------------------------------------------------------------------|----------------------------|
-|**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally | <ul><li> [ ] done</li></ul>|
-|Workout                                                                           | <ul><li> [ ] done</li></ul>|
-|Read copywriting book                                                             | <ul><li> [ ] done</li></ul>|
-|Read non copywriting book                                                         | <ul><li> [ ] done</li></ul>|
+|**Main Task**<br>Write a copy <br> or analyse a copy handwritten <br>or digitally | <ul><li> [x] done</li></ul>|
+|Workout                                                                           | <ul><li> [x] done</li></ul>|
+|Read copywriting book                                                             | <ul><li> [x] done</li></ul>|
+|Read non copywriting book                                                         | <ul><li> [x] done</li></ul>|
 |NBMM                                                                              | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
