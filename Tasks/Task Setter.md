@@ -10,7 +10,7 @@
 |Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |✅                      |Learning                                |
 |Chemistry- making notes                              |11.08.2025|18.08.2025|0       |1      |            |Task Expired           |Making notes effectively                |
 |EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |Task Expired           |Understanding + Making notes effectively|
-|EEE 1201                                             |25.08.2025|30.08.2025|0       |1      |            |Will start after-3 day/s|Understanding + Making notes effectively|
+|EEE 1201                                             |25.08.2025|30.08.2025|0       |1      |            |Will start after-2 day/s|Understanding + Making notes effectively|
 |Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Task Expired           |Making a presentation on Powerpoint     |
 |Reading non-fiction                                  |15.08.2025|-         |0       |1      |            |✅                      |Discovering myself throught non-fiction |
 
@@ -24,17 +24,17 @@
 |NBMM                                |11.08.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
-|Tasks                                                                            |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                       |
-|---------------------------------------------------------------------------------|----------|----------|--------|-------|------------|--------|----------------------------------|
-|**Main Task** completing the first 3 task below                                  |23.08.2025|-         |0       |1      |            |✅      |very good                         |
-|Read Adweek copywriting book 35 minute minimum                                   |23.08.2025|-         |0       |1      |            |✅      |                         |
-|Read How to make friends and influence people 35 minute minimum                  |23.08.2025|-         |0       |1      |            |✅      |    |
-|Read The millionire master plan 45 minute minimum                                |23.08.2025|-         |0       |1      |            |✅      |                      |
-|Workout or take any notes from books (only if there is any)                      |23.08.2025|-         |0       |1      |            |✅      |if note then skip workout, if no notes then workout|
-|Revise word meaning on friday                                                    |23.08.2025|-         |0       |1      |sat, sun, mon, tue, wed, thu|✅      |remiding everything      |
-|Learn 5 new words and practice english (not more than 15 minute)                 |23.08.2025|-         |0       |1      |            |✅      |It's my daily task too so If i don't do negative marks|
-|Go to bed before 10.20 pm                                                        |23.08.2025|-         |0       |1      |            |✅      |Staying healthy                   |
-|NBMM                                                                             |23.08.2025|-         |0       |1      |            |✅      |Staying healthy                   |
+|Tasks                                                           |From      |To        |Offdays |Ondays |Weekday Off               |Status     |Description                                           |
+|----------------------------------------------------------------|----------|----------|--------|-------|--------------------------|-----------|------------------------------------------------------|
+|**Main Task** completing the first 3 task below                 |23.08.2025|-         |0       |1      |                          |✅         |very good                                             |
+|Read Adweek copywriting book 35 minute minimum                  |23.08.2025|-         |0       |1      |                          |✅         |                                                      |
+|Read How to make friends and influence people 35 minute minimum |23.08.2025|-         |0       |1      |                          |✅         |                                                      |
+|Read The millionire master plan 45 minute minimum               |23.08.2025|-         |0       |1      |                          |✅         |                                                      |
+|Workout or take any notes from books (only if there is any)     |23.08.2025|-         |0       |1      |                          |✅         |if note then skip workout, if no notes then workout   |
+|Revise word meaning on friday                                   |23.08.2025|-         |0       |1      |sat, sun, mon, tue, wed, thu|WeekOff Day|remiding everything                                   |
+|Learn 5 new words and practice english (not more than 15 minute)|23.08.2025|-         |0       |1      |                          |✅         |It's my daily task too so If i don't do negative marks|
+|Go to bed before 10.20 pm                                       |23.08.2025|-         |0       |1      |                          |✅         |Staying healthy                                       |
+|NBMM                                                            |23.08.2025|-         |0       |1      |                          |✅         |Staying healthy                                       |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                        |
@@ -43,22 +43,22 @@
 |Reading (The power of 48 laws) - 30 min|-         |-         |0       |1      |            |✅      |Learning various new ways to communicate           |
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
-|Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status          |Description                                                                  |
-|--------------------------------------------|----------|----------|--------|-------|------------|----------------|-----------------------------------------------------------------------------|
-|Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri         |WeekOff Day    |Trying to be best for promotion & get more money                             |
-|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat     |WeekOff Day    |Trying to be Fit and gain some muscle                                        |
-|Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri         |WeekOff Day    |Reading                                                                      |
-|Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15    |            |On/Off Break Day|To remove a bad habit from my life                                           |
-|Entertainment 2 hours to less-DT            |11.8.2025 |-         |2       |1      |            |✅              |For free time entertainment                                                  |
-|6 Classes Record-FT                         |29.08.2025|29.08.2025|0       |1      |            |✅              |Trying to build a student network on FB group & YT to sell educational course|
+|Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status                  |Description                                                                  |
+|--------------------------------------------|----------|----------|--------|-------|------------|------------------------|-----------------------------------------------------------------------------|
+|Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri         |✅                      |Trying to be best for promotion & get more money                             |
+|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat     |WeekOff Day            |Trying to be Fit and gain some muscle                                        |
+|Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri         |✅                      |Reading                                                                      |
+|Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |            |✅                      |To remove a bad habit from my life                                           |
+|Entertainment 2 hours to less-DT            |11.8.2025 |-         |2       |1      |            |On/Off Break Day       |For free time entertainment                                                  |
+|6 Classes Record-FT                         |29.08.2025|29.08.2025|0       |1      |            |Will start after-6 day/s|Trying to build a student network on FB group & YT to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
-|Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status     |Description                                     |
-|---------------------------------------------------------|----------|----------|--------|-------|------------|-----------|------------------------------------------------|
-|Job life (Technical Skills,Teamwork,Communication) (main)|11.08.2025|-         |0       |1      |fri         |WeekOff Day|job resposibilites with skill development       |
-|HVAC Design learnig                                      |11.08.2025|31.12.2025|0       |1      |fri         |WeekOff Day|AutoCad/REvit,lode calcs,duct & piping design   |
-|Non Fiction Book Reading                                 |11.08.2025|-         |0       |1      |            |✅         |Personal Grow                                   |
-|Devolop my field (Mechanical)                            |11.08.2025|-         |0       |1      |fri         |WeekOff Day|Learn,practice and improve in Mechanical systems|
+|Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
+|---------------------------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------------------------|
+|Job life (Technical Skills,Teamwork,Communication) (main)|11.08.2025|-         |0       |1      |fri         |✅      |job resposibilites with skill development       |
+|HVAC Design learnig                                      |11.08.2025|31.12.2025|0       |1      |fri         |✅      |AutoCad/REvit,lode calcs,duct & piping design   |
+|Non Fiction Book Reading                                 |11.08.2025|-         |0       |1      |            |✅      |Personal Grow                                   |
+|Devolop my field (Mechanical)                            |11.08.2025|-         |0       |1      |fri         |✅      |Learn,practice and improve in Mechanical systems|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                  |
