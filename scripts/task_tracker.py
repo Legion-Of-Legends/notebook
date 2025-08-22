@@ -150,7 +150,7 @@ with open("../Tasks/Task Setter.md", "r") as f:
                 task_setter_data[username]=user_tasks
         count+=1
 
-print(Merged_Data)
+# print(Merged_Data)
 
  # Writing the report to a markdown file
 
@@ -245,6 +245,8 @@ def validity_check(test_task_data):
 
      if not is_on_day(base_date_str=test_task_data["from"], check_date_str=next_day, off_days=test_task_data["off_days"], on_days=test_task_data["on_days"]):
          return [False, "On/Off Break Day"]
+     if test_task_data["weekoff"]==["*"]:
+        return [False, "🟡Task is currently paused"]
 
      if (test_task_data["weekoff"]!=None and next_day.strftime("%a").lower() in test_task_data["weekoff"]):
          return [False, "WeekOff Day"]
