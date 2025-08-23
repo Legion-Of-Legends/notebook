@@ -1,24 +1,23 @@
-## Date: 23 August, 2025
+## Date: 24 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                 |Completed                   |
 |------------------------------------------------------|----------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [x] done</li></ul>|
-|MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul>|
-|AI agent advanced learning                            | <ul><li> [x] done</li></ul>|
-|EEE 1203 - Remaining chapters                         | <ul><li> [x] done</li></ul>|
-|Math- Vector                                          | <ul><li> [x] done</li></ul>|
-|Reading non-fiction                                   | <ul><li> [x] done</li></ul>|
+|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [ ] done</li></ul>|
+|MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul>|
+|AI agent advanced learning                            | <ul><li> [ ] done</li></ul>|
+|EEE 1203 - Remaining chapters                         | <ul><li> [ ] done</li></ul>|
+|Reading non-fiction                                   | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                |Completed                   |
 |-------------------------------------|----------------------------|
-|Learning DSA for 1 hour **(Main)**   | <ul><li> [x] done</li></ul>|
-|Learning Maths for 1 hour **(Main)** | <ul><li> [x] done</li></ul>|
-|Workout                              | <ul><li> [x] done</li></ul>|
-|Reading The art of Thinking Clearly  | <ul><li> [x] done</li></ul>|
-|NBMM                                 | <ul><li> [x] done</li></ul>|
+|Learning DSA for 1 hour **(Main)**   | <ul><li> [ ] done</li></ul>|
+|Learning Maths for 1 hour **(Main)** | <ul><li> [ ] done</li></ul>|
+|Workout                              | <ul><li> [ ] done</li></ul>|
+|Reading The art of Thinking Clearly  | <ul><li> [ ] done</li></ul>|
+|NBMM                                 | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                            |Completed                   |
@@ -28,6 +27,7 @@
 |Read How to make friends and influence people 35 minute minimum  | <ul><li> [ ] done</li></ul>|
 |Read The millionire master plan 45 minute minimum                | <ul><li> [ ] done</li></ul>|
 |Workout or take any notes from books (only if there is any)      | <ul><li> [ ] done</li></ul>|
+|Revise word meaning on friday                                    | <ul><li> [ ] done</li></ul>|
 |Learn 5 new words and practice english (not more than 15 minute) | <ul><li> [ ] done</li></ul>|
 |Go to bed before 10.20 pm                                        | <ul><li> [ ] done</li></ul>|
 |NBMM                                                             | <ul><li> [ ] done</li></ul>|
@@ -35,23 +35,24 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
 |----------------------------------------|----------------------------|
-|Learning Japanese (main)                | <ul><li> [x] done</li></ul>|
+|Learning Japanese (main)                | <ul><li> [ ] done</li></ul>|
 |Reading (The power of 48 laws) - 30 min | <ul><li> [ ] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
-|Office Work-**(MT)**                         | <ul><li> [x] done</li></ul>|
+|Office Work-**(MT)**                         | <ul><li> [ ] done</li></ul>|
+|Exercise 10 to 30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Non fiction Book Reading 30 minutes to up-DT | <ul><li> [ ] done</li></ul>|
-|Safe from bad habit # -DT                    | <ul><li> [x] done</li></ul>|
+|Safe from bad habit # -DT                    | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |
 |----------------------------------------------------------|----------------------------|
-|Job life (Technical Skills,Teamwork,Communication) (main) | <ul><li> [x] done</li></ul>|
+|Job life (Technical Skills,Teamwork,Communication) (main) | <ul><li> [ ] done</li></ul>|
 |HVAC Design learnig                                       | <ul><li> [ ] done</li></ul>|
 |Non Fiction Book Reading                                  | <ul><li> [ ] done</li></ul>|
-|Devolop my field (Mechanical)                             | <ul><li> [x] done</li></ul>|
+|Devolop my field (Mechanical)                             | <ul><li> [ ] done</li></ul>|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                 |Completed                   |
