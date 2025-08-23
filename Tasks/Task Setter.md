@@ -50,7 +50,7 @@
 |Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri         |✅                      |Reading                                                                      |
 |Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |            |✅                      |To remove a bad habit from my life                                           |
 |Entertainment 2 hours to less-DT            |11.8.2025 |-         |2       |1      |            |On/Off Break Day       |For free time entertainment                                                  |
-|6 Classes Record-FT                         |29.08.2025|29.08.2025|0       |1      |            |Will start after-6 day/s|Trying to build a student network on FB group & YT to sell educational course|
+|Class Eight-FT                         |29.08.2025|29.08.2025|0       |1      |            |Will start after-6 day/s|Trying to build a student network on FB group & YT to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
