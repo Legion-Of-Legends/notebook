@@ -22,15 +22,15 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                            |Completed                   |
 |-----------------------------------------------------------------|----------------------------|
-|**Main Task** completing the first 3 task below                  | <ul><li> [ ] done</li></ul>|
-|Read Adweek copywriting book 35 minute minimum                   | <ul><li> [ ] done</li></ul>|
-|Read How to make friends and influence people 35 minute minimum  | <ul><li> [ ] done</li></ul>|
-|Read The millionire master plan 45 minute minimum                | <ul><li> [ ] done</li></ul>|
-|Workout or take any notes from books (only if there is any)      | <ul><li> [ ] done</li></ul>|
-|Revise word meaning on friday                                    | <ul><li> [ ] done</li></ul>|
-|Learn 5 new words and practice english (not more than 15 minute) | <ul><li> [ ] done</li></ul>|
+|**Main Task** completing the first 3 task below                  | <ul><li> [x] done</li></ul>|
+|Read Adweek copywriting book 35 minute minimum                   | <ul><li> [x] done</li></ul>|
+|Read How to make friends and influence people 35 minute minimum  | <ul><li> [x] done</li></ul>|
+|Read The millionire master plan 45 minute minimum                | <ul><li> [x] done</li></ul>|
+|Workout or take any notes from books (only if there is any)      | <ul><li> [x] done</li></ul>|
+|Revise word meaning on friday                                    | <ul><li> [x] done</li></ul>|
+|Learn 5 new words and practice english (not more than 15 minute) | <ul><li> [x] done</li></ul>|
 |Go to bed before 10.20 pm                                        | <ul><li> [ ] done</li></ul>|
-|NBMM                                                             | <ul><li> [ ] done</li></ul>|
+|NBMM                                                             | <ul><li> [x] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
