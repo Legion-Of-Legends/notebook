@@ -26,15 +26,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                           |From      |To        |Offdays |Ondays |Weekday Off               |Status  |Description                                           |
 |----------------------------------------------------------------|----------|----------|--------|-------|--------------------------|--------|------------------------------------------------------|
-|**Main Task** completing the first 3 task below                 |23.08.2025|-         |0       |1      |                          |✅      |very good                                             |
-|Read Adweek copywriting book 35 minute minimum                  |23.08.2025|-         |0       |1      |                          |✅      |                                                      |
-|Read How to make friends and influence people 35 minute minimum |23.08.2025|-         |0       |1      |                          |✅      |                                                      |
-|Read The millionire master plan 45 minute minimum               |23.08.2025|-         |0       |1      |                          |✅      |                                                      |
-|Workout or take any notes from books (only if there is any)     |23.08.2025|-         |0       |1      |                          |✅      |if note then skip workout, if no notes then workout   |
-|Revise word meaning on friday                                   |23.08.2025|-         |0       |1      |sat, sun, mon, tue, wed, thu|✅      |remiding everything                                   |
-|Learn 5 new words and practice english (not more than 15 minute)|23.08.2025|-         |0       |1      |                          |✅      |It's my daily task too so If i don't do negative marks|
-|Go to bed before 10.20 pm                                       |23.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
-|NBMM                                                            |23.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
+|Read one book 40 minute (main task)                             |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
+|workout                                                         |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
+|No youtube/anime/social media                                   |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
+|NBMM                                                            |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                        |
