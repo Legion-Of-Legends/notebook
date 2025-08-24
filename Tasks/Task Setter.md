@@ -1,18 +1,18 @@
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
-|Tasks                                                |From      |To        |Offdays |Ondays |Weekday Off |Status                  |Description                             |
-|-----------------------------------------------------|----------|----------|--------|-------|------------|------------------------|----------------------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)**|11.08.2025|-         |0       |1      |            |✅                      |Survive                                 |
-|MS word + Excel advanced learning                    |11.08.2025|30.08.2025|0       |1      |            |✅                      |Learning them for professional use      |
-|AI agent advanced learning                           |11.08.2025|30.08.2025|0       |1      |            |✅                      |Learning them for professional use      |
-|Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Task Expired           |Learning                                |
-|EEE 1203 - Remaining chapters                        |17.08.2025|30.08.2025|0       |1      |            |✅                      |Understanding + Making notes effectively|
-|Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Task Expired           |Learning                                |
-|Chemistry- making notes                              |11.08.2025|18.08.2025|0       |1      |            |Task Expired           |Making notes effectively                |
-|EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |Task Expired           |Understanding + Making notes effectively|
-|EEE 1201                                             |25.08.2025|30.08.2025|0       |1      |            |Will start after-1 day/s|Understanding + Making notes effectively|
-|Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Task Expired           |Making a presentation on Powerpoint     |
-|Reading non-fiction                                  |15.08.2025|-         |0       |1      |            |✅                      |Discovering myself throught non-fiction |
+|Tasks                                                |From      |To        |Offdays |Ondays |Weekday Off |Status      |Description                             |
+|-----------------------------------------------------|----------|----------|--------|-------|------------|------------|----------------------------------------|
+|Varsity life(assignment, lab, classes, CT) **(Main)**|11.08.2025|-         |0       |1      |            |✅          |Survive                                 |
+|MS word + Excel advanced learning                    |11.08.2025|30.08.2025|0       |1      |            |✅          |Learning them for professional use      |
+|AI agent advanced learning                           |11.08.2025|30.08.2025|0       |1      |            |✅          |Learning them for professional use      |
+|Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Task Expired|Learning                                |
+|EEE 1203 - Remaining chapters                        |17.08.2025|30.08.2025|0       |1      |            |✅          |Understanding + Making notes effectively|
+|Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Task Expired|Learning                                |
+|Chemistry- making notes                              |11.08.2025|18.08.2025|0       |1      |            |Task Expired|Making notes effectively                |
+|EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |Task Expired|Understanding + Making notes effectively|
+|EEE 1201                                             |25.08.2025|30.08.2025|0       |1      |            |✅          |Understanding + Making notes effectively|
+|Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Task Expired|Making a presentation on Powerpoint     |
+|Reading non-fiction                                  |15.08.2025|-         |0       |1      |            |✅          |Discovering myself throught non-fiction |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                               |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
@@ -24,12 +24,12 @@
 |NBMM                                |11.08.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
-|Tasks                                                           |From      |To        |Offdays |Ondays |Weekday Off               |Status  |Description                                           |
-|----------------------------------------------------------------|----------|----------|--------|-------|--------------------------|--------|------------------------------------------------------|
-|Read one book 40 minute (main task)                             |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
-|workout                                                         |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
-|No youtube/anime/social media                                   |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
-|NBMM                                                            |25.08.2025|-         |0       |1      |                          |✅      |Staying healthy                                       |
+|Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
+|-----------------------------------|----------|----------|--------|-------|------------|--------|---------------|
+|Read one book 40 minute (main task)|25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
+|workout                            |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
+|No youtube/anime/social media      |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
+|NBMM                               |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                        |
@@ -44,8 +44,8 @@
 |Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat     |✅                      |Trying to be Fit and gain some muscle                                        |
 |Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri         |✅                      |Reading                                                                      |
 |Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |            |✅                      |To remove a bad habit from my life                                           |
-|Entertainment 2 hours to less-DT            |11.8.2025 |-         |2       |1      |            |On/Off Break Day       |For free time entertainment                                                  |
-|Class Eight-FT                              |29.08.2025|29.08.2025|0       |1      |            |Will start after-5 day/s|Trying to build a student network on FB group & YT to sell educational course|
+|Entertainment 2 hours to less-DT            |11.8.2025 |-         |2       |1      |            |✅                      |For free time entertainment                                                  |
+|Class Eight-FT                              |29.08.2025|29.08.2025|0       |1      |            |Will start after-4 day/s|Trying to build a student network on FB group & YT to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
