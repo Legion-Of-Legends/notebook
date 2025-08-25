@@ -17,7 +17,7 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                               |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
 |------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------|
-|Learning DSA for 1 hour **(Main)**  |11.08.2025|-         |0       |1      |            |✅      |Foundations of Programming    |
+|Learning Data Analysis for 1 hour **(Main)**  |11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML   |
 |Learning Maths for 1 hour **(Main)**|11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
 |Workout                             |11.08.2025|-         |0       |1      |            |✅      |Daily Routine of Workout.     |
 |Reading The art of Thinking Clearly |11.08.2025|-         |0       |1      |            |✅      |Reading book task set by group|
