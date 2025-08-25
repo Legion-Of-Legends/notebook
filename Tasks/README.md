@@ -1,24 +1,24 @@
-## Date: 25 August, 2025
+## Date: 26 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                 |Completed                   |
 |------------------------------------------------------|----------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [x] done</li></ul>|
-|MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul>|
-|AI agent advanced learning                            | <ul><li> [x] done</li></ul>|
-|EEE 1203 - Remaining chapters                         | <ul><li> [x] done</li></ul>|
-|EEE 1201                                              | <ul><li> [x] done</li></ul>|
-|Reading non-fiction                                   | <ul><li> [x] done</li></ul>|
+|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [ ] done</li></ul>|
+|MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul>|
+|AI agent advanced learning                            | <ul><li> [ ] done</li></ul>|
+|EEE 1203 - Remaining chapters                         | <ul><li> [ ] done</li></ul>|
+|EEE 1201                                              | <ul><li> [ ] done</li></ul>|
+|Reading non-fiction                                   | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
-|Tasks                                |Completed                   |
-|-------------------------------------|----------------------------|
-|Learning DSA for 1 hour **(Main)**   | <ul><li> [x] done</li></ul>|
-|Learning Maths for 1 hour **(Main)** | <ul><li> [x] done</li></ul>|
-|Workout                              | <ul><li> [x] done</li></ul>|
-|Reading The art of Thinking Clearly  | <ul><li> [x] done</li></ul>|
-|NBMM                                 | <ul><li> [x] done</li></ul>|
+|Tasks                                        |Completed                   |
+|---------------------------------------------|----------------------------|
+|Learning Data Analysis for 1 hour **(Main)** | <ul><li> [ ] done</li></ul>|
+|Learning Maths for 1 hour **(Main)**         | <ul><li> [ ] done</li></ul>|
+|Workout                                      | <ul><li> [ ] done</li></ul>|
+|Reading The art of Thinking Clearly          | <ul><li> [ ] done</li></ul>|
+|NBMM                                         | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                               |Completed                   |
@@ -31,17 +31,15 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
 |----------------------------------------|----------------------------|
-|Learning Japanese (main)                | <ul><li> [x] done</li></ul>|
-|Reading (The power of 48 laws) - 30 min | <ul><li> [ ] done</li></ul>|
+|Learning Japanese (main)                | <ul><li> [ ] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
-|Office Work-**(MT)**                         | <ul><li> [x] done</li></ul>|
+|Office Work-**(MT)**                         | <ul><li> [ ] done</li></ul>|
 |Exercise 10 to 30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Non fiction Book Reading 30 minutes to up-DT | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit # -DT                    | <ul><li> [ ] done</li></ul>|
-|Entertainment 2 hours to less-DT             | <ul><li> [x] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |

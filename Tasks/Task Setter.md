@@ -12,16 +12,16 @@
 |EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |Task Expired|Understanding + Making notes effectively|
 |EEE 1201                                             |25.08.2025|30.08.2025|0       |1      |            |✅          |Understanding + Making notes effectively|
 |Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Task Expired|Making a presentation on Powerpoint     |
-|Reading non-fiction                                  |15.08.2025|26.08.2025         |0       |1      |            |✅          |Discovering myself throught non-fiction |
+|Reading non-fiction                                  |15.08.2025|26.08.2025|0       |1      |            |✅          |Discovering myself throught non-fiction |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
-|Tasks                               |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
-|------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------|
-|Learning Data Analysis for 1 hour **(Main)**  |11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML   |
-|Learning Maths for 1 hour **(Main)**|11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
-|Workout                             |11.08.2025|-         |0       |1      |            |✅      |Daily Routine of Workout.     |
-|Reading The art of Thinking Clearly |11.08.2025|-         |0       |1      |            |✅      |Reading book task set by group|
-|NBMM                                |11.08.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
+|Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
+|--------------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------|
+|Learning Data Analysis for 1 hour **(Main)**|11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
+|Learning Maths for 1 hour **(Main)**        |11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
+|Workout                                     |11.08.2025|-         |0       |1      |            |✅      |Daily Routine of Workout.     |
+|Reading The art of Thinking Clearly         |11.08.2025|-         |0       |1      |            |✅      |Reading book task set by group|
+|NBMM                                        |11.08.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
@@ -32,20 +32,20 @@
 |NBMM                               |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
-|Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                        |
-|---------------------------------------|----------|----------|--------|-------|------------|--------|---------------------------------------------------|
-|Learning Japanese (main)               |-         |-         |0       |1      |            |✅      |Learning Japanese to go to Japan for higher studies|
-|Reading (The power of 48 laws) - 30 min|-         |-         |0       |1      |*           |✅      |Learning various new ways to communicate           |
+|Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status                   |Description                                        |
+|---------------------------------------|----------|----------|--------|-------|------------|-------------------------|---------------------------------------------------|
+|Learning Japanese (main)               |-         |-         |0       |1      |            |✅                       |Learning Japanese to go to Japan for higher studies|
+|Reading (The power of 48 laws) - 30 min|-         |-         |0       |1      |*           |🟡Task is currently paused|Learning various new ways to communicate           |
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
-|Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status                  |Description                                                                  |
-|--------------------------------------------|----------|----------|--------|-------|------------|------------------------|-----------------------------------------------------------------------------|
-|Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri         |✅                      |Trying to be best for promotion & get more money                             |
-|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat     |✅                      |Trying to be Fit and gain some muscle                                        |
-|Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri         |✅                      |Reading                                                                      |
-|Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |            |✅                      |To remove a bad habit from my life                                           |
-|Entertainment 2 hours to less-DT            |11.8.2025 |-         |0      |1      |sat,sun,mon,tue,wed,thu        |✅                      |For free time entertainment                                                  |
-|Class Eight-DT                              |26.08.2025|-|0       |1      |   sat,sun,mon,tue,wed,thu         |Will start after-4 day/s|Trying to build a student network on FB group & YT to sell educational course|
+|Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off               |Status     |Description                                                                  |
+|--------------------------------------------|----------|----------|--------|-------|--------------------------|-----------|-----------------------------------------------------------------------------|
+|Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri                       |✅         |Trying to be best for promotion & get more money                             |
+|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat                   |✅         |Trying to be Fit and gain some muscle                                        |
+|Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri                       |✅         |Reading                                                                      |
+|Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |                          |✅         |To remove a bad habit from my life                                           |
+|Entertainment 2 hours to less-DT            |11.8.2025 |-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|For free time entertainment                                                  |
+|Class Eight-DT                              |26.08.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|Trying to build a student network on FB group & YT to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
