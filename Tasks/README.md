@@ -23,10 +23,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                               |Completed                   |
 |------------------------------------|----------------------------|
-|Read one book 40 minute (main task) | <ul><li> [ ] done</li></ul>|
-|workout                             | <ul><li> [ ] done</li></ul>|
-|No youtube/anime/social media       | <ul><li> [ ] done</li></ul>|
-|NBMM                                | <ul><li> [ ] done</li></ul>|
+|Read one book 40 minute (main task) | <ul><li> [x] done</li></ul>|
+|workout                             | <ul><li> [x] done</li></ul>|
+|No youtube/anime/social media       | <ul><li> [x] done</li></ul>|
+|NBMM                                | <ul><li> [x] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
