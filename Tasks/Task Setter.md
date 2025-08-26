@@ -4,15 +4,15 @@
 |-----------------------------------------------------|----------|----------|--------|-------|------------|------------|----------------------------------------|
 |Varsity life(assignment, lab, classes, CT) **(Main)**|11.08.2025|-         |0       |1      |            |✅          |Survive                                 |
 |MS word + Excel advanced learning                    |11.08.2025|30.08.2025|0       |1      |            |✅          |Learning them for professional use      |
-|AI agent advanced learning                           |11.08.2025|26.08.2025|0       |1      |            |✅          |Learning them for professional use      |
+|AI agent advanced learning                           |11.08.2025|26.08.2025|0       |1      |            |Task Expired|Learning them for professional use      |
 |Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Task Expired|Learning                                |
-|EEE 1203 - Remaining chapters                        |17.08.2025|26.08.2025|0       |1      |            |✅          |Understanding + Making notes effectively|
+|EEE 1203 - Remaining chapters                        |17.08.2025|26.08.2025|0       |1      |            |Task Expired|Understanding + Making notes effectively|
 |Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Task Expired|Learning                                |
 |Chemistry- making notes                              |11.08.2025|18.08.2025|0       |1      |            |Task Expired|Making notes effectively                |
 |EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |Task Expired|Understanding + Making notes effectively|
 |EEE 1201                                             |25.08.2025|30.08.2025|0       |1      |            |✅          |Understanding + Making notes effectively|
 |Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Task Expired|Making a presentation on Powerpoint     |
-|Reading non-fiction                                  |15.08.2025|26.08.2025|0       |1      |            |✅          |Discovering myself throught non-fiction |
+|Reading non-fiction                                  |15.08.2025|26.08.2025|0       |1      |            |Task Expired|Discovering myself throught non-fiction |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
@@ -38,14 +38,14 @@
 |Reading (The power of 48 laws) - 30 min|-         |-         |0       |1      |*           |🟡Task is currently paused|Learning various new ways to communicate           |
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
-|Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off               |Status     |Description                                                                  |
-|--------------------------------------------|----------|----------|--------|-------|--------------------------|-----------|-----------------------------------------------------------------------------|
-|Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri                       |✅         |Trying to be best for promotion & get more money                             |
-|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat                   |✅         |Trying to be Fit and gain some muscle                                        |
-|Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri                       |✅         |Reading                                                                      |
-|Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |                          |✅         |To remove a bad habit from my life                                           |
-|Entertainment 2 hours to less-DT            |11.8.2025 |-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|For free time entertainment                                                  |
-|Class Eight-DT                              |26.08.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|Trying to build a student network on FB group & YT to sell educational course|
+|Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off               |Status          |Description                                                                  |
+|--------------------------------------------|----------|----------|--------|-------|--------------------------|----------------|-----------------------------------------------------------------------------|
+|Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri                       |✅              |Trying to be best for promotion & get more money                             |
+|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat                   |✅              |Trying to be Fit and gain some muscle                                        |
+|Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri                       |✅              |Reading                                                                      |
+|Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |                          |On/Off Break Day|To remove a bad habit from my life                                           |
+|Entertainment 2 hours to less-DT            |11.8.2025 |-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day    |For free time entertainment                                                  |
+|Class Eight-DT                              |26.08.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day    |Trying to build a student network on FB group & YT to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |

@@ -1,15 +1,12 @@
-## Date: 26 August, 2025
+## Date: 27 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                 |Completed                   |
 |------------------------------------------------------|----------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [x] done</li></ul>|
-|MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul>|
-|AI agent advanced learning                            | <ul><li> [x] done</li></ul>|
-|EEE 1203 - Remaining chapters                         | <ul><li> [x] done</li></ul>|
-|EEE 1201                                              | <ul><li> [x] done</li></ul>|
-|Reading non-fiction                                   | <ul><li> [x] done</li></ul>|
+|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [ ] done</li></ul>|
+|MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul>|
+|EEE 1201                                              | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                        |Completed                   |
@@ -23,10 +20,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                               |Completed                   |
 |------------------------------------|----------------------------|
-|Read one book 40 minute (main task) | <ul><li> [x] done</li></ul>|
-|workout                             | <ul><li> [x] done</li></ul>|
-|No youtube/anime/social media       | <ul><li> [x] done</li></ul>|
-|NBMM                                | <ul><li> [x] done</li></ul>|
+|Read one book 40 minute (main task) | <ul><li> [ ] done</li></ul>|
+|workout                             | <ul><li> [ ] done</li></ul>|
+|No youtube/anime/social media       | <ul><li> [ ] done</li></ul>|
+|NBMM                                | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
@@ -36,10 +33,9 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
-|Office Work-**(MT)**                         | <ul><li> [x] done</li></ul>|
+|Office Work-**(MT)**                         | <ul><li> [ ] done</li></ul>|
 |Exercise 10 to 30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Non fiction Book Reading 30 minutes to up-DT | <ul><li> [ ] done</li></ul>|
-|Safe from bad habit # -DT                    | <ul><li> [x] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |
