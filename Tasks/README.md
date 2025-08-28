@@ -4,9 +4,9 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                 |Completed                   |
 |------------------------------------------------------|----------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [ ] done</li></ul>|
-|MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul>|
-|EEE 1201                                              | <ul><li> [ ] done</li></ul>|
+|Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [x] done</li></ul>|
+|MS word + Excel advanced learning                     | <ul><li> [x] done</li></ul>|
+|EEE 1201                                              | <ul><li> [x] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                        |Completed                   |
@@ -20,10 +20,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                               |Completed                   |
 |------------------------------------|----------------------------|
-|Read one book 40 minute (main task) | <ul><li> [ ] done</li></ul>|
-|workout                             | <ul><li> [ ] done</li></ul>|
-|No youtube/anime/social media       | <ul><li> [ ] done</li></ul>|
-|NBMM                                | <ul><li> [ ] done</li></ul>|
+|Read one book 40 minute (main task) | <ul><li> [x] done</li></ul>|
+|workout                             | <ul><li> [x] done</li></ul>|
+|No youtube/anime/social media       | <ul><li> [x] done</li></ul>|
+|NBMM                                | <ul><li> [x] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
