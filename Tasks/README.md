@@ -1,12 +1,10 @@
-## Date: 29 August, 2025
+## Date: 30 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                 |Completed                   |
 |------------------------------------------------------|----------------------------|
 |Varsity life(assignment, lab, classes, CT) **(Main)** | <ul><li> [ ] done</li></ul>|
-|MS word + Excel advanced learning                     | <ul><li> [ ] done</li></ul>|
-|EEE 1201                                              | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                        |Completed                   |
@@ -33,14 +31,17 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
+|Office Work-**(MT)**                         | <ul><li> [ ] done</li></ul>|
+|Non fiction Book Reading 30 minutes to up-DT | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit # -DT                    | <ul><li> [ ] done</li></ul>|
-|Entertainment 2 hours to less-DT             | <ul><li> [ ] done</li></ul>|
-|Class Eight-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                     |Completed                   |
 |----------------------------------------------------------|----------------------------|
+|Job life (Technical Skills,Teamwork,Communication) (main) | <ul><li> [ ] done</li></ul>|
+|HVAC Design learnig                                       | <ul><li> [ ] done</li></ul>|
 |Non Fiction Book Reading                                  | <ul><li> [ ] done</li></ul>|
+|Devolop my field (Mechanical)                             | <ul><li> [ ] done</li></ul>|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                 |Completed                   |
