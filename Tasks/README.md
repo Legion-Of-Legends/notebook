@@ -9,11 +9,11 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
-|Learning Data Analysis for 1 hour **(Main)** | <ul><li> [ ] done</li></ul>|
-|Learning Maths for 1 hour **(Main)**         | <ul><li> [ ] done</li></ul>|
-|Workout                                      | <ul><li> [ ] done</li></ul>|
-|Reading The art of Thinking Clearly          | <ul><li> [ ] done</li></ul>|
-|NBMM                                         | <ul><li> [ ] done</li></ul>|
+|Learning Data Analysis for 1 hour **(Main)** | <ul><li> [x] done</li></ul>|
+|Learning Maths for 1 hour **(Main)**         | <ul><li> [x] done</li></ul>|
+|Workout                                      | <ul><li> [x] done</li></ul>|
+|Reading The art of Thinking Clearly          | <ul><li> [x] done</li></ul>|
+|NBMM                                         | <ul><li> [x] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                               |Completed                   |
