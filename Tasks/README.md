@@ -1,4 +1,4 @@
-## Date: 30 August, 2025
+## Date: 31 August, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -9,11 +9,11 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
-|Learning Data Analysis for 1 hour **(Main)** | <ul><li> [x] done</li></ul>|
-|Learning Maths for 1 hour **(Main)**         | <ul><li> [x] done</li></ul>|
-|Workout                                      | <ul><li> [x] done</li></ul>|
-|Reading The art of Thinking Clearly          | <ul><li> [x] done</li></ul>|
-|NBMM                                         | <ul><li> [x] done</li></ul>|
+|Learning Data Analysis for 1 hour **(Main)** | <ul><li> [ ] done</li></ul>|
+|Learning Maths for 1 hour **(Main)**         | <ul><li> [ ] done</li></ul>|
+|Workout                                      | <ul><li> [ ] done</li></ul>|
+|Reading The art of Thinking Clearly          | <ul><li> [ ] done</li></ul>|
+|NBMM                                         | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                               |Completed                   |
@@ -32,6 +32,7 @@
 |Tasks                                        |Completed                   |
 |---------------------------------------------|----------------------------|
 |Office Work-**(MT)**                         | <ul><li> [ ] done</li></ul>|
+|Exercise 10 to 30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Non fiction Book Reading 30 minutes to up-DT | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit # -DT                    | <ul><li> [ ] done</li></ul>|
 

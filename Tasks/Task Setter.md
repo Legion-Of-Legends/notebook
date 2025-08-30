@@ -41,7 +41,7 @@
 |Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off               |Status     |Description                                                                  |
 |--------------------------------------------|----------|----------|--------|-------|--------------------------|-----------|-----------------------------------------------------------------------------|
 |Office Work-**(MT)**                        |11.8.2025 |-         |0       |1      |fri                       |✅         |Trying to be best for promotion & get more money                             |
-|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat                   |WeekOff Day|Trying to be Fit and gain some muscle                                        |
+|Exercise 10 to 30 minutes-DT                |11.8.2025 |-         |0       |1      |fri,sat                   |✅         |Trying to be Fit and gain some muscle                                        |
 |Non fiction Book Reading 30 minutes to up-DT|11.8.2025 |-         |0       |1      |fri                       |✅         |Reading                                                                      |
 |Safe from bad habit # -DT                   |11.8.2025 |-         |1       |15     |                          |✅         |To remove a bad habit from my life                                           |
 |Entertainment 2 hours to less-DT            |11.8.2025 |-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|For free time entertainment                                                  |
