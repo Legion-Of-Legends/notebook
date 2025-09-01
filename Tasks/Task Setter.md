@@ -17,11 +17,12 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
 |--------------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------|
-|Learning Data Analysis for 1 hour **(Main)**|11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
-|Learning Maths for 1 hour **(Main)**        |11.08.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
-|Workout                                     |11.08.2025|-         |0       |1      |            |✅      |Daily Routine of Workout.     |
-|Reading The art of Thinking Clearly         |11.08.2025|-         |0       |1      |            |✅      |Reading book task set by group|
-|NBMM                                        |11.08.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
+|Learn Data Handing for 3 hour **(Main)**|02.09.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
+|Study Maths for 3 hour **(Main)**        |02.09.2025|-         |0       |1      |            |✅      |Foundations of AI/ML          |
+|Practice Chess for 30 min                   |02.09.2025|-         |0       |1      |            |        |learn Chess. 
+|Workout                                     |02.09.2025|-         |0       |1      |            |✅      |Daily Routine of Workout.     |
+|Reading The art of Thinking Clearly         |02.09.2025|-         |0       |1      |            |✅      |Reading book task set by group|
+|NBMM                                        |02.09.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
