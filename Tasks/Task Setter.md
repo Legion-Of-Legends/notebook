@@ -2,7 +2,7 @@
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                |From      |To        |Offdays |Ondays |Weekday Off |Status      |Description                             |
 |-----------------------------------------------------|----------|----------|--------|-------|------------|------------|----------------------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)**|11.08.2025|-         |0       |1      |            |✅          |Survive                                 |
+|Varsity life(assignment, lab, classes, CT) **(Main)**|11.08.2025|1.09.2025         |0       |1      |            |✅          |Survive                                 |
 |MS word + Excel advanced learning                    |11.08.2025|29.08.2025|0       |1      |            |Task Expired|Learning them for professional use      |
 |AI agent advanced learning                           |11.08.2025|26.08.2025|0       |1      |            |Task Expired|Learning them for professional use      |
 |Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Task Expired|Learning                                |
