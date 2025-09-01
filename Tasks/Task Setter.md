@@ -22,7 +22,7 @@
 |Workout                                     |02.09.2025|-         |0       |1      |            |✅      |Daily Routine of Workout.     |
 |Reading The art of Thinking Clearly         |02.09.2025|-         |0       |1      |            |✅      |Reading book task set by group|
 |NBMM                                        |02.09.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
-|No anime,social media,<br>Only videos allowed to watch, my skill related copywriting/leadership/speaking/motivation         |02.09.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
+
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
@@ -31,6 +31,7 @@
 |read minimum 20 page of any book (daily task)     |02.09.2025|-         |0       |1      |            |✅      |as a slow reader 20 page takes me <br>something around 1 & half hour to 2 hour, depends on the density of lines in a page |
 |100 push up                                       |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
 |NBMM                                              |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
+|No anime,social media, no yt<br>but certain videos are allowed         |02.09.2025|-         |0       |1      | Fri       |✅      |Only videos allowed to watch, my skill related <br>copywriting/leadership/speaking/motivation        |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status                   |Description                                        |
