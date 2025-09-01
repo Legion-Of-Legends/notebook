@@ -26,10 +26,10 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
 |-----------------------------------|----------|----------|--------|-------|------------|--------|---------------|
-|Handwritten Analyse minimum one copy (main task)|02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
+|Handwritten Analyse minimum one copy (main task)  |02.09.2025|-         |0       |1      |            |✅      |from finding a good copy online, to writing that copy by hand <br> and then writing the analyse it by writing detials in hand, <br> take around 40 minute to 1 & half hour depends on how large the copy is|
 |read minimum 20 page of any book (daily task)     |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
-|100 push up    |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
-|NBMM                               |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
+|100 push up                                       |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
+|NBMM                                              |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status                   |Description                                        |
