@@ -26,8 +26,8 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
 |-----------------------------------|----------|----------|--------|-------|------------|--------|---------------|
-|Handwritten Analyse minimum one copy (main task)  |02.09.2025|-         |0       |1      |            |✅      |from finding a good copy online, to writing that copy by hand <br> and then writing the analyse it by writing detials in hand, <br> take around 40 minute to 1 & half hour depends on how large the copy is|
-|read minimum 20 page of any book (daily task)     |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
+|Handwritten Analyse minimum one copy (main task)  |02.09.2025|-         |0       |1      |            |✅      |from finding a good copy online, to writing that copy by hand <br>and then writing the analyse it by writing detials in hand, <br> takes around 40 minute to 1 & half hour depends on how large the copy is|
+|read minimum 20 page of any book (daily task)     |02.09.2025|-         |0       |1      |            |✅      |as a slow reader 20 page takes me <br>something around 1 & half hour to 2 hour, depends on how the density or lines in a page |
 |100 push up                                       |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
 |NBMM                                              |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
 
