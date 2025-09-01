@@ -26,9 +26,9 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
 |-----------------------------------|----------|----------|--------|-------|------------|--------|---------------|
-|Read one book 40 minute (main task)|25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
-|workout                            |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
-|No youtube/anime/social media      |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
+|Handwritten Analyse minimum one copy (main task)|02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
+|read minimum 20 page of any book (daily task)     |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
+|100 push up    |02.09.2025|-         |0       |1      |            |✅      |Staying healthy|
 |NBMM                               |25.08.2025|-         |0       |1      |            |✅      |Staying healthy|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
