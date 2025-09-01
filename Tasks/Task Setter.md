@@ -7,7 +7,10 @@
 |AI agent advanced learning                                |2.09.2025 |29.09.2025|        |1      |            |✅          |Learning them for professional use         |
 |Circuit -- 3-phase, Coupled Circuit, Filter               |2.09.2025 |6.09.2025 |        |1      |            |✅          |Completing EEE-1201                        |
 |Electronics -- Diode, Transistor, Connection              |7.09.2025 |10.09.2025|        |1      |            |✅          |Completing EEE-1203                        |
-
+|Electronics -- BJT, MOSFET, FET                           |11.09.2025|18.09.2025|        |1      |            |✅          |Completing EEE-1203                        |
+|Materials -- All slides + notes                           |19.09.2025|22.09.2025|        |1      |            |✅          |Completing EEE-1205                        |
+|Learning Cooking                                          |11.09.2025|-         |        |1      |2           |✅          |Side skill                                 |
+|Can't Hurt me -- 2 pages daily                            |2.09.2025 |-         |        |1      |            |✅          |Emotional Intelligence growth              |
 
 
 ## [RT Jeion](https://github.com/RT-Jeion)
