@@ -22,6 +22,7 @@
 |Workout                                     |02.09.2025|-         |0       |1      |            |✅      |Daily Routine of Workout.     |
 |Reading The art of Thinking Clearly         |02.09.2025|-         |0       |1      |            |✅      |Reading book task set by group|
 |NBMM                                        |02.09.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
+|No anime,social media,<br>Only videos allowed to watch, my skill related copywriting/leadership/speaking/motivation         |02.09.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                              |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description    |
