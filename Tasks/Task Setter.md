@@ -1,18 +1,14 @@
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
-|Tasks                                                |From      |To        |Offdays |Ondays |Weekday Off |Status      |Description                             |
-|-----------------------------------------------------|----------|----------|--------|-------|------------|------------|----------------------------------------|
-|Varsity life(assignment, lab, classes, CT) **(Main)**|11.08.2025|1.09.2025         |0       |1      |            |✅          |Survive                                 |
-|MS word + Excel advanced learning                    |11.08.2025|29.08.2025|0       |1      |            |Task Expired|Learning them for professional use      |
-|AI agent advanced learning                           |11.08.2025|26.08.2025|0       |1      |            |Task Expired|Learning them for professional use      |
-|Electronics- Single + Multi Stage Amplifier          |12.08.2025|16.08.2025|0       |1      |            |Task Expired|Learning                                |
-|EEE 1203 - Remaining chapters                        |17.08.2025|26.08.2025|0       |1      |            |Task Expired|Understanding + Making notes effectively|
-|Math- Vector                                         |21.08.2025|23.08.2025|0       |1      |            |Task Expired|Learning                                |
-|Chemistry- making notes                              |11.08.2025|18.08.2025|0       |1      |            |Task Expired|Making notes effectively                |
-|EEE 1201- Two port + Filters                         |18.08.2025|19.08.2025|0       |1      |            |Task Expired|Understanding + Making notes effectively|
-|EEE 1201                                             |25.08.2025|29.08.2025|0       |1      |            |Task Expired|Understanding + Making notes effectively|
-|Materials presentation                               |20.08.2025|21.08.2025|0       |1      |            |Task Expired|Making a presentation on Powerpoint     |
-|Reading non-fiction                                  |15.08.2025|26.08.2025|0       |1      |            |Task Expired|Discovering myself throught non-fiction |
+|Tasks                                                     |From      |To        |Offdays |Ondays |Weekday Off |Status      |Description                                 |
+|----------------------------------------------------------|----------|----------|--------|-------|------------|------------|--------------------------------------------|
+|Study for 8 hours everyday (for semester final) **(Main)**|2.09.2025 |29.09.2025|        |1      |            |✅          |Have to study hard for the semester final  |
+|MS word + Excel + PowerPoint advanced learning            |2.09.2025 |29.09.2025|        |1      |            |✅          |Learning them for professional use         |
+|AI agent advanced learning                                |2.09.2025 |29.09.2025|        |1      |            |✅          |Learning them for professional use         |
+|Circuit -- 3-phase, Coupled Circuit, Filter               |2.09.2025 |6.09.2025 |        |1      |            |✅          |Completing EEE-1201                        |
+|Electronics -- Diode, Transistor, Connection              |7.09.2025 |10.09.2025|        |1      |            |✅          |Completing EEE-1203                        |
+
+
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                       |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                   |
