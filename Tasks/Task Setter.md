@@ -50,10 +50,9 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                                                    |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
 |---------------------------------------------------------|----------|----------|--------|-------|------------|--------|------------------------------------------------|
-|Job life (Technical Skills,Teamwork,Communication) (main)|11.08.2025|-         |0       |1      |fri         |✅      |job resposibilites with skill development       |
-|HVAC Design learnig                                      |11.08.2025|31.12.2025|0       |1      |fri         |✅      |AutoCad/REvit,lode calcs,duct & piping design   |
-|Non Fiction Book Reading                                 |11.08.2025|-         |0       |1      |            |✅      |Personal Grow                                   |
-|Devolop my field (Mechanical)                            |11.08.2025|-         |0       |1      |fri         |✅      |Learn,practice and improve in Mechanical systems|
+|HVAC Design learning (main task)                         |02.09.2025|31.12.2025|0       |1      |fri         |✅      |AutoCad/REvit,lode calcs,duct & piping design   |
+|Non Fiction Book Reading                                 |02.09.2025|-         |0       |1      |            |✅      |Personal Grow                                   |
+|Devolop my field (Mechanical)                            |02.09.2025|-         |0       |1      |fri         |✅      |Learn,practice and improve in Mechanical systems|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                  |
