@@ -36,6 +36,7 @@
 |---------------------------------------|----------|----------|--------|-------|------------|-------------------------|---------------------------------------------------|
 |Learning Japanese (main)               |-         |-         |0       |1      |            |✅                       |Learning Japanese to go to Japan for higher studies|
 |Reading (The power of 48 laws) - 30 min|-         |-         |0       |1      |*           |🟡Task is currently paused|Learning various new ways to communicate           |
+|Studying Japanese n3                   |-         |-         |0       |1      |            |                         |Making a basic Fundamental of n3                   |
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                   |From      |To        |Offdays |Ondays |Weekday Off               |Status          |Description                                                                           |
