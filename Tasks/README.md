@@ -41,7 +41,7 @@
 |Academic study 2 hours-**(MT)**                          | <ul><li> [ ] done</li></ul>|
 |Exercise 20 minutes-DT                                   | <ul><li> [x] done</li></ul>|
 |Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [x] done</li></ul>|
-|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
+|Class Eight(Sub Things)-DT                               | <ul><li> [x] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
