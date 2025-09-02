@@ -23,11 +23,11 @@
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                          |Completed                   |
 |---------------------------------------------------------------|----------------------------|
-|Handwritten Analyse minimum one copy (main task)               | <ul><li> [ ] done</li></ul>|
-|read minimum 20 page of any book (daily task)                  | <ul><li> [ ] done</li></ul>|
-|100 push up                                                    | <ul><li> [ ] done</li></ul>|
-|NBMM                                                           | <ul><li> [ ] done</li></ul>|
-|No anime,social media, no yt<br>but certain videos are allowed | <ul><li> [ ] done</li></ul>|
+|Handwritten Analyse minimum one copy (main task)               | <ul><li> [x] done</li></ul>|
+|read minimum 20 page of any book (daily task)                  | <ul><li> [x] done</li></ul>|
+|100 push up                                                    | <ul><li> [x] done</li></ul>|
+|NBMM                                                           | <ul><li> [x] done</li></ul>|
+|No anime,social media, no yt<br>but certain videos are allowed | <ul><li> [x] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
