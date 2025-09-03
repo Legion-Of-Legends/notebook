@@ -5,8 +5,8 @@
 |Tasks                                                      |Completed                   |
 |-----------------------------------------------------------|----------------------------|
 |Study for 8 hours everyday (for semester final) **(Main)** | <ul><li> [x] done</li></ul>|
-|MS word + Excel + PowerPoint advanced learning             | <ul><li> [ ] done</li></ul>|
-|AI agent advanced learning                                 | <ul><li> [ ] done</li></ul>|
+|MS word + Excel + PowerPoint advanced learning             | <ul><li> [x] done</li></ul>|
+|AI agent advanced learning                                 | <ul><li> [x] done</li></ul>|
 |Circuit -- 3-phase, Coupled Circuit, Filter                | <ul><li> [x] done</li></ul>|
 |Can't Hurt me -- 2 pages daily                             | <ul><li> [x] done</li></ul>|
 
@@ -38,11 +38,11 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
 |---------------------------------------------------------|----------------------------|
-|Academic study 2 hours-**(MT)**                          | <ul><li> [ ] done</li></ul>|
-|Exercise 20 minutes-DT                                   | <ul><li> [ ] done</li></ul>|
-|Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
-|Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
-|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
+|Academic study 2 hours-**(MT)**                          | <ul><li> [x] done</li></ul>|
+|Exercise 20 minutes-DT                                   | <ul><li> [x] done</li></ul>|
+|Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [x] done</li></ul>|
+|Safe from bad habit (#) -DT                              | <ul><li> [x] done</li></ul>|
+|Class Eight(Sub Things)-DT                               | <ul><li> [x] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
