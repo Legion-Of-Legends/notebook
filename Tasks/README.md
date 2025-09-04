@@ -1,24 +1,24 @@
-## Date: 04 September, 2025
+## Date: 05 September, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                      |Completed                   |
 |-----------------------------------------------------------|----------------------------|
-|Study for 8 hours everyday (for semester final) **(Main)** | <ul><li> [x] done</li></ul>|
-|MS word + Excel + PowerPoint advanced learning             | <ul><li> [x] done</li></ul>|
-|AI agent advanced learning                                 | <ul><li> [x] done</li></ul>|
-|Circuit -- 3-phase, Coupled Circuit, Filter                | <ul><li> [x] done</li></ul>|
-|Can't Hurt me -- 2 pages daily                             | <ul><li> [x] done</li></ul>|
+|Study for 8 hours everyday (for semester final) **(Main)** | <ul><li> [ ] done</li></ul>|
+|MS word + Excel + PowerPoint advanced learning             | <ul><li> [ ] done</li></ul>|
+|AI agent advanced learning                                 | <ul><li> [ ] done</li></ul>|
+|Circuit -- 3-phase, Coupled Circuit, Filter                | <ul><li> [ ] done</li></ul>|
+|Can't Hurt me -- 2 pages daily                             | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                    |Completed                   |
 |-----------------------------------------|----------------------------|
-|Learn Data Handing for 3 hour **(Main)** | <ul><li> [x] done</li></ul>|
-|Study Maths for 3 hour **(Main)**        | <ul><li> [x] done</li></ul>|
-|Practice Chess for 30 min                | <ul><li> [x] done</li></ul>|
-|Workout                                  | <ul><li> [x] done</li></ul>|
-|Reading The art of Thinking Clearly      | <ul><li> [x] done</li></ul>|
-|NBMM                                     | <ul><li> [x] done</li></ul>|
+|Learn Data Handing for 3 hour **(Main)** | <ul><li> [ ] done</li></ul>|
+|Study Maths for 3 hour **(Main)**        | <ul><li> [ ] done</li></ul>|
+|Practice Chess for 30 min                | <ul><li> [ ] done</li></ul>|
+|Workout                                  | <ul><li> [ ] done</li></ul>|
+|Reading The art of Thinking Clearly      | <ul><li> [ ] done</li></ul>|
+|NBMM                                     | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                          |Completed                   |
@@ -27,7 +27,6 @@
 |read minimum 20 page of any book (daily task)                  | <ul><li> [ ] done</li></ul>|
 |100 push up                                                    | <ul><li> [ ] done</li></ul>|
 |NBMM                                                           | <ul><li> [ ] done</li></ul>|
-|No anime,social media, no yt<br>but certain videos are allowed | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
@@ -38,17 +37,14 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
 |---------------------------------------------------------|----------------------------|
-|Academic study 2 hours-**(MT)**                          | <ul><li> [x] done</li></ul>|
-|Exercise 20 minutes-DT                                   | <ul><li> [x] done</li></ul>|
-|Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [x] done</li></ul>|
-|Safe from bad habit (#) -DT                              | <ul><li> [x] done</li></ul>|
+|Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
+|Entertainment 2 hours to less-DT                         | <ul><li> [ ] done</li></ul>|
+|Class Eight(Main things 6 to max hours)-**(OFF Day MT)** | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
 |---------------------------------|----------------------------|
-|HVAC Design learning (main task) | <ul><li> [ ] done</li></ul>|
 |Non Fiction Book Reading         | <ul><li> [ ] done</li></ul>|
-|Devolop my field (Mechanical)    | <ul><li> [ ] done</li></ul>|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                 |Completed                   |
