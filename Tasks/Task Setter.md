@@ -52,9 +52,9 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                           |From      |To        |Offdays |Ondays |Weekday Off |Status     |Description                                     |
 |--------------------------------|----------|----------|--------|-------|------------|-----------|------------------------------------------------|
-|HVAC Design learning (main task)|02.09.2025|31.12.2025|0       |1      |fri         |WeekOff Day|AutoCad/REvit,lode calcs,duct & piping design   |
-|Non Fiction Book Reading        |02.09.2025|-         |0       |1      |            |✅         |Personal Grow                                   |
-|Devolop my field (Mechanical)   |02.09.2025|-         |0       |1      |fri         |WeekOff Day|Learn,practice and improve in Mechanical systems|
+|HVAC Design learning (main task)|02.09.2025|-         |0       |1      |        |WeekOff Day|AutoCad/REvit,lode calcs,duct & piping design   |
+|Non Fiction Book Reading        |02.09.2025|-         |0       |1      |        |✅         |Personal Grow                                   |
+|Devolop my field (Mechanical)   |02.09.2025|-         |0       |1      |        |WeekOff Day|Learn,practice and improve in Mechanical systems|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                  |
