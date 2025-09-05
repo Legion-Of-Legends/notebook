@@ -6,10 +6,10 @@
 |MS word + Excel + PowerPoint advanced learning            |2.09.2025 |29.09.2025|0       |1      |            |✅                       |Learning them for professional use       |
 |AI agent advanced learning                                |2.09.2025 |29.09.2025|0       |1      |            |✅                       |Learning them for professional use       |
 |Circuit -- 3-phase, Coupled Circuit, Filter               |2.09.2025 |6.09.2025 |0       |1      |            |✅                       |Completing EEE-1201                      |
-|Electronics -- Diode, Transistor, Connection              |7.09.2025 |10.09.2025|0       |1      |            |Will start after-2 day/s|Completing EEE-1203                      |
-|Electronics -- BJT, MOSFET, FET                           |11.09.2025|18.09.2025|0       |1      |            |Will start after-6 day/s|Completing EEE-1203                      |
-|Materials -- All slides + notes                           |19.09.2025|22.09.2025|0       |1      |            |Will start after-14 day/s|Completing EEE-1205                      |
-|Learning Cooking                                          |11.09.2025|-         |0       |1      |mon, tue    |Will start after-6 day/s|Side skill                               |
+|Electronics -- Diode, Transistor, Connection              |7.09.2025 |10.09.2025|0       |1      |            |Will start after-1 day/s|Completing EEE-1203                      |
+|Electronics -- BJT, MOSFET, FET                           |11.09.2025|18.09.2025|0       |1      |            |Will start after-5 day/s|Completing EEE-1203                      |
+|Materials -- All slides + notes                           |19.09.2025|22.09.2025|0       |1      |            |Will start after-13 day/s|Completing EEE-1205                      |
+|Learning Cooking                                          |11.09.2025|-         |0       |1      |mon, tue    |Will start after-5 day/s|Side skill                               |
 |Can't Hurt me -- 2 pages daily                            |2.09.2025 |-         |0       |1      |            |✅                       |Emotional Intelligence growth            |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
@@ -23,13 +23,13 @@
 |NBMM                                    |02.09.2025|-         |0       |1      |            |✅      |Removing Bad habits           |
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
-|Tasks                                                         |From      |To        |Offdays |Ondays |Weekday Off |Status     |Description                                                                                                                                                                                                |
-|--------------------------------------------------------------|----------|----------|--------|-------|------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Handwritten Analyse minimum one copy (main task)              |02.09.2025|-         |0       |1      |            |✅         |from finding a good copy online, to writing that copy by hand <br>and then writing the analyse it by writing detials in hand, <br> takes around 40 minute to 1 & half hour depends on how large the copy is|
-|read minimum 20 page of any book (daily task)                 |02.09.2025|-         |0       |1      |            |✅         |as a slow reader 20 page takes me <br>something around 1 & half hour to 2 hour, depends on the density of lines in a page                                                                                  |
-|100 push up                                                   |02.09.2025|-         |0       |1      |            |✅         |Staying healthy                                                                                                                                                                                            |
-|NBMM                                                          |02.09.2025|-         |0       |1      |            |✅         |Staying healthy                                                                                                                                                                                            |
-|No anime,social media, no yt<br>but certain videos are allowed|02.09.2025|-         |0       |1      |fri         |WeekOff Day|Only videos allowed to watch, my skill related <br>copywriting/leadership/speaking/motivation                                                                                                              |
+|Tasks                                                         |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                                                                                                                                                                                |
+|--------------------------------------------------------------|----------|----------|--------|-------|------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Handwritten Analyse minimum one copy (main task)              |02.09.2025|-         |0       |1      |            |✅      |from finding a good copy online, to writing that copy by hand <br>and then writing the analyse it by writing detials in hand, <br> takes around 40 minute to 1 & half hour depends on how large the copy is|
+|read minimum 20 page of any book (daily task)                 |02.09.2025|-         |0       |1      |            |✅      |as a slow reader 20 page takes me <br>something around 1 & half hour to 2 hour, depends on the density of lines in a page                                                                                  |
+|100 push up                                                   |02.09.2025|-         |0       |1      |            |✅      |Staying healthy                                                                                                                                                                                            |
+|NBMM                                                          |02.09.2025|-         |0       |1      |            |✅      |Staying healthy                                                                                                                                                                                            |
+|No anime,social media, no yt<br>but certain videos are allowed|02.09.2025|-         |0       |1      |fri         |✅      |Only videos allowed to watch, my skill related <br>copywriting/leadership/speaking/motivation                                                                                                              |
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                  |From      |To        |Offdays |Ondays |Weekday Off |Status                   |Description                                        |
@@ -41,20 +41,20 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                   |From      |To        |Offdays |Ondays |Weekday Off               |Status     |Description                                                                           |
 |--------------------------------------------------------|----------|----------|--------|-------|--------------------------|-----------|--------------------------------------------------------------------------------------|
-|Academic study 2 hours-**(MT)**                         |02.09.2025|-         |0       |1      |fri                       |WeekOff Day|Review Academic and stay in Education                                                 |
+|Academic study 2 hours-**(MT)**                         |02.09.2025|-         |0       |1      |fri                       |✅         |Review Academic and stay in Education                                                 |
 |Exercise 20 minutes-DT                                  |02.09.2025|-         |0       |1      |fri,sat                   |WeekOff Day|Trying to be Fit and gain some muscle                                                 |
-|Book Reading(ATOMIC HABITS)30 minutes-DT                |02.09.2025|-         |0       |1      |fri                       |WeekOff Day|Reading                                                                               |
+|Book Reading(ATOMIC HABITS)30 minutes-DT                |02.09.2025|-         |0       |1      |fri                       |✅         |Reading                                                                               |
 |Safe from bad habit (#) -DT                             |02.09.2025|-         |1       |15     |                          |✅         |To remove a bad habit from my life                                                    |
-|Entertainment 2 hours to less-DT                        |02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |✅         |For free time entertainment                                                           |
-|Class Eight(Sub Things)-DT                              |02.09.2025|-         |0       |1      |sun,tue,thu,fri           |WeekOff Day|Trying to build a student network on FB group, YT & Discord to sell educational course|
-|Class Eight(Main things 6 to max hours)-**(OFF Day MT)**|02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |✅         |Trying to build a student network on FB group, YT & Discord to sell educational course|
+|Entertainment 2 hours to less-DT                        |02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|For free time entertainment                                                           |
+|Class Eight(Sub Things)-DT                              |02.09.2025|-         |0       |1      |sun,tue,thu,fri           |✅         |Trying to build a student network on FB group, YT & Discord to sell educational course|
+|Class Eight(Main things 6 to max hours)-**(OFF Day MT)**|02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|Trying to build a student network on FB group, YT & Discord to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
-|Tasks                           |From      |To        |Offdays |Ondays |Weekday Off |Status     |Description                                     |
-|--------------------------------|----------|----------|--------|-------|------------|-----------|------------------------------------------------|
-|HVAC Design learning (main task)|02.09.2025|-         |0       |1      |        |WeekOff Day|AutoCad/REvit,lode calcs,duct & piping design   |
-|Non Fiction Book Reading        |02.09.2025|-         |0       |1      |        |✅         |Personal Grow                                   |
-|Devolop my field (Mechanical)   |02.09.2025|-         |0       |1      |        |WeekOff Day|Learn,practice and improve in Mechanical systems|
+|Tasks                           |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                     |
+|--------------------------------|----------|----------|--------|-------|------------|--------|------------------------------------------------|
+|HVAC Design learning (main task)|02.09.2025|-         |0       |1      |            |✅      |AutoCad/REvit,lode calcs,duct & piping design   |
+|Non Fiction Book Reading        |02.09.2025|-         |0       |1      |            |✅      |Personal Grow                                   |
+|Devolop my field (Mechanical)   |02.09.2025|-         |0       |1      |            |✅      |Learn,practice and improve in Mechanical systems|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                  |

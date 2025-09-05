@@ -1,4 +1,4 @@
->## Date: 05 September, 2025
+## Date: 06 September, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -15,10 +15,10 @@
 |-----------------------------------------|----------------------------|
 |Learn Data Handing for 3 hour **(Main)** | <ul><li> [ ] done</li></ul>|
 |Study Maths for 3 hour **(Main)**        | <ul><li> [ ] done</li></ul>|
-|Practice Chess for 30 min                | <ul><li> [x] done</li></ul>|
-|Workout                                  | <ul><li> [x] done</li></ul>|
-|Reading The art of Thinking Clearly      | <ul><li> [x] done</li></ul>|
-|NBMM                                     | <ul><li> [x] done</li></ul>|
+|Practice Chess for 30 min                | <ul><li> [ ] done</li></ul>|
+|Workout                                  | <ul><li> [ ] done</li></ul>|
+|Reading The art of Thinking Clearly      | <ul><li> [ ] done</li></ul>|
+|NBMM                                     | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                          |Completed                   |
@@ -27,24 +27,28 @@
 |read minimum 20 page of any book (daily task)                  | <ul><li> [ ] done</li></ul>|
 |100 push up                                                    | <ul><li> [ ] done</li></ul>|
 |NBMM                                                           | <ul><li> [ ] done</li></ul>|
+|No anime,social media, no yt<br>but certain videos are allowed | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
 |----------------------------------------|----------------------------|
-|Learning Japanese (main)                | <ul><li> [x] done</li></ul>|
-|Studying Japanese n3                    | <ul><li> [x] done</li></ul>|
+|Learning Japanese (main)                | <ul><li> [ ] done</li></ul>|
+|Studying Japanese n3                    | <ul><li> [ ] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
 |---------------------------------------------------------|----------------------------|
-|Safe from bad habit (#) -DT                              | <ul><li> [x] done</li></ul>|
-|Entertainment 2 hours to less-DT                         | <ul><li> [x] done</li></ul>|
-|Class Eight(Main things 6 to max hours)-**(OFF Day MT)** | <ul><li> [x] done</li></ul>|
+|Academic study 2 hours-**(MT)**                          | <ul><li> [ ] done</li></ul>|
+|Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
+|Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
+|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
 |---------------------------------|----------------------------|
-|Non Fiction Book Reading         | <ul><li> [x] done</li></ul>|
+|HVAC Design learning (main task) | <ul><li> [ ] done</li></ul>|
+|Non Fiction Book Reading         | <ul><li> [ ] done</li></ul>|
+|Devolop my field (Mechanical)    | <ul><li> [ ] done</li></ul>|
 
 ## [Naba Rahman](https://github.com/siyam-git)
 |Tasks                                 |Completed                   |
