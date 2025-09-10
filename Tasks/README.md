@@ -13,12 +13,12 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                    |Completed                   |
 |-----------------------------------------|----------------------------|
-|Learn Data Handing for 3 hour **(Main)** | <ul><li> [ ] done</li></ul>|
-|Study Maths for 3 hour **(Main)**        | <ul><li> [ ] done</li></ul>|
-|Practice Chess for 30 min                | <ul><li> [ ] done</li></ul>|
-|Workout                                  | <ul><li> [ ] done</li></ul>|
-|Reading The art of Thinking Clearly      | <ul><li> [ ] done</li></ul>|
-|NBMM                                     | <ul><li> [ ] done</li></ul>|
+|Learn Data Handing for 3 hour **(Main)** | <ul><li> [x] done</li></ul>|
+|Study Maths for 3 hour **(Main)**        | <ul><li> [x] done</li></ul>|
+|Practice Chess for 30 min                | <ul><li> [x] done</li></ul>|
+|Workout                                  | <ul><li> [x] done</li></ul>|
+|Reading The art of Thinking Clearly      | <ul><li> [x] done</li></ul>|
+|NBMM                                     | <ul><li> [x] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                          |Completed                   |
