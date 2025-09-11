@@ -47,7 +47,7 @@
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
 |---------------------------------|----------------------------|
-|HVAC Design learning (main task) | <ul><li> [ ] done</li></ul>|
+|HVAC Design learning (main task) | <ul><li> [x] done</li></ul>|
 |Non Fiction Book Reading         | <ul><li> [ ] done</li></ul>|
 |Devolop my field (Mechanical)    | <ul><li> [ ] done</li></ul>|
 
