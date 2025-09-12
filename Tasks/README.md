@@ -38,9 +38,9 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
 |---------------------------------------------------------|----------------------------|
-|Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
-|Entertainment 2 hours to less-DT                         | <ul><li> [ ] done</li></ul>|
-|Class Eight(Main things 6 to max hours)-**(OFF Day MT)** | <ul><li> [ ] done</li></ul>|
+|Safe from bad habit (#) -DT                              | <ul><li> [x] done</li></ul>|
+|Entertainment 2 hours to less-DT                         | <ul><li> [x] done</li></ul>|
+|Class Eight(Main things 6 to max hours)-**(OFF Day MT)** | <ul><li> [x] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
