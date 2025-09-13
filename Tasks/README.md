@@ -1,4 +1,4 @@
-## Date: 13 September, 2025
+## Date: 14 September, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -14,12 +14,12 @@
 ## [RT Jeion](https://github.com/RT-Jeion)
 |Tasks                                    |Completed                   |
 |-----------------------------------------|----------------------------|
-|Learn Data Handing for 3 hour **(Main)** | <ul><li> [x] done</li></ul>|
-|Study Maths for 3 hour **(Main)**        | <ul><li> [x] done</li></ul>|
-|Practice Chess for 30 min                | <ul><li> [x] done</li></ul>|
-|Workout                                  | <ul><li> [x] done</li></ul>|
-|Reading The art of Thinking Clearly      | <ul><li> [x] done</li></ul>|
-|NBMM                                     | <ul><li> [x] done</li></ul>|
+|Learn Data Handing for 3 hour **(Main)** | <ul><li> [ ] done</li></ul>|
+|Study Maths for 3 hour **(Main)**        | <ul><li> [ ] done</li></ul>|
+|Practice Chess for 30 min                | <ul><li> [ ] done</li></ul>|
+|Workout                                  | <ul><li> [ ] done</li></ul>|
+|Reading The art of Thinking Clearly      | <ul><li> [ ] done</li></ul>|
+|NBMM                                     | <ul><li> [ ] done</li></ul>|
 
 ## [Zubair Ahmed](https://github.com/zubair-rex)
 |Tasks                                                          |Completed                   |
@@ -33,16 +33,16 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
 |----------------------------------------|----------------------------|
-|Learning Japanese (main)                | <ul><li> [x] done</li></ul>|
-|Studying Japanese n3                    | <ul><li> [x] done</li></ul>|
+|Learning Japanese (main)                | <ul><li> [ ] done</li></ul>|
+|Studying Japanese n3                    | <ul><li> [ ] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
 |---------------------------------------------------------|----------------------------|
 |Academic study 2 hours-**(MT)**                          | <ul><li> [ ] done</li></ul>|
+|Exercise 20 minutes-DT                                   | <ul><li> [ ] done</li></ul>|
 |Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
-|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
