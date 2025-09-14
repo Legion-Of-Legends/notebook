@@ -8,8 +8,8 @@
 |Circuit -- 3-phase, Coupled Circuit, Filter               |2.09.2025 |6.09.2025 |0       |1      |            |Task Expired           |Completing EEE-1201                      |
 |Electronics -- Diode, Transistor, Connection              |7.09.2025 |10.09.2025|0       |1      |            |Task Expired           |Completing EEE-1203                      |
 |Electronics -- BJT, MOSFET, FET                           |11.09.2025|18.09.2025|0       |1      |            |✅                      |Completing EEE-1203                      |
-|Materials -- All slides + notes                           |19.09.2025|22.09.2025|0       |1      |            |Will start after-5 day/s|Completing EEE-1205                      |
-|Learning Cooking                                          |11.09.2025|-         |0       |1      |mon, tue    |✅                      |Side skill                               |
+|Materials -- All slides + notes                           |19.09.2025|22.09.2025|0       |1      |            |Will start after-4 day/s|Completing EEE-1205                      |
+|Learning Cooking                                          |11.09.2025|-         |0       |1      |mon, tue    |WeekOff Day            |Side skill                               |
 |Can't Hurt me -- 2 pages daily                            |2.09.2025 |-         |0       |1      |            |✅                      |Emotional Intelligence growth            |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
@@ -46,7 +46,7 @@
 |Book Reading(ATOMIC HABITS)30 minutes-DT                |02.09.2025|-         |0       |1      |fri                       |✅         |Reading                                                                               |
 |Safe from bad habit (#) -DT                             |02.09.2025|-         |1       |15     |                          |✅         |To remove a bad habit from my life                                                    |
 |Entertainment 2 hours to less-DT                        |02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|For free time entertainment                                                           |
-|Class Eight(Sub Things)-DT                              |02.09.2025|-         |0       |1      |sun,tue,thu,fri           |WeekOff Day|Trying to build a student network on FB group, YT & Discord to sell educational course|
+|Class Eight(Sub Things)-DT                              |02.09.2025|-         |0       |1      |sun,tue,thu,fri           |✅         |Trying to build a student network on FB group, YT & Discord to sell educational course|
 |Class Eight(Main things 6 to max hours)-**(OFF Day MT)**|02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|Trying to build a student network on FB group, YT & Discord to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
