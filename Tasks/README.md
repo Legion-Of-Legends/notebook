@@ -33,8 +33,8 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
 |----------------------------------------|----------------------------|
-|Learning Japanese (main)                | <ul><li> [ ] done</li></ul>|
-|Studying Japanese n3                    | <ul><li> [ ] done</li></ul>|
+|Learning Japanese (main)                | <ul><li> [x] done</li></ul>|
+|Studying Japanese n3                    | <ul><li> [x] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
