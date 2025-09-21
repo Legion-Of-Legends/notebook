@@ -1,4 +1,4 @@
-## Date: 21 September, 2025
+## Date: 22 September, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -8,7 +8,6 @@
 |MS word + Excel + PowerPoint advanced learning             | <ul><li> [ ] done</li></ul>|
 |AI agent advanced learning                                 | <ul><li> [ ] done</li></ul>|
 |Materials -- All slides + notes                            | <ul><li> [ ] done</li></ul>|
-|Learning Cooking                                           | <ul><li> [ ] done</li></ul>|
 |Can't Hurt me -- 2 pages daily                             | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
@@ -43,6 +42,7 @@
 |Exercise 20 minutes-DT                                   | <ul><li> [ ] done</li></ul>|
 |Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
+|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
