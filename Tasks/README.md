@@ -1,4 +1,4 @@
-## Date: 22 September, 2025
+## Date: 23 September, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -7,7 +7,7 @@
 |Study for 8 hours everyday (for semester final) **(Main)** | <ul><li> [ ] done</li></ul>|
 |MS word + Excel + PowerPoint advanced learning             | <ul><li> [ ] done</li></ul>|
 |AI agent advanced learning                                 | <ul><li> [ ] done</li></ul>|
-|Materials -- All slides + notes                            | <ul><li> [ ] done</li></ul>|
+|Learning Cooking                                           | <ul><li> [ ] done</li></ul>|
 |Can't Hurt me -- 2 pages daily                             | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
@@ -32,8 +32,8 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
 |----------------------------------------|----------------------------|
-|Learning Japanese (main)                | <ul><li> [x] done</li></ul>|
-|Studying Japanese n3                    | <ul><li> [x] done</li></ul>|
+|Learning Japanese (main)                | <ul><li> [ ] done</li></ul>|
+|Studying Japanese n3                    | <ul><li> [ ] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
@@ -42,7 +42,6 @@
 |Exercise 20 minutes-DT                                   | <ul><li> [ ] done</li></ul>|
 |Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
-|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
