@@ -1,4 +1,4 @@
-## Date: 24 September, 2025
+## Date: 25 September, 2025
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -32,8 +32,8 @@
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
 |----------------------------------------|----------------------------|
-|Learning Japanese (main)                | <ul><li> [x] done</li></ul>|
-|Studying Japanese n3                    | <ul><li> [x] done</li></ul>|
+|Learning Japanese (main)                | <ul><li> [ ] done</li></ul>|
+|Studying Japanese n3                    | <ul><li> [ ] done</li></ul>|
 
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
@@ -42,7 +42,6 @@
 |Exercise 20 minutes-DT                                   | <ul><li> [ ] done</li></ul>|
 |Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
-|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
