@@ -46,7 +46,7 @@
 |Book Reading(ATOMIC HABITS)30 minutes-DT                |02.09.2025|-         |0       |1      |fri                       |✅         |Reading                                                                               |
 |Safe from bad habit (#) -DT                             |02.09.2025|-         |1       |15     |                          |✅         |To remove a bad habit from my life                                                    |
 |Entertainment 2 hours to less-DT                        |02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|For free time entertainment                                                           |
-|Class Eight(Sub Things)-DT                              |02.09.2025|-         |0       |1      |sun,tue,thu,fri           |✅         |Trying to build a student network on FB group, YT & Discord to sell educational course|
+|Class Eight(Sub Things)-DT                              |02.09.2025|-         |0       |1      |sun,tue,thu,fri           |WeekOff Day|Trying to build a student network on FB group, YT & Discord to sell educational course|
 |Class Eight(Main things 6 to max hours)-**(OFF Day MT)**|02.09.2025|-         |0       |1      |sat,sun,mon,tue,wed,thu   |WeekOff Day|Trying to build a student network on FB group, YT & Discord to sell educational course|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
@@ -57,7 +57,7 @@
 |Devolop my field (Mechanical)   |02.09.2025|-         |0       |1      |            |✅      |Learn,practice and improve in Mechanical systems|
 
 ## [Naba Rahman](https://github.com/siyam-git)
-|Tasks                                |From      |To        |Offdays |Ondays |Weekday Off |Status  |Description                                  |
-|-------------------------------------|----------|----------|--------|-------|------------|--------|---------------------------------------------|
-|Entertainment   3 hour               |19.08.2025|31.12.2025|0       |1      |            |✅      |AutoCad/REvit,lode calcs,duct & piping design|
-|Non Fiction Book Reading (30 minutes)|19.08.2025|-         |0       |1      |            |✅      |Personal Grow                                |
+|Tasks                                |From      |To        |Offdays |Ondays |Weekday Off |Status      |Description                                  |
+|-------------------------------------|----------|----------|--------|-------|------------|------------|---------------------------------------------|
+|Entertainment   3 hour               |19.08.2025|31.12.2025|0       |1      |            |Task Expired|AutoCad/REvit,lode calcs,duct & piping design|
+|Non Fiction Book Reading (30 minutes)|19.08.2025|-         |0       |1      |            |✅          |Personal Grow                                |
