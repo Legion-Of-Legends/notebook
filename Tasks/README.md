@@ -1,4 +1,4 @@
-## Date: 30 January, 2026
+## Date: 31 January, 2026
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -24,6 +24,7 @@
 |read minimum 20 page of any book (daily task)                  | <ul><li> [ ] done</li></ul>|
 |100 push up                                                    | <ul><li> [ ] done</li></ul>|
 |NBMM                                                           | <ul><li> [ ] done</li></ul>|
+|No anime,social media, no yt<br>but certain videos are allowed | <ul><li> [ ] done</li></ul>|
 
 ## [Mahmud Hasan](https://github.com/mahmud1223)
 |Tasks                                   |Completed                   |
@@ -34,9 +35,10 @@
 ## [Alfi Ahmed](https://github.com/alfiahmed160)
 |Tasks                                                    |Completed                   |
 |---------------------------------------------------------|----------------------------|
+|Academic study 2 hours-**(MT)**                          | <ul><li> [ ] done</li></ul>|
+|Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
-|Entertainment 2 hours to less-DT                         | <ul><li> [ ] done</li></ul>|
-|Class Eight(Main things 6 to max hours)-**(OFF Day MT)** | <ul><li> [ ] done</li></ul>|
+|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
