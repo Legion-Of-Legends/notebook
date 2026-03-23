@@ -1,9 +1,10 @@
-## Date: 23 March, 2026
+## Date: 24 March, 2026
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                      |Completed                   |
 |-----------------------------------------------------------|----------------------------|
+|Learning Cooking                                           | <ul><li> [ ] done</li></ul>|
 |Can't Hurt me -- 2 pages daily                             | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
@@ -38,7 +39,6 @@
 |Exercise 20 minutes-DT                                   | <ul><li> [ ] done</li></ul>|
 |Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
-|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
