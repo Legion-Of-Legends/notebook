@@ -1,4 +1,4 @@
-## Date: 14 July, 2026
+## Date: 15 July, 2026
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
@@ -39,6 +39,7 @@
 |Exercise 20 minutes-DT                                   | <ul><li> [ ] done</li></ul>|
 |Book Reading(ATOMIC HABITS)30 minutes-DT                 | <ul><li> [ ] done</li></ul>|
 |Safe from bad habit (#) -DT                              | <ul><li> [ ] done</li></ul>|
+|Class Eight(Sub Things)-DT                               | <ul><li> [ ] done</li></ul>|
 
 ## [Tanvir Hasan](https://github.com/tanvir7hasan)
 |Tasks                            |Completed                   |
