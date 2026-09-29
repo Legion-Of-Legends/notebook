@@ -1,9 +1,10 @@
-## Date: 28 September, 2026
+## Date: 30 September, 2026
 
 
 ## [Md. Emam Mehedi](https://github.com/mdemammehedi-159)
 |Tasks                                                      |Completed                   |
 |-----------------------------------------------------------|----------------------------|
+|Learning Cooking                                           | <ul><li> [ ] done</li></ul>|
 |Can't Hurt me -- 2 pages daily                             | <ul><li> [ ] done</li></ul>|
 
 ## [RT Jeion](https://github.com/RT-Jeion)
