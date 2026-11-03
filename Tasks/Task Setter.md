@@ -9,7 +9,7 @@
 |Electronics -- Diode, Transistor, Connection              |7.09.2025 |10.09.2025|0       |1      |            |Task Expired|Completing EEE-1203                      |
 |Electronics -- BJT, MOSFET, FET                           |11.09.2025|18.09.2025|0       |1      |            |Task Expired|Completing EEE-1203                      |
 |Materials -- All slides + notes                           |19.09.2025|22.09.2025|0       |1      |            |Task Expired|Completing EEE-1205                      |
-|Learning Cooking                                          |11.09.2025|-         |0       |1      |mon, tue    |WeekOff Day|Side skill                               |
+|Learning Cooking                                          |11.09.2025|-         |0       |1      |mon, tue    |✅          |Side skill                               |
 |Can't Hurt me -- 2 pages daily                            |2.09.2025 |-         |0       |1      |            |✅          |Emotional Intelligence growth            |
 
 ## [RT Jeion](https://github.com/RT-Jeion)
